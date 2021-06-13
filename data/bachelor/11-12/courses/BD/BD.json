@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Basi di dati",
+  "docente": "Loredana Vigliano",
+  "annoAccademico": "2011-2012",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Introduzione\r - Modello relazionale \r- Algebra relazionale \r- Calcolo relazionale \r- Flusso di progetto e visione dei dati \r- Modello concettuale dei dati \r- Disegno logico DB \r Schema Entity-relationship \r- Disegno fisico DB \r- Forme normali \r- Query language e implementazioni su mySQL \rDML \rSQL \r - Organizzazione fisica dei dati \r- Ottimizzazione degli indici \r- Modellazione dei dati in UML \r- Normalizzazione e Denormalizzazione \r- Ottimizzazione delle interrogazioni \r ------ MySQL e ottimizzazioni  - Transazioni \r------ Locking a due fasi, Timestamp,MVCC \r------ MySQL e Storage Engine  - Basi di dati attive \r------ Trigger e Stored Procedure \r------ Cursor, Trigger e Stored Procedure in MySQL  - Basi di dati a oggetti \r------ Basi di dati geospaziali e GIS - Basi di dati per XML (lettura) \r- Basi di dati su architetture distribuite \r------ Commit a due fasi - Architetture dei sistemi informativi su Web (lettura) \r- Architetture per l' analisi dei dati \ro Data Warehouse \r------ Data Mining  - Simulazione progetto",
+  "testiRiferimento": "- Atzeni, Ceri,Parboschi, Torlone Basi di dati, modelli e linguaggi di interrogazione McGraw-Hill ; \r- Welling-Thomson MySQL Tutorial (opzionale) ; \r - Atzeni,Ceri,Fraternali,Paraboschi,Torlone Basi di dati - \rArchitetture e linee di evoluzione ed. McGraw-Hill 2nd edition \r- Schwartz,Zaitsev,Tkachenko,Zawodny, Lentz & Balling High Performance MySQL ed. O'Reilly 2nd edition \r - lucidi di L. Vigliano presentati a Lezione\r Consigliati :\r- Elmasri,Navathe  Sistemi di basi di dati Pearson",
+  "ricevimento": "In aula alla fine delle lezioni o previo appuntamento via mail",
+  "modalit\u00e0Esame": "null"
+}

@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Inferenza statistica e teoria dell'informazione",
+  "docente": "Andrea Dimitri, Claudio Macci",
+  "annoAccademico": "2014-2015",
+  "crediti": "6",
+  "settore": "MAT/06",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "18-11-2014 12:46",
+      "contenuto": "Prima parte (Macci)\nSito permanente con tutte le informazioni (non solo sulla prima parte):\nhttp://www.mat.uniroma2.it/~macci/didattica-informatica-magistrale.htm\n\nSeconda parte (Dimitri)\nProgramma\nRichiami di calcolo delle probabilit\u00e0.Il teorema di Bayes.La chain rule.La matrice dei dati.Il problema di apprendere le relazioni fra le variabili.Modelli di apprendimento: regressione, bayesiano.Il modello di rete bayesiana: definizione.Le fasi di costruzione e uso di una rete bayesiana: - individuazione di un ordinamento- semplificazione da una chain rule- stima delle problabilit\u00e0 condizionate- verifica della bont\u00e0 del modello- inferenza (calcolo di probabilit\u00e0 secondo una regola)- learning, previsione di dati futuri- costruzione di un modello bayesiano come raffinamento di una problabilit\u00e0 a priori sulle distribuzioni- bonta di un modello: il test del chi-quadro.TestiD. Heckerman A tutorial on learning with bayesian networks. Technical Report 1995. (Fino a paragrafo 5 incluso)P. Spirtes Introduction to Causal Inference Journal of Machine Learning Research 11 (2010) 1643-1662 (Fino a paragrafo 3.1 incluso)"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "null",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

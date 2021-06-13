@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Ricerca operativa",
+  "docente": "Andrea Scozzari",
+  "annoAccademico": "2013-2014",
+  "crediti": "6",
+  "settore": "MAT/09",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "07-11-2013 15:58",
+      "contenuto": "E' possibile contattare il docente via email al seguente indirizzo:\nandrea.scozzari@unicusano.it"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Modelli di Programmazione Lineare. Il Metodo del Simplesso. L\u2019algoritmo del Simplesso. Geometria della Programmazione Lineare. La Dualit\u00e0 nella Programmazione Lineare. Interpretazione economica della Dualit\u00e0 e analisi di Sensitivit\u00e0.\n\n\nProblemi su Rete. Il problema del Flusso a Costo Minimo, il problema del Trasporto, il problema del Flusso Massimo. Applicazioni dei problemi su Rete. La complessit\u00e0 della Programmazione Lineare. Cenni su Programmazione Lineare Intera. Metodo dei piani di taglio.",
+  "testiRiferimento": "Testi di riferimento:\nMateriale messo a disposizione dal docente.\nMatteo Fischetti: Lezioni di Ricerca Operativa. Edizioni Libreria Progetto Padova. ISBN 88-87331-04-09.\nAntonio Sassano: Modelli e algoritmi della Ricerca Operativa. Franco Angeli, Scienze e Tecnologie Informatiche.\u00a0ISBN 88-464-5943-1.\n\nVasek Chvatal: Linear Programming.W.H. Freeman and Company, New York. ISBN 0-7167-1587-2.",
+  "ricevimento": "Il ricevimento dopo la lezione",
+  "modalit\u00e0Esame": "Scritto e Orale"
+}

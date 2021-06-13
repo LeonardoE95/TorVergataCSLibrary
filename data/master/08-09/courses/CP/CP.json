@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Calcolo delle probabilit\u00e0",
+  "docente": "Antonella Calzolari, Antonella Calzolari",
+  "annoAccademico": "2008-2009",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Dopo aver richiamato le nozioni di base sulle variabili aleatorie,\r\nil corso espone la teoria elementare dei seguenti modelli\r\nstocastici: processo di Poisson, processi di rinnovo, catene di\r\nMarkov con spazio degli stati numerabile, file d'attesa.",
+  "testiRiferimento": "S.M.Ross, Introduction to Probability Models, Boston:Academic Press, 1989\r\nH.C.Tijms, A First Course in Stochastic Models,Wiley, Chichester and New York, 2003\r\nP.Baldi, Calcolo delle probabilit\u00e0, McGraw-Hill, 2007\r\nA.Calzolari, Appunti sulle Catene di Markov, manoscritto, 2007, versione elettronica in  allegato",
+  "ricevimento": "in studio (stanza 1202) luned\u00ec ore 14",
+  "modalit\u00e0Esame": "null"
+}

@@ -1,0 +1,33 @@
+{
+  "nomeCorso": "Analisi Matematica",
+  "docente": "Francesco Fidaleo",
+  "annoAccademico": "2018-2019",
+  "crediti": "9",
+  "settore": "MAT/05",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "calendario esami",
+      "data": "29-12-2018 13:37",
+      "contenuto": "-1 Esonero: 23 Novembre ore 14:30, aula 4PP2 (la puntualit\u00e0 \u00e8 strettamente raccomandata)\n-Tutoraggio: 16 e 30 Novembre ore 14:00, aula 4PP2, e dal 7 Dicembre stessa ora nell'aula 7PP2\n-2 Esonero: 22 Gennaio ore 10:15, aula T8 (la puntualit\u00e0 \u00e8 strettamente raccomandata, presentarsi con documento di riconoscimento)"
+    },
+    {
+      "titolo": "",
+      "data": "12-11-2018 10:45",
+      "contenuto": "-Esonero: 23 Novembre ore 14:30, aula 4PP2 (la puntualit\u00e0 \u00e8 strettamente raccomandata)\n-Tutoraggio: 16 e 30 Novembre ore 14:00, aula 4PP2, e dal 7 Dicembre stessa ora nell'aula 7PP2"
+    },
+    {
+      "titolo": "sito docente",
+      "data": "09-10-2018 11:00",
+      "contenuto": "Tutte le informazioni e il materiale didattico corrispondente, sono contenute nel sito del docente:\n\nhttps://www.mat.uniroma2.it/~fidaleo/Anainf-2018-19.html"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Tutte le informazioni e il materiale didattico corrispondente, sono contenute nel sito del docente:\n\nhttps://www.mat.uniroma2.it/~fidaleo/Anainf-2018-19.html",
+  "testiRiferimento": "Tutte le informazioni e il materiale didattico corrispondente, sono contenute nel sito del docente:\n\nhttps://www.mat.uniroma2.it/~fidaleo/Anainf-2018-19.html",
+  "ricevimento": "Tutte le informazioni e il materiale didattico corrispondente, sono contenute nel sito del docente:\n\nhttps://www.mat.uniroma2.it/~fidaleo/Anainf-2018-19.html",
+  "modalit\u00e0Esame": "Tutte le informazioni e il materiale didattico corrispondente, sono contenute nel sito del docente:\n\nhttps://www.mat.uniroma2.it/~fidaleo/Anainf-2018-19.html"
+}

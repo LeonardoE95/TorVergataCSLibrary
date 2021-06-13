@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Ingegneria del software",
+  "docente": "Giorgio Gambosi",
+  "annoAccademico": "2004-2005",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "null",
+  "testiRiferimento": "Ian Sommerville \"Software Engineering 7\"\r\nPEARSON ADDISON-WESLEY \r\nCapitoli 1-8, 10\r\nCapitolo 11 opzionale",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

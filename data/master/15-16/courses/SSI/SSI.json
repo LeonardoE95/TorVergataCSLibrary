@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Sicurezza dei sistemi informativi",
+  "docente": "Andrea Dimitri",
+  "annoAccademico": "2015-2016",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "1) Richiami di crittografia, crittografia simmetrica e asimmetrica, identit\u00e0 digitale,\ncenni sulle Pki, cenni sul protocollo SSL.\n2) Sistemi complessi\n3) Modelli organizzativi e strumenti per lo studio dell'architettura degli stessi\n4) Sicurezza di un modello organizzativo\n5) Sicurezza infrastrutturale: sicurezza delle reti\n6) Sicurezza dei sistemi organizzativi su Web\n7) Anomalie dei processi: strumenti di rilevazione e analisi\n8) Anomalie tecnologiche: strumenti di rilevazione e analisi\n\n\nStrumenti didattici\n\nDispense a cura del docente.\n\nLibri consigliati\n\nStallings, W. Crittografia e Sicurezza delle Reti. McGraw Hill.\nKaufman,C. & Perlman, R. & Speciner, M. Network Security. Prentice Hall\nMitchell T., Machine Learning. McGraw Hill.",
+  "testiRiferimento": "Strumenti didattici\n\nDispense a cura del docente.\n\nLibri consigliati\n\nStallings, W. Crittografia e Sicurezza delle Reti. McGraw Hill.\nKaufman,C. & Perlman, R. & Speciner, M. Network Security. Prentice Hall\nMitchell T., Machine Learning. McGraw Hill.",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "L'esame \u00e8 orale. Durante lo svolgimento delle lezioni vengono assegnati alcuni esercizi agli studenti. Tali esercizi possono essere utilizzati e discussi in sede di esame dallo studente come strumento di verifica della sua preparazione."
+}

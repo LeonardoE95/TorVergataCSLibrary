@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Ingegneria del software",
+  "docente": "Benedetto Intrigila",
+  "annoAccademico": "2011-2012",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Linguaggi e metodologie di programmazione.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Prima Parte:\rIl ciclo di vita del software\rGestione dei requisiti software (Principalmente).\rDesign (Cenni).\rSviluppo (Cenni).\rVerifica e validazione (Cenni).",
+  "testiRiferimento": "I. Sommerville\rSoftware Engineering 7 \r (come integrazione consultare anche:\rMACIASZEK, L.A. and LIONG, B.L. (2005):\rPractical Software Engineering. A Case Study Approach\rAddison Wesley)\r Per UML:\rL. Baresi, L. Lavazza, M. Pianciamore\rDall'idea al codice con UML 2\rAddison Wesley",
+  "ricevimento": "Studio 1212 Dente B (tel. 0672594670) Martedi ore 16-18\remail:intrigil@mat.uniroma2.it",
+  "modalit\u00e0Esame": "null"
+}

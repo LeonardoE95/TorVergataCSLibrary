@@ -1,0 +1,53 @@
+{
+  "nomeCorso": "Teoria della sicurezza e crittografia",
+  "docente": "Maurizio Talamo",
+  "annoAccademico": "2018-2019",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "27-11-2018 10:02",
+      "contenuto": "Y = blum number (k-th power of a quadratic residue of (p*q))\nK = the Kth-radix we want to obtain\n\n((p+1)/4)K\u00a0mod (p-1)\nrp = Y mod p\n\n((q+1)/4)K\u00a0mod (q-1)\nrq = Y mod q\n\nr1 = inverse_modulo(q, p)\nr2 = inverse_modulo(q, p)\n\n\nr1 = r1 * q * rp;\nr2 = r2 * p * rq;\n\nresult = (r1+r2)"
+    },
+    {
+      "titolo": "",
+      "data": "27-11-2018 09:48",
+      "contenuto": "(2i\u00a0mod ((p-1)*(q-1)))\nX mod (p*q)\n\nCalcolo i-esimo blum a partire da X."
+    }
+  ],
+  "lezioni": [],
+  "materiale": [
+    {
+      "titolo": "Articolo di ricerca sulla sicurezza delle smart card",
+      "dataUpload": "11.12.2018 12:14:35",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/TSC/17-840.pdf",
+      "dimensione": "1544 KB"
+    },
+    {
+      "titolo": "Documentazione su smart cart di identificazione e firma elettronica",
+      "dataUpload": "11.12.2018 12:10:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/TSC/cie_3.0_-_specifiche_chip.pdf",
+      "dimensione": "617 KB"
+    },
+    {
+      "titolo": "Documentazione su smart cart di identificazione e firma elettronica",
+      "dataUpload": "11.12.2018 12:10:30",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/TSC/IAS_ECC_v1.0.1_UK.pdf",
+      "dimensione": "1548 KB"
+    },
+    {
+      "titolo": "Documentazione su smart cart di identificazione e firma elettronica",
+      "dataUpload": "11.12.2018 12:10:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/TSC/filesystemcns_20160610.pdf",
+      "dimensione": "344 KB"
+    }
+  ],
+  "programma": "null",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

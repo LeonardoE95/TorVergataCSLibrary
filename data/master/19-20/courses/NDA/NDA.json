@@ -1,0 +1,29 @@
+{
+  "nomeCorso": "Natural distributed algorithms",
+  "docente": "Emanuele Natale",
+  "annoAccademico": "2019-2020",
+  "crediti": "3",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Modalit\u00e0 di verbalizzazione corso NDA",
+      "data": "17-01-2020 14:07",
+      "contenuto": "Il sito del corso\u00e8 stato aggiornato con informazioni relative alla verbalizzazione del voto finale."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "04-11-2019",
+      "contenuto": "Il diario delle lezioni \u00e8 disponibile sul\u00a0sito del corso."
+    }
+  ],
+  "materiale": [],
+  "programma": "Disponibile sul sito del corso.",
+  "testiRiferimento": "Disponibili sul\u00a0sito del corso.",
+  "ricevimento": "Su appuntamento il luned\u00ec pomeriggio (prima della lezione) e il marted\u00ec dalle 11:00 alle 17:00.",
+  "modalit\u00e0Esame": "Disponibile sul\u00a0sito del corso."
+}

@@ -1,0 +1,68 @@
+{
+  "nomeCorso": "Intelligenza artificiale 1",
+  "docente": "Maria Teresa Pazienza",
+  "annoAccademico": "2013-2014",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Programmazione.",
+  "comunicazioni": [
+    {
+      "titolo": "esame Intelligenza Artificiale 8 settembre 2014",
+      "data": "11-09-2014 17:47",
+      "contenuto": "sono stati pubblicati i risulultati della prova d'esame"
+    },
+    {
+      "titolo": "programma corso IA da 12 crediti",
+      "data": "10-04-2014 15:22",
+      "contenuto": "Come ho avuto modo di dire sia in aula che direttamente agli studenti che me lo hanno chiesto per mail, il programma dell\u2019esame da 12 crediti \u00e8 pari agli argomenti del corso da 6 crediti (tutte le info sul sito del corso) a cui si aggiunge una conoscenza generale dei primi 5 capitoli\u00a0 del libro di Grigoris Antoniou e Frank van Harmelen: A Semantic Web Primer.\nGli argomenti ivi trattati sono stati anche oggetto delle esercitazioni.\nEccoli:\n1 The Semantic Web Vision\n2 Structured Web Documents: XML\n3 Describing Web Resources: RDF\n4 Web Ontology Language: OWL\n5 Logic and Inference: Rules"
+    },
+    {
+      "titolo": "",
+      "data": "20-03-2014 16:48",
+      "contenuto": "mi fa piacere pubblicare la seguente ricerca di personale da parte di una software house qualificata:\nViseohttp://www.viseo.net/the French leader in information systems is looking for an exceptional researcher in the field of data mining with strong skills in\u00a0 machine learning and statistics at their research and development centre located in Grenoble, Francehttp://www.viseo.net/viseo-recherche-et-developpement"
+    },
+    {
+      "titolo": "corso di Intelligenza Artificiale",
+      "data": "29-01-2014 16:16",
+      "contenuto": "con l'esercitazione di oggi 29 gennaio si sono concluse le lezioni del corso"
+    },
+    {
+      "titolo": "esami Intelligenza Artificiale corrente sessione",
+      "data": "27-01-2014 18:38",
+      "contenuto": "Gli studenti potranno presentarsi ad entrambi gli appelli di questa sessione.\nIl risultato della prova d'esonero vale per entrambi gli appelli di questa sessione."
+    },
+    {
+      "titolo": "date esami Intelligenza Artificiale",
+      "data": "24-01-2014 16:14",
+      "contenuto": "Ricordo che le date d\u2019esame sono:\n\n07/02/2014 ore 10,00 aula C6 Didattica Macroarea Ing.\n24/02/2014 ore 10,00 aula 2\u00a0\u00a0 Didattica Macroarea Ing"
+    },
+    {
+      "titolo": "",
+      "data": "17-01-2014 11:22",
+      "contenuto": "Gli argomenti relativi a \u00a0risoluzione, frames, logiche descrittive ed ereditariet\u00e0 servono a comprendere meglio le esercitazioni.\u00a0Basta averne una conoscenza di base e limitatamente a ci\u00f2 che serve per seguire le esercitazioni.\n\nNon verranno poste domande esplicite agli esami."
+    },
+    {
+      "titolo": "materiale didattico corso IA",
+      "data": "13-01-2014 17:40",
+      "contenuto": "Per il materiale di riferimento delle esercitazioni del corso di Intelligenza Artificiale 1 si prega di far riferimento al sito: \u00a0http://art.uniroma2.it/teaching/gdc/part_II/\nLe presentazioni degli argomenti trattati dal docente sono state pubblicate ad ogni lezione sul sito del corso di Intelligenza Artificiale 1, laurea in Informatica."
+    },
+    {
+      "titolo": "nuove aule per le lezioni",
+      "data": "27-11-2013 17:28",
+      "contenuto": "Si comunica che a partire dal 2 dicembre prossimo le lezioni di Intelligenza Artificiale 1 si terranno in aula B2 il luned\u00ec ed in aula C11 il mercoled\u00ec; entrambe le aule sono situate presso i nuovi edifici della didattica di Ingegneria.\nGli orari delle lezioni rimangono invariati."
+    },
+    {
+      "titolo": "esonero 27 novembre",
+      "data": "18-11-2013 17:26",
+      "contenuto": "Si avvisano gli studenti che l'esonero sugli argomenti del corso gi\u00e0 svolti a lezione:\nRicerca di soluzioni,\nRicerca Informata,\nConoscenza e ragionamento\nConoscenza incerta e ragionamento\nsi terr\u00e0 il giorno 27 novembre nell'aula e nelle ore solitamente dedicate alle lezioni del corso."
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Presentazione: argomenti, introduzione  \rStrategie di ricerca \rRappresentazione della conoscenza e ragionamento automatico\rLogica del primo ordine\rBasi di conoscenza: ontologie, inferenza\rSistemi di ragionamento logico: frame e reti semantiche\rIntroduzione al Semantic Web\rRDF/RDFS\r OWL: struttura del linguaggio   \rEsercizi su gestione conoscenza  \rLinguaggi di Interrogazione per il Web Semantico   \rStrumenti per lo sviluppo e la gestione di Ontologie  \rThesauri and Concept Scheme Development: SKOS & SKOS-XL \rEsercizi su gestione conoscenza\rTecnologie per la gestione di repository RDF  \rLinked Open Data",
+  "testiRiferimento": "Libro di testo\r-Intelligenza artificiale: un approccio moderno-, Russel e Norvig; Prentice Hall, vol 1, capitoli 3,7,12\r-Knowledge representation and reasoning-, Brachman e Levesque, MK editors.",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

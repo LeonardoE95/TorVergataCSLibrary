@@ -1,0 +1,243 @@
+{
+  "nomeCorso": "Architettura dei sistemi di elaborazione",
+  "docente": "Alessandro Simonetta",
+  "annoAccademico": "2017-2018",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "APPELLO 25 SETTEMBRE",
+      "data": "26-09-2018 10:54",
+      "contenuto": "COMUNICO AGLI STUDENTI CHE L'APPELLO DI IERI POMERIGGIO E' STATO CORRETTO E VERBALIZZATO. A QUESTO PUNTO\u00a0GLI STUDENTI HANNO TEMPO PER VERIFICARE IL GIUDIZIO E SCEGLIERE SE ACCETTARLO O MENO."
+    },
+    {
+      "titolo": "AUTOVALUTAZIONE PRE-ESAME",
+      "data": "27-09-2017 13:02",
+      "contenuto": "ARCHITETTURE DI CALCOLATORI\n1) Il teorema del campionamento assicura che l'approssimazione discreta di un segnale analogico a banda limitata, \u00e8 senza perdita di informazione utile se?2) La macchina di von Neumann \u00e8 composta da?3) Quanti byte ci sono in 1 KB di memoria?4) Cosa sono il Program Counter e l'Instruction Register?5) Da quanti passaggi si compone il ciclo fetch-decode-execute ?6) Quali sono i principi di progettazione per i computer moderni?7) Un processore SIMD \u00e8 costituito da?8) Per calcolare la distanza di Hamming tra due parole, quale operazione si deve utilizzare?9) In un hard disk le prestazioni dipendono da?10) In un CDROM un settore \u00e8 costituito da quanti frame? Cosa contengono?11) Quali sono la principale differenza tra DVD e CD?12) Per quali valori di A e B l'uguaglianza A+B = A B \u00e8 verificata?13) Quando si pu\u00f2 utilizzare un multiplexer per realizzare una qualsiasi funzione logica?14) Un decoder \u00e8 un circuito combinatorio che pu\u00f2 essere utilizzato per?15) In un circuito digitale \u00e8 possibile collegare due uscite insieme?16) Elencare le caratteristiche delle ROM17) Per incrementare la larghezza di banda di un bus occorre?18) In un Pentium 4 i principali segnali di risposta del bus sono?19) Descrivere lo schema adottato dalla CPU UltraSPARC III per la gestione della cache20) Descrivere l'integrato 805121) Descrivere il memory-mapped I/O\n\nSISTEMI OPERATIVI\n\n22) Quali funzioni ha un Sistema Operativo?23) In un Sistema Operativo le principali astrazioni sono?24) Un processo \u00e8 un concetto chiave presente in ogni Sistema Operativo, si pu\u00f2 definire come?25) I File in UNIX sono protetti con tre bit, a che servono?26) In UNIX ogni processo ha uno spazio di memoria assegnato diviso in tre segmenti, quali?27) Che cos'\u00e8 un Sistema monolitico?28) In quale circostanza sono creati nuovi processi? E in quale altra termina un processo?29) Quali sono gli stati di un processo?30) Quali informazioni non possono essere condivise tra processi?31) Quando accade una corsa critica?32) In un ambiente concorrente per evitare le corse critiche si possono definire delle condizioni, quali?33) In quale circostanza \u00e8 conveniente avviare lo scheduling?34) Gli algoritmi di scheduling posso essere divisi in due categorie, quali?35) Quali sono gli algoritmi di scheduling nei sistemi batch?36) Supponendo di disporre dei seguenti tempi di esecuzione T0, T1, T2 e T3 nell'algoritmo shortest process next con tecnica di aging, quale sar\u00e0 la stima per T4?37) Per consentire a pi\u00f9 applicazioni di essere in memoria allo stesso tempo senza interferire devono essere risolti due problemi, quali?38) Quali sono i metodi per tenere traccia dell'utilizzo della memoria?39) Qual \u00e8 la struttura di una riga della tabella delle pagine?40) Nell'algoritmo Not Recently Used (NRU) la classe 0 \u00e8..41) Quando il sistema operativo non \u00e8 coinvolto con la paginazione?42) I programmatori sanno che tecnica di gestione della memoria (paginazione o segmentazione) \u00e8 utilizzata?43) Perch\u00e9 \u00e8 stata inventata la paginazione?44) Perch\u00e9 \u00e8 stata inventata la segmentazione?45) Quali sono le strutture di file pi\u00f9 comuni?46) Qual \u00e8 la corretta sequenza dell'intestazione all'interno di un file eseguibile binario nelle prime versioni di UNIX?47) Qual \u00e8 la chiamata di sistema UNIX per leggere gli attributi di un file?48) Qual \u00e8 il separatore per i file utilizzato in MULTICS?49) In un sistema di gestione del file system, qual \u00e8 la voce speciale che permette di riferirsi alla directory corrente?50) In UNIX, qual \u00e8 la chiamata che permette di creare una directory vuota?51) In un programma C, i parametri passati al programma principale, main(), sono passati attraverso?52) Nel layout del file system, il master boot record \u00e8?53) Nel layout del file system, il blocco di boot \u00e8 fatto di..54) Che cos'\u00e8 l'i-node in un sistema UNIX?55) I cambiamenti nella tecnologia spingono l'evoluzione dei file system: le CPU diventano pi\u00f9 veloci; i dischi, le memorie e le cache sono sempre pi\u00f9 grandi e economiche. Il collo di bottiglia diventa cos\u00ec il tempo di ricerca su disco (per quelli meccanici). Quali file system sono stati progettati per ridurre questo problema?56) Quali sono le principali categorie di dispositivi di I/O?57) Quali sono gli svantaggi del port-mapped I/O?58) Quali sono gli svantaggi del memory-mapped I/O?59) Quali sono le 4 propriet\u00e0 di un interrupt preciso?60) Quali sono i principali obiettivi del software di I/O?61) Quali sono le tecniche di gestione degli I/O?62) Quali sono i livelli software per la gestione dell'I/O?63) Quali sono i fattori che compromettono il tempo necessario a leggere o scrivere un blocco del disco?64) Quali sono le modalit\u00e0 di funzionamento di un clock programmabile?65) In un computer con un clock di 10 GHz che distanza possono percorrere i segnali elettrici?66) Per incrementare drasticamente le performance di un calcolatore che architetture occorre progettare?67) In un'architettura UMA con rete di commutazione a pi\u00f9 stadi di tipo omega con n CPU, n memorie and log2n stadi, con n/2 switch per stadio, complessivamente di quanti switch abbiamo bisogno?68) Quali sono le caratteristiche chiave di una macchina con accesso non uniforme alla memoria?69) Quali sono gli approcci per il Sistema Operativo adottati dai multiprocessori?70) Qual \u00e8 un potenziali problema in un algoritmo di scheduling a condivisione del tempo su un multiprocessore?71) Che cosa si intende per diametro in un multicomputer?72) Qual \u00e8 il vantaggio di utilizzare un'architettura di multicomputer ad ipercubo?73) Quali sono i vantaggi della virtualizzazione?\n\nESERCIZI\n74) convertire in binario i numeri in base 10: 255, 127, 15 , 1023, 4095\n75) convertire in ottale i numeri in base 10: 255, 127, 15 , 1023, 4095\n76) convertire in esadecimale i numeri in base 10: 255, 127, 15 , 1023, 4095\n77) convertire in decimale i numeri esadecimali: FF, FFE, 1A09, 2001, 1FA\n78) convertire in decimale i numeri ottali: 77, 775, 1702, 2001, 17679) convertire in decimale i numeri binari: 1111, 1000, 10, 11001, 11111111, 10001111, 111111111111, 111111111110"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "30",
+      "data": "22-01-2018",
+      "contenuto": "ESONERO 2 - data prevista"
+    },
+    {
+      "id": "29",
+      "data": "16-01-2018",
+      "contenuto": "ESERCITAZIONE"
+    },
+    {
+      "id": "27",
+      "data": "15-01-2018",
+      "contenuto": "INPUT/OUTPUT- PRINCIPI HARDWARE - - Dispositivi di I/O - - Controller dei dispositivi - - Port-Mapped I/O  - - Memory-Mapped I/O  - - Hybrid-Mapped I/O  - - Direct Memory Access (DMA)  - - Interrupt rivisitati  - - Interrupt precisi e imprecisi  - PRINCIPI DEL SOFTWARE  - - Obiettivi del software  - - Modalit\u00e0 di gestione\u00a0 - - I/O guidato dagli interrupt  - - I/O con uso del DMA  - LIVELLI SOFTWARE  - - Gestori degli interrupt  - - Driver dei dispositivi  - - software indipendente dal dispositivo  - - software nello spazio utente  - DISCHI  - - Hardware dei dischi  - - Formattazione dei dischi  - - Algoritmi di scheduling  - - Gestione degli errori  - - Memoria stabile  - CLOCK  - - Hardware dei clock  - - Software dei clock  - - Timer soft"
+    },
+    {
+      "id": "26",
+      "data": "09-01-2018",
+      "contenuto": "FILE SYSTEM- FILE  - - Nomi, Struttura, Tipi, Accesso, Attributi, Operazioni  - - Un esempio UNIX di chiamata di sistema del file system  - DIRECTORY  - - Sistemi di directory, Path name, Operazioni  - REALIZZAZIONE DEL FILE SYSTEM  - - Layout del file system  - - Realizzazione dei file  - - Realizzazione delle directory\u00a0 - REALIZZAZIONE DEL FILE SYSTEM  - - File condivisi  - - File system su log strutturati  - - File system Journaling  - - File system virtuali"
+    },
+    {
+      "id": "25",
+      "data": "08-01-2018",
+      "contenuto": "LA GESTIONE DELLA MEMORIA\n- NESSUNA ASTRAZIONE DI MEMORIA - UN\u2019ASTRAZIONE DI MEMORIA: SPAZIO DI INDIRIZAMENTO  - - Swapping  - - Gestione della memoria libera  - MEMORIA VIRTUALE  - - Paginazione  - - Tabelle delle pagine  - - Velocizzare la paginazione  - - Tabelle delle pagine per grandi memorie LEZIONE 15  - ALGORITMI DI SOSTITUZIONE DELLE PAGINE  - - Il miglior algoritmo di sostituzione delle pagine  - - Not Recently Used (NRU)  - - First-In First-Out (FIFO)  - - Seconda Chance  - - Clock  - - Least Recently Used (LRU)  - - Working Set  - - WSClock  - PROBLEMATICHE DI PROGETTAZIONE DEI SISTEMI DI PAGING  - - Confronto tra politiche di allocazione globali e locali  - - Controllo del carico  - - Dimensione delle pagine  - - Spazio dati e istruzioni distinti  - - Pagine condivise\n- PROBLEMATICHE DI PROGETTAZIONE DEI SISTEMI DI PAGING\u00a0- - Librerie condivise\u00a0- - Memory-mapped file\u00a0- - Politiche di ripulizia\u00a0- - Interfaccia della memoria virtuale\u00a0- ASPETTI REALIZZATIVI\u00a0- - Il SO e il paging\u00a0- - Gestione dei page fault\u00a0- - Backup delle instruzioni\u00a0- - Bloccare le pagine in memoria\u00a0- - Swapping dei processi su disco\u00a0- - Separazione tra politica e meccanismo\u00a0- SEGMENTAZIONE\u00a0- - Realizzazione della segmentazione pura\u00a0- - Segmentazione con paginazione: MULTICS\u00a0- - Segmentazione con paginazione: Intel Pentium"
+    },
+    {
+      "id": "24",
+      "data": "19-12-2017",
+      "contenuto": "PROCESSI E THREAD (PARTE 2/2)\nCOMUNICAZIONI TRA PROCESSI\n- Sleep e wakeup\n- Semafori\n- Mutex\n- Mutex in Pthread\n- Monitor\n- Scambio di messaggi\n- Barriere\nSCHEDULING\n- Introduzione\n- Sistemi batch\n- Sistemi interattivi\n- Sistemi real-time\n- La politica contro il meccanismo\n- Thread scheduling"
+    },
+    {
+      "id": "23",
+      "data": "18-12-2017",
+      "contenuto": "ESERCITAZIONE"
+    },
+    {
+      "id": "22",
+      "data": "12-12-2017",
+      "contenuto": "ESERCITAZIONE: CORREZIONE ESONERO"
+    },
+    {
+      "id": "21",
+      "data": "11-12-2017",
+      "contenuto": "ESONERO 1"
+    },
+    {
+      "id": "20",
+      "data": "05-12-2017",
+      "contenuto": "ESERCITAZIONE"
+    },
+    {
+      "id": "19",
+      "data": "04-12-2017",
+      "contenuto": "SISTEMI OPERATIVI\nPROCESSI E THREAD (PARTE 1/2)\nPROCESSI\n- Il modello di processo\n- Creazione del processo\n- Chiusura del processo\n- Gerarchie di processi\n- Stati di un processo\n- Realizzazione di processi\n- Modellazione della multiprogrammazione\nTHREAD\n- Uso dei thread\n- Il modello a thread classico\n- Thread POSIX\n- Realizzazione dei threads\n- Attivazioni dello scheduler\n- Thread pop-up\nCOMUNICAZIONI TRA PROCESSI\n- Corse critiche\n- Regioni critiche\n- Mutua esclusione con busy waiting"
+    },
+    {
+      "id": "18",
+      "data": "28-11-2017",
+      "contenuto": "SISTEMI OPERATIVI\n- Le chiamate di sistema:\n- - Gestione dei processi\n- - Gestione dei file\n- - Gestione delle directory\n- Le API Win32 di Windows\n- Struttura di un sistema operativo:\n- -\u00a0 Sistemi monolitici\n- -\u00a0 Sistemi a strati\n- -\u00a0 Microkernel\n- -\u00a0 Modello Client-Server\n- -\u00a0 Macchine virtuali\n- -\u00a0 Exokernel\n- Introduzione al linguaggio C"
+    },
+    {
+      "id": "17",
+      "data": "27-11-2017",
+      "contenuto": "Esercitazione"
+    },
+    {
+      "id": "16",
+      "data": "21-11-2017",
+      "contenuto": "SISTEMI OPERATIVI\n- Che cos\u2019\u00e8 un sistema operativo?\n- Storia dei sistemi operativi\n- Concetti di base dei SO"
+    },
+    {
+      "id": "15",
+      "data": "20-11-2017",
+      "contenuto": "ESERCITAZIONE"
+    },
+    {
+      "id": "14",
+      "data": "14-11-2017",
+      "contenuto": "ARCHITETTURE PER IL CALCOLO PARALLELO\n\n- MULTIPROCESSORI\n- - Hardware\n- - - UMA con architettura basata sul bus\n- - - UMA con crossbar switch\n- - - UMA con multistage switching network\n- - - NUMA\n- - Tipi di sitemi operativi\n- - Sincronizzazione\n- MULTIPROCESSORI\n- - Tipi di sistemi operativi\n- - Sincronizzazione\n- - Scheduling\n- MULTICOMPUTER\n- - Hardware\n- - Software di comunicazione di basso livello\n- - Software di comunicazione a livello utente\n- - Remote Procedure Call (RPC)\n- - Memoria condivisa distribuita\n- - Scheduling\n- - Bilanciamento del Carico\n- VIRTUALIZZAZIONE\n- - Hypervisor tipo 1\n- - Hypervisor tipo 2\n- - Paravirtualizzazione"
+    },
+    {
+      "id": "13",
+      "data": "13-11-2017",
+      "contenuto": "ESERCITAZIONE"
+    },
+    {
+      "id": "12",
+      "data": "7-11-2017",
+      "contenuto": "ESERCITAZIONE"
+    },
+    {
+      "id": "11",
+      "data": "6-11-2017",
+      "contenuto": "IL LIVELLO DI MICROARCHITETTURA (PARTE 2/2)\n- Controllo del flusso\n- Architetture Intel IA-32 e IA64\n\nIL LIVELLO DEL LINGUAGGIO ASSEMBLATIVO\n- Introduzione al linguaggio assemblativo\n- Formato delle istruzioni\n- Pseudoinstruzioni\n- Le macroistruzioni\n- - Macro vs procedure\n- - Macro con parametri\n- Il processo di assemblaggio\n- - Primo e secondo passaggio\n- Linker e loader\nARCHITETTURE PER IL CALCOLO PARALLELO\n- INTRODUZIONE\n- - Classificazione di Flynn (1966)\n- PARALLELISMO NEL CHIP\n- - Parallelismo a livello d\u2019istruzioni\n- - Multithreading nel chip\n- - Multiprocessori in un solo chip\n- COPROCESSORI"
+    },
+    {
+      "id": "10",
+      "data": "31-10-2017",
+      "contenuto": "ESERCITAZIONE"
+    },
+    {
+      "id": "9",
+      "data": "30-10-2017",
+      "contenuto": "IL LIVELLO DI MICROARCHITETTURA - Un esempio di microarchitettura -- modello di esecuzione -- data path (o percorso dati) -- formato delle microinstruzioni -- microarchitettura Mic-1 - Esempio di ISA: IJVM -- Lo stack -- Il modello della memoria -- Insieme delle istruzioni IL LIVELLO DI MACROARCHITETTURA - Overview del livello ISA - Tipi di dati\nIL LIVELLO DI MICROARCHITETTURA\n- Modalit\u00e0 di indirizzamento\n- Tipi di istruzioni\n- Controllo del flusso\n- Architetture Intel IA-32 e IA64\n- Introduzione al linguaggio assemblativo"
+    },
+    {
+      "id": "7",
+      "data": "23-10-2017",
+      "contenuto": "ESEMPI DI CPU- Intel Pentium 4 - Intel Core i7 - UltraSPARC III - Intel 8051 ESEMPI DI BUS  - Bus ISA  - Bus PCI  - PCI Express  - USB  - INTERFACCE  - Parallel I/O (PIO)  - Decodifica dell indirizzo"
+    },
+    {
+      "id": "5",
+      "data": "16-10-2017",
+      "contenuto": "MEMORIA\n - Flip-flop\r\n - Registri\r\n - Organizzazione della Memoria\r\n - Buffer\r\n - Chip di memoria\r\n - Random Access Memory\r\n - Memorie Non-volatili\r\n - ROM, PROM, EPROM, EEPROM\r\n - Chip di CPU\r\nBUS\n - Ampiezza del bus\r\n - clock del bus\r\n - Bus sincroni/asincroni\r\n - Arbitraggio del bus\r\n - Interrupt handling"
+    },
+    {
+      "id": "4",
+      "data": "10-10-2017",
+      "contenuto": "Il livello logico digitale\n - algebra di Boole\r\n - le trasformazioni nel dominio di Boole\r\n - Circuiti logici digitali elementari\r\n - circuiti Integrati\r\n - circuiti combinatori: multiplexer, decoder, comparatori e PLA\r\n - Circuiti aritmetici: shifter, adder, ALU\r\n - Clock."
+    },
+    {
+      "id": "3",
+      "data": "09-10-2017",
+      "contenuto": "MEMORIA SECONDARIA\n - Gerarchie di memorie\r\n - Dischi magnetici\r\n - Floppy disk\r\n - Dischi IDE\r\n - Dischi SCSI\r\n - RAID\r\n - Dischi a stato solido\r\n - CD-ROM\r\n - CD-Registrabili\r\n - CD-Riscrivibili\r\n - DVD\r\nDISPOSITIVI DI INPUT/OUTPUT\n - Il bus\r\n - Direct Memory Access\r\n - Tastiere\r\n - Monitor LCD\r\n - RAM della scheda video (VRAM)\r\n - Dispositivi di puntamento\r\n - Stampanti\r\n - Apparati di Telecomunicazioni\r\n - Codifica dei caratteri"
+    },
+    {
+      "id": "2",
+      "data": "03-10-2017",
+      "contenuto": "ORGANIZ. DEI SISTEMI DI CALCOLO (Cap 2 - Architettura dei Calcolatori)\nPROCESSORI\n - Organizzazione della CPU.\r\n - Esecuzione dell?istruzione.\r\n - RISC contro CISC.\r\n - Principi di progettazione dei calcolatori.\r\n - Parallelismo a livello di istruzione.\r\n - Parallelismo a livello di processore.\r\nMEMORIA PRINCIPALE\n - Bit.\r\n - Sistemi di numerazione.\r\n - Indirizzi di memoria.\r\n - Ordinamento dei byte.\r\n - Codici di correzione di errore.\r\n - Memoria cache."
+    },
+    {
+      "id": "1",
+      "data": "02-10-2017",
+      "contenuto": "Presentazione del corso\n - Orario del corso \r\n - Iscrizione al corso: scheda informativa\r\n - Sito web di riferimento\r\n - Materiale didattico\r\n - Programma di esame\r\n - Modalit\u00e0 di esame\r\n - Nozioni utili per il corso\r\n - Modalit\u00e0 di svolgimento della lezione\r\n - Modalit\u00e0 di studio\r\n - In caso di assenza\r\n - Andamenti e trend\r\n - Questioni aperte e domande\r\nINTRODUZIONE (Rif. Libro Architetture e dispensa Libro Informazione Automatica e Java)\n - Dominio digitale e analogico\r\n - Sistemi di numerazione\r\n - Linguaggi, livelli e macchine virtuali\r\n - Evoluzione delle architetture di computer\r\n - Tipologie di computer\r\n - Storia della famiglia Intel\r\n - Unit\u00e0 metriche"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Soluzioni Esercitazione n.7 svolta da Andrea Strazzulla",
+      "dataUpload": "05.01.2018 09:04:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/AE/EX7-Soluzioni.pdf",
+      "dimensione": "626 KB"
+    },
+    {
+      "titolo": "Esercitazione n.7 svolta da Andrea Strazzulla",
+      "dataUpload": "05.01.2018 09:04:06",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/AE/EX7.pdf",
+      "dimensione": "419 KB"
+    },
+    {
+      "titolo": "Soluzioni Esercitazione n.6 svolta da Andrea Strazzulla",
+      "dataUpload": "20.12.2017 14:39:54",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/AE/EX6-Soluzioni.pdf",
+      "dimensione": "367 KB"
+    },
+    {
+      "titolo": "Esercitazione n.6 svolta da Andrea Strazzulla",
+      "dataUpload": "20.12.2017 14:39:39",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/AE/EX6.pdf",
+      "dimensione": "301 KB"
+    },
+    {
+      "titolo": "Soluzioni Esercitazione n.4 svolte da Andrea Strazzulla",
+      "dataUpload": "20.12.2017 11:23:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/AE/EX4-Soluzioni.pdf",
+      "dimensione": "538 KB"
+    },
+    {
+      "titolo": "Esercitazione n.4/5 svolta da Andrea Strazzulla",
+      "dataUpload": "20.12.2017 11:23:11",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/AE/EX4_5.pdf",
+      "dimensione": "494 KB"
+    },
+    {
+      "titolo": "Esercitazione n.4 svolta da Andrea Strazzulla",
+      "dataUpload": "20.12.2017 11:22:49",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/AE/EX4.pdf",
+      "dimensione": "300 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #f3f3f3;\">Soluzioni Esercitazione n.2 svolta da Andrea Strazzulla</span>",
+      "dataUpload": "14.11.2017 11:36:39",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/AE/EX2-Soluzioni.pdf",
+      "dimensione": "591 KB"
+    },
+    {
+      "titolo": "Esercitazione n.2 svolta da Andrea Strazzulla",
+      "dataUpload": "14.11.2017 11:36:03",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/AE/EX2.pdf",
+      "dimensione": "419 KB"
+    },
+    {
+      "titolo": "Esercitazione n.1 (Algebra di Boole, Codici di correzione di errore e sistemi di numerazione) svolta da Andrea Strazzulla",
+      "dataUpload": "10.11.2017 14:39:32",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/AE/EX1.pdf",
+      "dimensione": "417 KB"
+    },
+    {
+      "titolo": "Soluzioni Esercitazione n.1 svolta da Andrea Strazzulla",
+      "dataUpload": "10.11.2017 14:38:12",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/AE/EX1-Soluzioni.pdf",
+      "dimensione": "650 KB"
+    },
+    {
+      "titolo": "Applicazione del codice di Hamming ad una parola a 4 bit",
+      "dataUpload": "04.10.2017 16:39:27",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/AE/Codice Hamming.pdf",
+      "dimensione": "170 KB"
+    },
+    {
+      "titolo": "Capitolo 1 del libro \"Informazione Automatica e Java\", Edizioni Kappa, Autori: A. Simonetta, M. Sillano, D. Perna",
+      "dataUpload": "27.09.2017 13:07:55",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/AE/Estratto - Informazione Automatica e Java.pdf",
+      "dimensione": "2286 KB"
+    }
+  ],
+  "programma": "INTRODUZIONE (Cap 1 - Architettura dei Calcolatori)\n - Approccio strutturale\r\n - Pietre miliari nell'architettura dei computer\r\n - Tipologie di computer\r\n - Unit\u00e0 metriche\r\n\nORGANIZ. DEI SISTEMI DI CALCOLO (Cap 2 - Architettura dei Calcolatori)\n - Processori\r\n - Memoria principale\r\n - Memoria secondaria\r\n - Input/Output\r\n\nLIVELLO LOGICO DIGITALE (Cap 3 - Architettura dei Calcolatori)\n - Porte logiche e algebra di Boole\r\n - Circuiti logici digitali elementari\r\n - Memoria\r\n - Chip della CPU e bus\r\n - Esempi di Chip della CPU\r\n - Esempi di bus\r\n - Interfacce\r\n\nLIVELLO DI MICROARCHITETTURA (Cap 4 - Architettura dei Calcolatori)\n - Esempio di microarchitettura\r\n - Esempio di ISA:IJVM         \r\n\nLIVELLO DI ARC. DELL'INSIEME D'ISTRUZIONI (Cap 5 - Architettura dei Calc.)\n - Panoramica del livello ISA\r\n - Tipi di dati              \r\n - Formati delle istruzioni\r\n - Indirizzamento          \r\n - Tipi di istruzioni\r\n - Flusso di controllo\r\n\nLIVELLO DEL SISTEMA OPERATIVO (Cap 1,2,3,4,5,6 - I Moderni Sistemi Oper.)\n - INTRODUZIONE          \r\n - PROCESSI E THREAD     \r\n - GESTIONE DELLA MEMORIA\r\n - FILE SYSTEM           \r\n - INPUT/OUTPUT           \r\n - DEADLOCK \r\n\nLIVELLO DEL LINGUAGGIO ASSEMBLATIVO (Cap 7 - Architettura dei Calc.)\n - Introduzione al linguaggio assemblativo\r\n - Macroistruzioni\r\n - Il processo di assemblaggio\r\n - Collegamento e caricamento \r\n\nARCHITETTURE PER IL CALCOLO PARALLELO \r\n(Cap 8 - Architettura dei Calcolatori e Cap 8 - I moderni Sistemi Operativi)\n - Parallelismo nel chip\r\n - Coprocessori         \r\n - Multiprocessori\r\n - Multicomputer  \r\n - Virtualizzazione",
+  "testiRiferimento": "1) Tanenbaum Andrew S., Architettura dei calcolatori: Un approccio strutturale, 6a Ed., Pearson Education, 2013\r\n2) Tanenbaum Andrew S.,Bos Herbert  I moderni sistemi operativi, 2016\r\n\nTesto Ausiliario\n\nInformazione automatica e Java. Compendio di informatica e di programmazione. Autori: Simonetta A. Sillano M. e Perna D., EDIZIONI KAPPA\r\nprezzo simbolico di 10 euro",
+  "ricevimento": "Al termine delle lezioni",
+  "modalit\u00e0Esame": "L'esame \u00e8 svolto da una prova scritta della durata di 60/90 minuti comprendente:\r\n- 5 quesiti teorici/pratici sul programma di Architetture dei Calcolatori\r\n- 5 quesiti teorici/pratici sul programma di Sistemi Operativi\r\n\r\nLa valutazione di ciascuna domanda \u00e8 di 3/30 punti."
+}

@@ -1,0 +1,29 @@
+{
+  "nomeCorso": "Matematica discreta",
+  "docente": "Laura Geatti",
+  "annoAccademico": "2014-2015",
+  "crediti": "9",
+  "settore": "MAT/02",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Pagina web del corso",
+      "data": "14-11-2014 11:38",
+      "contenuto": "La pagina web del corso si trova all'indirizzo:\n\nhttp://www.mat.uniroma2.it/~gealbis/MD2014/MD2014home.html\n\nIl programma dettagliato & diario delle lezioni si trova all'indirizzo:\n\nhttp://www.mat.uniroma2.it/~gealbis/MD2014/MDprogramma2014.html"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "1",
+      "data": "06-10-2014",
+      "contenuto": "Il diario delle lezioni si trova all'indirizzo\n\nhttp://www.mat.uniroma2.it/~gealbis/MD2014/MDprogramma2014.html"
+    }
+  ],
+  "materiale": [],
+  "programma": "vedi pagina web del corso\n\nhttp://www.mat.uniroma2.it/~gealbis/MD2014/MD2014home.html",
+  "testiRiferimento": "vedi pagina web del corso\n\nhttp://www.mat.uniroma2.it/~gealbis/MD2014/MD2014home.html",
+  "ricevimento": "vedi pagina web del corso\n\nhttp://www.mat.uniroma2.it/~gealbis/MD2014/MD2014home.html",
+  "modalit\u00e0Esame": "vedi pagina web del corso\n\nhttp://www.mat.uniroma2.it/~gealbis/MD2014/MD2014home.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Sistemi cooperativi e reti sociali",
+  "docente": "Maurizio Talamo",
+  "annoAccademico": "2013-2014",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": ""
+    }
+  ],
+  "materiale": [],
+  "programma": "null",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

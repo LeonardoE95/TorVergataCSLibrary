@@ -1,0 +1,142 @@
+{
+  "nomeCorso": "Basi di dati e di conoscenza",
+  "docente": "Loredana Vigliano",
+  "annoAccademico": "2018-2019",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "ESAMI SESSIONEAUTUNNALE",
+      "data": "25-09-2019 17:16",
+      "contenuto": "\nIV Appello\u00a0(V per Bioinformatici)\n26 Settembre orali aula 3A con il seguente ordine:\nore 11,30 : Di Girolamo-Villani, Casanica"
+    },
+    {
+      "titolo": "",
+      "data": "06-09-2018 19:02",
+      "contenuto": "\nATTENZIONE !!!!!!\u00a0: per poter sostenere l' esame (anche solo orale) \u00e8 necessario prenotarsi sul sito \u00a0delphi.uniroma2.it.\nATTENZIONE !!!!!!\u00a0 :\u00a0useremo la verbalizzazione automatica e quindi non sar\u00e0 pi\u00f9 possibile sostenere l'esame senza prenotazione!!!!!ESAMI PROPEDEUTICI : MD e PR"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "1",
+      "data": "01-10-2018",
+      "contenuto": "Orario Secondo semestre :\nLuned\u00ec ore 14-16 aula 17\nMarted\u00ec ore 16-18 aula 17"
+    },
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": ""
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Risultati scritto IV appello del 23 Settembre 2019",
+      "dataUpload": "23.09.2019 19:46:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/risIVappello.pdf",
+      "dimensione": "58 KB"
+    },
+    {
+      "titolo": "Testo scritto del 23 Settembre 2019",
+      "dataUpload": "23.09.2019 16:20:32",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/IVappello.doc",
+      "dimensione": "27 KB"
+    },
+    {
+      "titolo": "13 GIS e GeoDatabase",
+      "dataUpload": "30.04.2019 16:08:14",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/GISnew.pdf",
+      "dimensione": "4595 KB"
+    },
+    {
+      "titolo": "<span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Linee guida per il progetto di Basi di dati (cfu 12 Informatica)</span>",
+      "dataUpload": "16.04.2019 17:47:51",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/guidaprogettoBasididati2019.pdf",
+      "dimensione": "71 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "01.04.2019 16:33:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/12Database_NoSQL_en2.pdf",
+      "dimensione": "179 KB"
+    },
+    {
+      "titolo": "11 Architettura e Motori MySQL",
+      "dataUpload": "27.03.2019 13:38:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/4Architettura_MySQL.pdf",
+      "dimensione": "228 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "18.03.2019 17:08:07",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/07SqlTuning.pdf",
+      "dimensione": "5157 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "18.03.2019 13:19:56",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/2terQuery_performance_optimization.pdf",
+      "dimensione": "205 KB"
+    },
+    {
+      "titolo": "08 Ottimizzazione indici",
+      "dataUpload": "05.03.2019 18:25:21",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/08IndexTuning.pdf",
+      "dimensione": "6875 KB"
+    },
+    {
+      "titolo": "07 Organizzazione fisica dei dati",
+      "dataUpload": "05.03.2019 18:24:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/1organizzazione_fisica_dei_dati_senza_figure.pdf",
+      "dimensione": "3983 KB"
+    },
+    {
+      "titolo": "Linee guida del progetto (BioInformatica - crediti 6)",
+      "dataUpload": "17.12.2018 18:24:35",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/guidaprogettoBasididatibio.pdf",
+      "dimensione": "58 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "12.12.2018 16:43:59",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/07Explain.pdf",
+      "dimensione": "3082 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "12.12.2018 16:43:28",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/5DBMSeSQL.pdf",
+      "dimensione": "166 KB"
+    },
+    {
+      "titolo": "04 Modello concettuale, schema E-R logico e schema E-R normalizzato",
+      "dataUpload": "07.11.2018 16:26:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/4Modconcettualeschemae-r.pdf",
+      "dimensione": "418 KB"
+    },
+    {
+      "titolo": "03 Algebra Relazionale e Calcolo Relazionale",
+      "dataUpload": "10.10.2018 17:10:21",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/3algebra_calcolo_relazionale.pdf",
+      "dimensione": "190 KB"
+    },
+    {
+      "titolo": "02 Modello Relazionale",
+      "dataUpload": "08.10.2018 15:21:39",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/2modello_relazionale.pdf",
+      "dimensione": "80 KB"
+    },
+    {
+      "titolo": "01 Introduzione, storia e definizioni",
+      "dataUpload": "08.10.2018 15:17:40",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/BDC/1definizioni_storia_new.pdf",
+      "dimensione": "359 KB"
+    }
+  ],
+  "programma": "Introduzione\u00a0- Modello relazionale\u00a0- Algebra relazionale\u00a0- Calcolo relazionale\u00a0- Flusso di progetto e visione dei dati\u00a0- Modello concettuale dei dati\u00a0- Disegno logico DB\u00a0  Schema Entity-relationship\u00a0 - Disegno fisico DB\u00a0 - Forme normali\u00a0 - Query language e implementazioni su mySQL\u00a0 DML\u00a0 SQL\u00a0  - Organizzazione fisica dei dati\u00a0 - Ottimizzazione degli indici\u00a0 - Normalizzazione e Denormalizzazione\u00a0 - Ottimizzazione delle interrogazioni\u00a0 ------ MySQL e ottimizzazioni\n- Transazioni\u00a0 ------ Locking a due fasi, Timestamp,MVCC\u00a0 ------ MySQL e Storage Engine\u00a0  - Basi di dati attive\u00a0 ------ Trigger e Stored Procedure\u00a0 ------ Cursor, Trigger e Stored Procedure in MySQL\n- Basi di dati\u00a0geospaziali e GIS\u00a0 - Basi di dati su architetture distribuite\u00a0 ------ Commit a due fasi\u00a0 - Architetture per l' analisi dei dati\u00a0 ------ Data Warehouse\u00a0 ------ Data Mining\n- \u00a0DB NoSQL : MongoDB  - Implementazione progetto",
+  "testiRiferimento": "Prima parte\n- Atzeni,Ceri,Fraternali,Paraboschi,Torlone\u00a0Basi di dati -Modelli e Linguaggi di interrogazione-\u00a0ed. McGraw-Hill 4nd edition (\u00e8 il libro piccolo)\n\nSeconda parte\n- Elmasri,Navathe Sistemi di basi di dati, Fondamenti e complementiPearson 7a edizione italiana\n\n\n- lucidi di L. Vigliano presentati a Lezione",
+  "ricevimento": "Al termine di ogni lezione o previo appuntamento via mail",
+  "modalit\u00e0Esame": "L\u2019 esame comprende uno scritto, un progetto e un orale. Lo scritto pu\u00f2 essere conservato per un solo appello, eccetto per l\u2019 ultimo appello dell\u2019 anno accademico (non si pu\u00f2 conservare).\nNello specifico :\nse supero lo scritto a Giugno posso portare il progetto a Luglio\nse supero lo scritto a Luglio posso portare il progetto solo al primo appello di Settembre\nse supero lo scritto a Settembre posso portare il progetto solo al primo appello di Febbraio, poi stop.\nInfine il primo appello di Settembre e il primo appello di Gennaio/Febbraio sono riservati ai soli studenti che hanno superato lo scritto nell' appello precedente."
+}

@@ -1,0 +1,382 @@
+{
+  "nomeCorso": "Intelligenza artificiale 1",
+  "docente": "Maria Teresa Pazienza",
+  "annoAccademico": "2017-2018",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "30-08-2018 11:37",
+      "contenuto": "il primo appello della sessione autunnale si terr\u00e0 il giorno\n12 settembre 2018 dalle ore 10 alle 13. aula B14 edificio della didattica di Ingegneria"
+    },
+    {
+      "titolo": "compito di prova",
+      "data": "16-01-2018 15:56",
+      "contenuto": "Si ricorda agli studenti che la lezione del 23 gennaio sar\u00e0 dedicata a fare un esercizio scritto come prova d'esame.\nLa lezione del 25 gennaio servir\u00e0 come riepilogo generale e per rispondere a domande degli studenti"
+    },
+    {
+      "titolo": "appelli d'esame NON mutuamente esclusivi",
+      "data": "12-01-2018 11:45",
+      "contenuto": "Si comunica agli studenti che potranno partecipare ad entrambi gli appelli d'esame nel caso non superassero la prima prova.\n\nSi ricorda poi che, se si presentano al secondo appello dopo aver superato la prima prova d'esame, questo comportamento \u00e8 equivalente alla non accettazione del primo voto."
+    },
+    {
+      "titolo": "comunicazione urgente",
+      "data": "12-12-2017 10:50",
+      "contenuto": "si invitano le studentesse del corso di Intelligenza Artificiale a contattare urgentemente la professoressa Pazienza (anche per mail pazienza@info.uniroma2.it) per comunicazioni urgenti"
+    },
+    {
+      "titolo": "lezione del 30 novembre",
+      "data": "28-11-2017 14:35",
+      "contenuto": "La lezione del 30 novembre del corso di Intelligenza Artificiale 1 non avr\u00e0 luogo"
+    },
+    {
+      "titolo": "",
+      "data": "09-10-2017 07:22",
+      "contenuto": "La lezione del 10 ottobre del corso di Intelligenza Artificiale 1 non avr\u00e0 luogo"
+    },
+    {
+      "titolo": "",
+      "data": "26-09-2017 16:49",
+      "contenuto": "Per qualunque problema o richiesta di informazione gli studenti possono inviare una mail al docente (pazienza@info.uniroma2.it) e riceveranno risposta al pi\u00f9 presto."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "28",
+      "data": "25-01-2018",
+      "contenuto": "riepilogo generale per rispondere a tutti gli eventuali dubbi degli studenti."
+    },
+    {
+      "id": "27",
+      "data": "23-01-2018",
+      "contenuto": "compito di prova"
+    },
+    {
+      "id": "26",
+      "data": "18-01-2018",
+      "contenuto": "ancora esercizi con OWL, DL e SPARQL"
+    },
+    {
+      "id": "25",
+      "data": "16-01-2018",
+      "contenuto": "Esercizi con OWL, DL e SPARQL"
+    },
+    {
+      "id": "23",
+      "data": "11-01-2018",
+      "contenuto": "esercizi su DL+SPARQL"
+    },
+    {
+      "id": "22",
+      "data": "21-12-2017",
+      "contenuto": "SPARQL: linguaggio di interrogazione per Ontologie"
+    },
+    {
+      "id": "21",
+      "data": "19-12-2017",
+      "contenuto": "Linguaggi per rappresentare le Ontologie: RDF/RDFS/OWL"
+    },
+    {
+      "id": "20",
+      "data": "14-12-2017",
+      "contenuto": "inheritance"
+    },
+    {
+      "id": "19",
+      "data": "12-12-2017",
+      "contenuto": "tassonomie e classificazione"
+    },
+    {
+      "id": "18",
+      "data": "04-12-2017",
+      "contenuto": "interpretazione ed entailment nelle description logics"
+    },
+    {
+      "id": "17",
+      "data": "30-12-2017",
+      "contenuto": "logiche descrittive"
+    },
+    {
+      "id": "16",
+      "data": "28-11-2017",
+      "contenuto": "rappresentazione strutturata della conoscenza ontologica"
+    },
+    {
+      "id": "15",
+      "data": "23-11-2017",
+      "contenuto": "rappresentazione della conoscenza basata su frame: un'applicazione"
+    },
+    {
+      "id": "14",
+      "data": "21-11-2017",
+      "contenuto": "Frames per la rappresentazione della conoscenza: introduzione"
+    },
+    {
+      "id": "13",
+      "data": "16-11-2017",
+      "contenuto": "Clausole di Horn"
+    },
+    {
+      "id": "12",
+      "data": "14-11-2017",
+      "contenuto": "first-order resolution"
+    },
+    {
+      "id": "11",
+      "data": "09-11-2017",
+      "contenuto": "risoluzione per derivazione"
+    },
+    {
+      "id": "10",
+      "data": "07-11-2017",
+      "contenuto": "Come realizzare l'entailment su una base di conoscenza"
+    },
+    {
+      "id": "9",
+      "data": "02-11-2017",
+      "contenuto": "come definire il vocabolario di simboli non logici ed i fatti di una base di conoscenza"
+    },
+    {
+      "id": "8",
+      "data": "31-10-2017",
+      "contenuto": "processo di entailment"
+    },
+    {
+      "id": "7",
+      "data": "26-10-2017",
+      "contenuto": "esercizi FOL"
+    },
+    {
+      "id": "6",
+      "data": "24-10-2017",
+      "contenuto": "esercizi FOL"
+    },
+    {
+      "id": "5",
+      "data": "19-10-2017",
+      "contenuto": "FOL: come si esprime la semantica nel linguaggio"
+    },
+    {
+      "id": "4",
+      "data": "17-10-2017",
+      "contenuto": "FOL: sintassi del linguaggio"
+    },
+    {
+      "id": "3",
+      "data": "12-10-2017",
+      "contenuto": "rappresentazione della conoscenza e ragionamento automatico"
+    },
+    {
+      "id": "2",
+      "data": "05-10-2017",
+      "contenuto": "introduzione alla rappresentazione della conoscenza"
+    },
+    {
+      "id": "1",
+      "data": "03-10-2017",
+      "contenuto": "presentazione delle tematiche e delle modalit\u00e0 di svolgimento del corso"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "risultati prova d'esame del 21 settembre 2018",
+      "dataUpload": "21.09.2018 15:30:07",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/IIappello autunnale - risultati.docx",
+      "dimensione": "14 KB"
+    },
+    {
+      "titolo": "risultati prova d'esame del 10/07/2018",
+      "dataUpload": "11.07.2018 12:24:33",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/100718 appello - risultati.docx",
+      "dimensione": "14 KB"
+    },
+    {
+      "titolo": "Risultati prova d'esame del 21 giugno 2018",
+      "dataUpload": "22.06.2018 17:00:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/IA - appello estivo - risultati.docx",
+      "dimensione": "14 KB"
+    },
+    {
+      "titolo": "Risultati secondo appello d'esame",
+      "dataUpload": "01.03.2018 11:45:42",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/IA1 - II appello - 1risultati.docx",
+      "dimensione": "14 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #f3f3f3;\">Risulta della prima prova d'esami di IA1</span>",
+      "dataUpload": "05.02.2018 12:46:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/IA - I appello - risultati.docx",
+      "dimensione": "15 KB"
+    },
+    {
+      "titolo": "altri esercizi",
+      "dataUpload": "26.01.2018 11:15:08",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/esercizi_addizionali.pdf",
+      "dimensione": "249 KB"
+    },
+    {
+      "titolo": "Esempio di esercizio d'esame",
+      "dataUpload": "24.01.2018 15:59:46",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/Compito_di_prova.pdf",
+      "dimensione": "404 KB"
+    },
+    {
+      "titolo": "esercizi con soluzioni",
+      "dataUpload": "16.01.2018 15:58:14",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/nuovi_esercizi_con_soluzioni.pdf",
+      "dimensione": "622 KB"
+    },
+    {
+      "titolo": "<span style=\"font-size: 11pt; font-family: Calibri, sans-serif;\">esercizi su DL+SPARQL</span>",
+      "dataUpload": "11.01.2018 14:56:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/Esercizi_Ontologie_-_OWL_+_SPARQL_8-9_con_soluzioni.pdf",
+      "dimensione": "699 KB"
+    },
+    {
+      "titolo": "esercizi su ontologie",
+      "dataUpload": "09.01.2018 15:01:14",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/Esercizi_Ontologie_-_OWL_1-7_con_soluzioni.pdf",
+      "dimensione": "244 KB"
+    },
+    {
+      "titolo": "SPARQL",
+      "dataUpload": "19.12.2017 16:15:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/SPARQL.pdf",
+      "dimensione": "2242 KB"
+    },
+    {
+      "titolo": "RDF-RFDS",
+      "dataUpload": "19.12.2017 16:14:33",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/RDF-RDFS.pdf",
+      "dimensione": "2265 KB"
+    },
+    {
+      "titolo": "Matching entities..",
+      "dataUpload": "19.12.2017 16:14:14",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/Matching Entities Across Online Social Networks.pdf",
+      "dimensione": "2736 KB"
+    },
+    {
+      "titolo": "mappatura owl-DL",
+      "dataUpload": "19.12.2017 16:13:13",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/mappatura_owl-DL.pdf",
+      "dimensione": "181 KB"
+    },
+    {
+      "titolo": "possibili domande su inheritance",
+      "dataUpload": "13.12.2017 10:58:29",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/7InheritanceDomande.docx",
+      "dimensione": "17 KB"
+    },
+    {
+      "titolo": "possibili domande su DL",
+      "dataUpload": "13.12.2017 10:58:18",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/6DescriptionLogicsDomande.docx",
+      "dimensione": "19 KB"
+    },
+    {
+      "titolo": "possibili domande su Clausole di Horn",
+      "dataUpload": "13.12.2017 10:58:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/4clausoleDiHorn.docx",
+      "dimensione": "18 KB"
+    },
+    {
+      "titolo": "possibili domande su Resolution",
+      "dataUpload": "13.12.2017 10:57:49",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/3Resolution.docx",
+      "dimensione": "18 KB"
+    },
+    {
+      "titolo": "possibili domande su FOL",
+      "dataUpload": "13.12.2017 10:57:14",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/1FOL.docx",
+      "dimensione": "17 KB"
+    },
+    {
+      "titolo": "aspetti dell'inheritance",
+      "dataUpload": "13.12.2017 10:55:22",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/10.Inheritance.pdf",
+      "dimensione": "44 KB"
+    },
+    {
+      "titolo": "logiche descrittive",
+      "dataUpload": "28.11.2017 14:38:01",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/09.DescriptionLogics.pdf",
+      "dimensione": "43 KB"
+    },
+    {
+      "titolo": "frames per rappresentare situazioni",
+      "dataUpload": "20.11.2017 17:41:58",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/08.Frames.pdf",
+      "dimensione": "26 KB"
+    },
+    {
+      "titolo": "Risoluzione con clausole di Horn",
+      "dataUpload": "16.11.2017 13:07:16",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/05.HornLogic.pdf",
+      "dimensione": "21 KB"
+    },
+    {
+      "titolo": "Risoluzione",
+      "dataUpload": "09.11.2017 14:30:01",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/04.Resolution.pdf",
+      "dimensione": "79 KB"
+    },
+    {
+      "titolo": "codificare la conoscenza in una KB",
+      "dataUpload": "31.10.2017 10:31:05",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/03.ExpressingKnowledge.pdf",
+      "dimensione": "14 KB"
+    },
+    {
+      "titolo": "esercizi con quantificatori universali FOL",
+      "dataUpload": "23.10.2017 16:59:57",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/esercizi-quantificatore-universale[2].doc",
+      "dimensione": "30 KB"
+    },
+    {
+      "titolo": "esercizi con quantificatori FOL",
+      "dataUpload": "23.10.2017 16:59:39",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/esercizi-quantificatore-esitestenziale.doc",
+      "dimensione": "25 KB"
+    },
+    {
+      "titolo": "esercizi con formule atomiche\u00a0 FOL",
+      "dataUpload": "23.10.2017 16:59:16",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/esercizi-formule-atomiche.doc",
+      "dimensione": "24 KB"
+    },
+    {
+      "titolo": "esercizi FOL",
+      "dataUpload": "23.10.2017 16:58:53",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/021FOL.ppt",
+      "dimensione": "176 KB"
+    },
+    {
+      "titolo": "Logica del primo ordine",
+      "dataUpload": "17.10.2017 15:02:02",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/02FOL.pdf",
+      "dimensione": "27 KB"
+    },
+    {
+      "titolo": "rappresentazione della conoscenza e ragionamento automatico",
+      "dataUpload": "12.10.2017 10:55:31",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/2RapConoscRagionamento.ppt",
+      "dimensione": "562 KB"
+    },
+    {
+      "titolo": "presentazione delle tematiche e delle modalit\u00e0 di svolgimento del corso di IA1",
+      "dataUpload": "04.10.2017 15:31:24",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IA/1presentazIA1.ppt",
+      "dimensione": "844 KB"
+    }
+  ],
+  "programma": "Programma del corso di Intelligenza Artificiale 1 \u2013 \u201cRappresentazione della conoscenza e Ragionamento automatico\u201d\nPresentazione del corso, introduzione agli argomenti trattati ed alle modalit\u00e0 d\u2019esame\nRappresentazione della conoscenza e ragionamento automatico\nLogica del primo ordine\nBasi di conoscenza: ontologie, inferenza\nSistemi di ragionamento logico: frame e reti semantiche\nIntroduzione al Semantic Web\nRDF/RDFS\nEsercitazioni del corso di Intelligenza Artificiale 1\nOWL: struttura del linguaggio\nEsercizi su gestione conoscenza\nLinguaggi di Interrogazione per il Web Semantico\nStrumenti per lo sviluppo e la gestione di Ontologie\nThesauri and Concept Scheme Development: SKOS & SKOS-XL\nEsercizi su gestione conoscenza\nTecnologie per la gestione di repository RDF\nLinked Open Data\n\nObiettivi formativi del corso di Intelligenza Artificiale 1\nFornire agli studenti che seguono questo corso le motivazioni e la conoscenza di base relative alla modellazione dei sistemi intelligenti; in particolare la gestione della conoscenza (Knowledge Management) e le basi dell\u2019apprendimento automatico oltre alla possibilit\u00e0 del loro uso per risolvere problemi complessi (Knowledge Based Systems) anche nel contesto del Semantic Web.\nTesto consigliato del corso di Intelligenza Artificiale 1\n\u201cKnowledge representation and reasoning\u201d, \u00a0Brachman\u00a0e Levesque:, Morgan Kaufmann, Cap. 1,2,3,4.1,4.2,5,8,9,10\u00a0(solo capitoli\u00a0selezionati)\n\n\nModalit\u00e0 di accertamento del corso di Intelligenza Artificiale 1\n\nEsame scritto con domande a risposta libera ed esercizi",
+  "testiRiferimento": "Testo consigliato del corso di Intelligenza Artificiale 1\n\u201cKnowledge representation and reasoning\u201d, \u00a0Brachman\u00a0e Levesque:, Morgan Kaufmann, Cap. 1,2,3,4.1,4.2,5,8,9,10\u00a0(solo capitoli\u00a0selezionati)",
+  "ricevimento": "dopo ciascuna lezione e su richiesta dello studente in qualunque data; inviare una mail al docente per fissare un incontro (pazienza@info.uniroma2.it)",
+  "modalit\u00e0Esame": "Esame scritto con domande a risposta libera ed esercizi"
+}

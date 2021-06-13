@@ -1,0 +1,154 @@
+{
+  "nomeCorso": "Algoritmi distribuiti e reti complesse",
+  "docente": "Andrea Clementi, Luciano Guala'",
+  "annoAccademico": "2019-2020",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "ADRC",
+      "data": "28-09-2020 12:15",
+      "contenuto": "A causa della nota pandemia COVID-19, le lezioni del corso per l'a.a. 2020-21 avranno luogo in modalit\u00e0 on line, secondo l'orario ufficiale disponibile sul sito del corso di laurea:\n\nLUNEDI et GIOVEDI\u00a0 dalle 14:30 alle 16:30.\n\nIL corso si svolgera' sulla piattaforma TEAM. Nel Team\n\nCLEMENTI-8065531-ALGORITMI_DISTRIBUITI_E_RETI_COMPLESSE\n\ntroverete tutte le informazioni e gli appuntamenti relativi al corso. E' fortemente consigliato partecipare attivamente a tutti gli eventi on-line del corso.\n\n\nPer iscriversi al suddetto TEAM specifico,\u00a0*dopo*\u00a0aver verificato l'attivazione ed il funzionamento delle proprie credenziali sulla suddetta piattaforma (rivolgendosi eventualmente\u00a0ed\u00a0esclusivamente\u00a0ai contatti utili per\u00a0 questa procedura), in caso di problemi\u00a0specifici\u00a0con il team di ADRC, lo studente interessato \u00e8 pregato di inviare una email ai docenti del corso ADRC specificando nel soggetto \"ADRC Team\"."
+    },
+    {
+      "titolo": "ADRC: MODALITA' ESAMI ONLINE",
+      "data": "26-05-2020 11:23",
+      "contenuto": "Gli appelli della sessione estiva saranno svolti oralmente in modalita' on-line utilizzando la piattaforma TEAMS, ovvero altri strumenti di comunicazione comunicati agli studenti. A tal fine si prega ogni studente interessato di: iscriversi al Team di ADRC su TEAMS, e, per chi intende\u00a0 prenotarsi per\u00a0 \u00a0l'appello di giugno, di inviare una email ai proff clementi e guala' entro il 10 giugno (oltre a prenotarsi su DELPHI)."
+    },
+    {
+      "titolo": "ESONERO ADRC DEL 09-01-2020: ESITO",
+      "data": "09-01-2020 18:24",
+      "contenuto": "STUDENTE (sigla o matricola)\u00a0 \u00a0 \u00a0 \u00a0 VOTAZIONE\n0286217 .....................................\u00a0 \u00a0 \u00a0 20/30\nML\u00a0 \u00a0 ..........................................\u00a0 \u00a0 \u00a0 28/30\nMAR-POL ....................................\u00a0 \u00a0 \u00a0 28/30"
+    },
+    {
+      "titolo": "ESONERO DEL 9-01-2020",
+      "data": "07-01-2020 14:23",
+      "contenuto": "Si conferma che giovedi dalle 14.00 alle 16 (circa),\nin aula 7, si terra' l'esonero relativo alla parte del corso del Prof. Clementi. Pertanto, la lezione del dr. Guala' e' posticipata al lunedi successivo."
+    },
+    {
+      "titolo": "LEZIONE DI LUNEDI 28/10",
+      "data": "25-10-2019 18:56",
+      "contenuto": "La lezione di\u00a0 Luned\u00ec 28/10/2019 non avr\u00e0 luogo."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "17",
+      "data": "09-01-2020",
+      "contenuto": "Test intermedio per il I Modulo"
+    },
+    {
+      "id": "16",
+      "data": "05-12-2019",
+      "contenuto": "IProtocolliPUSH-PULL per ilBroadcastsugrafiExpanders.\u00a0Analisi del protocollo PULL suExpanders."
+    },
+    {
+      "id": "15",
+      "data": "02-12-2019",
+      "contenuto": "Dinamiche diVotingper il Consensus: Definizioni,e prime propriet\u00e0. Analisi della k-majorityper ilMajorityConsensus."
+    },
+    {
+      "id": "14",
+      "data": "28-11-2019",
+      "contenuto": "I Modelli di Comunicazione: GOSSIP.Introduzione e definizione formale dei modelli PULL et PUSH"
+    },
+    {
+      "id": "13",
+      "data": "25-11-2019",
+      "contenuto": "Il protocollo BGI per il Broadcast su Radio Networks.\u00a0Analisi della correttezza e del Tempo (Parte II)"
+    },
+    {
+      "id": "12",
+      "data": "21-11-2019",
+      "contenuto": "Il protocollo BGI per il Broadcast su Radio Networks.\u00a0Analisi della correttezza e del Tempo (Parte I)"
+    },
+    {
+      "id": "11",
+      "data": "18-11-2019",
+      "contenuto": "\nIntroduzione ai protocolli randomizzati: Definizioni generali. Esempio:LeaderElectionsuUnlabeledRing."
+    },
+    {
+      "id": "10",
+      "data": "14-11-2019",
+      "contenuto": "RADIO BROADCAST\n- Il Protocollo SELECT: Analisi correttezza e complessit\u00e0 in funzione del grado d.\n- Il Metodo Probabilistico in Computer Science: nozioni fondamentali\n- Costruzione probabilistica\u00a0 di famiglie (n.k)-selettive di dimensione ottimale.\n- Un Lower Bound al RADIO BROADCAST per protocolli deterministici (senza dimostrazione).\n\n(si veda note ed articoli nel materiale didattico allegato)"
+    },
+    {
+      "id": "9",
+      "data": "11-11-2019",
+      "contenuto": "RADIO BROADCAST\n- Analisi della correttezza e della convergenza del protocollo RoundRobin RR.\n- Conoscenza locale del parametro n: tecniche di simulazione e guess.\n- Crticit\u00e0 del protocollo RR.\n- Il concetto di famiglia (n,k)-selettiva H\n- Un primo utilizzo ``sbagliato'' di H\n- Il protcollo SELECT per grafi di grado limitato d"
+    },
+    {
+      "id": "8",
+      "data": "07-11-2019",
+      "contenuto": "- Riassunto della Leader Election su Ring\n- Leader Election su Meshes\n- Introduzione al modello Radio Networks\n- Motivazioni e definizione formale\n- assunzioni del modello\n- Il problema del Broadcast\n- Introduzione al protocollo Round Robin"
+    },
+    {
+      "id": "7",
+      "data": "04-11-2019",
+      "contenuto": "- Analisi della Saturation Techniques su Alberi\nApplicazioni: il calcolo del minimo, della media, funzioni algebriche calcolabili.\n- Il problema della Leader Election: Motivazioni e Definizione\n- Risultato di Angluin: Non calcolabilita'\n- La Leader Election su Ring: 2 protocolli semplici\n- Le Leader Election su Ring: Il protocollo Controlled Distance"
+    },
+    {
+      "id": "6",
+      "data": "24-10-2019",
+      "contenuto": "- Il task \"Depth First Traversal\" (DFT): motivazioni e definizione\n- Restrizioni\n- Il protocollo DFT: descrizione dettagliata\u00a0 e correttezza\n- Il protocollo DFT:\u00a0 analisi della msg complexity e della time complexity.\n- Parallelizzare i messaggi di Feedback: DFT+, un protocollo pi\u00f9 veloce.\n- Analisi della complessit\u00e0 di DFT+\n- Topologie ad Albero: introduzione alla Saturation"
+    },
+    {
+      "id": "5",
+      "data": "21-10-2019",
+      "contenuto": "- IL task \"Spanning Tree\": motivazioni e definizione.\n- Restrizioni\n- Il protocollo Shout\n- Analisi correttezza e complessit\u00e0 di Shout\n- Migliorare la message complexity: Il protocollo Shout+\n- Analisi di Shout +\n- Il caso Multiple Initiator: la rottura della simmetria ed risultato di non-calcolabilit\u00e0 forte."
+    },
+    {
+      "id": "4",
+      "data": "17-10-2019",
+      "contenuto": "- Il Broadcast su\u00a0 \u00a0 Labeled Hypercube H.\n-\u00a0 Il protocollo Hyper-Flood\n- Analisi\u00a0 della correttezza e della complessit\u00e0 di HF\n- il sottoalbero generato da HF\n- Il problema del Wake-UP\n- Un protocollo\u00a0 per WU su topologie generali: correttezza e\ncomplessit\u00e0. Dipendenza dal numero di initiators.\n- Considerazioni e confronto tra Broadcast e WU nei vari settings\n- Il lower Bound per il WU nel caso del grafo completo"
+    },
+    {
+      "id": "3",
+      "data": "14-10-2019",
+      "contenuto": "- Argomenti\u00a0 generali\u00a0 di lower bound su modelli di calcolo distribuiti\n- Un'applicazione per il Broadcast: il lower bound ottimale\u00a0 sulla msg complexity\n- Topologie di reti particolari: La Labeled Hypercube H.\n- Propriet\u00e0 topologiche di H: grado, diametro, cammini minimi."
+    },
+    {
+      "id": "2",
+      "data": "10-10-2019",
+      "contenuto": "Concetti formali e caratteristiche fondamentali del Modello Distribuito Link-Based\nCorrettezza e terminazione locale e globale\nIstruzioni Atomiche\nModelli sincroni ed asincroni\nMessage Complexity\nIdeal Parallel Time\nIl Problema del Broadcast\nRestrizioni Standard\nDefinizione del protocollo Flood\nAnalisi della Correttezza di Flood\n\nCap I-II\u00a0 del libro di Santoro"
+    },
+    {
+      "id": "1",
+      "data": "07-10-2019",
+      "contenuto": "08-10-2018\nPanoramica dei\u00a0 modelli di calcolo distribuito che verranno studiati nel corso.\nIl modello link-based ed il modello radio networks, cenni.\nGrafi\nDefinizioni di problemi/task computazionali in modelli distribuiti: Input ed Ouput.\nUn esempio di task distribuito: la classe di bambini che giocano.\nIl concetto di visione locale e sincronizzazione\nDefinizione degli ingredienti fondamentali di un modello distribuito (Parte I)\n\nCap I del libro di Santoro"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "RADIO BROADCAST AND SELECTIVE FAMILIES",
+      "dataUpload": "14.11.2019 14:12:10",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ADRC/TCS-SELECTIVE.pdf",
+      "dimensione": "301 KB"
+    },
+    {
+      "titolo": "notes on consensus processes",
+      "dataUpload": "04.10.2019 11:05:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ADRC/3-maj-consensus.pdf",
+      "dimensione": "98 KB"
+    },
+    {
+      "titolo": "notes on randomized protocols",
+      "dataUpload": "04.10.2019 11:05:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ADRC/Distributed-Expanders.pdf",
+      "dimensione": "284 KB"
+    },
+    {
+      "titolo": "Slides del Corso",
+      "dataUpload": "04.10.2019 11:03:44",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/ADRC/ADRC CLEMENTI.zip",
+      "dimensione": "2215 KB"
+    }
+  ],
+  "programma": "Il corso ADRC per l'a.a. 2019-20 sar\u00e0 costituito da due moduli:\n\na)\u00a0Calcolo Distribuito\u00a0 (Prof. Clementi)\nb)\u00a0Teoria Algoritmica dei Giochi\u00a0(Dr. Gual\u00e0)\n\n\n\n\nIl modulo (a)\npresenta i principi fondamentali del calcolo distribuito sia da un punto di vista dei modelli di comunicazione/computazione pi\u00f9 importanti che per quanto riguarda i metodi algoritmici fondamentali per tali modelli.\nL'obiettivo formativo e' quello di fornire degli strumenti efficienti e rigorosi per il Problem Solving in cui, rispetto ai corsi algoritmici della triennale, per la prima volta le entit\u00e0 computazionali (agenti)\u00a0 sono molteplici ed interagenti.Questo nuovo paradigma offre ottime\u00a0 basi per progettare\u00a0 protocolli efficienti per problemi fondamentali ed estremamente attuali nel mondo dei moderni sistemi distribuiti.Questa parte sar\u00e0 tenuta del Prof. Clementi e sar\u00e0 di 6 cfu.Nel modulo (b),\u00a0il Dr. Gual\u00e0 tratter\u00e0 un altro aspetto fondamentaledei sistemi distribuiti moderni: la presenza di comportamenti egoistici degli agenti di un sistema distribuito. Tale presenza ha portato negli ultimi decenni a sviluppare un'importante teoria:l'Algorithmic Game Theory. Profondamente ispirata dalla famosa Game Theory (Nash Equilbria), questa teoria viene trattata nel corso per affrontare importanti problematiche nel campo dell'ottimizzazione di reti di comunicazione e di altre applicazioni.\n\n\nQui sotto vengono riportati i \u00a0programmi preliminari\u00a0per i 2 moduli.\u00a0Modulo (a):\u00a0Algoritmi Distribuiti- Modelli di computazione distribuiti: paradigmi, algoritmi, misure di complessit\u00e0, comunicazione- Un processo epidemico: Il\u00a0 Broadcast e l'Information Spreading- Il problema del Wake-Up- Il problema dello Spanning Tree- Il problema del Leader Election- Il Modello Wireless: il fenomeno delle collisioni- Il Broadcast su Wireless Networks: protcolli\u00a0 deterministici e randomizzati- Modelli e Processi\u00a0 Distribuiti avanzati in\u00a0 \u00a0 Network Science\u00a0\u00a0Modulo (b) \u00a0Teoria Algoritmica dei Gioghi**** - da inserire *****",
+  "testiRiferimento": "N. Santoro:\nDesign and analysis of Distributed Algorithms +\u00a0\u00a0Slides e Note del Docente disponibili sulla piattaforma Teams",
+  "ricevimento": "Per appuntamento via email con i Docenti.",
+  "modalit\u00e0Esame": "null"
+}

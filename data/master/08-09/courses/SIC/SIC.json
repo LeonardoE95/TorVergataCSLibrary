@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Sicurezza informatica e cooperazione",
+  "docente": "Maurizio Talamo",
+  "annoAccademico": "2008-2009",
+  "crediti": "12",
+  "settore": "",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "PrerequisitiCorso di \"Sicurezza dei Sistemi Informativi (SSI)\" - Prof. ArcieriTeoria dei grafiArchitetture orientate ai servizi (paradigma SOA)Tecnologie per la rappresentazione di architetture SOA (Web Service Standard)Parte I - Strumenti tecnologici per la sicurezzaNetwork Security: algoritmi a chiave simmetrica e asimmetrica Definizione di identificazione e autenticazioneStrumenti tecnologici per l'identificazione e l'autenticazione: username/password, cookies, firma digitale, smart card,\r\nbiometria, Strong Authentication, CAPTCHAGestione delle credenziali digitali: certificati digitali, Public Key Infrastructure (PKI), Certification Authority (CA),\r\nesercitazione su OpenSSLSicurezza dei dati: definizioni, smart card crittografiche, funzioni di Hashing, digital watermarkCooperazione su rete: definizione di transazione (sicura), protocollo HTTPS (SSL), evoluzione dei sistemi informativi\r\n(da client/server a web service), sicurezza del client (tipologie di attacco, come i browser gestiscono i certificati), problematiche\r\ndi composizione e coordinazione (definizione di servizio, accenni di workflow)Parte II - Metodologie di sicurezzaProcessi di cooperazioneOrganizzazioni virtuali (VO): gerarchiche, non gerarchiche (social networks)Relazioni di fiducia: il trust nei modelli di cooperazione, definizioni e propriet\u00e0, delega e mansioni, esempiRappresentazione di una VO: grafo di contesto, grafo delle transazioni, workflow, criticit\u00e0Rappresentazione di un business process cooperativo: tecnologie, problematiche, modello ibrido, strategie",
+  "testiRiferimento": "Si possono usare le dispense, le slide delle lezioni e gli articoli che verranno segnalati durante il corso.",
+  "ricevimento": "Su appuntamento da concordare con il docente tramite email: talamo[at]nestor[dot]uniroma2[dot]it",
+  "modalit\u00e0Esame": "null"
+}

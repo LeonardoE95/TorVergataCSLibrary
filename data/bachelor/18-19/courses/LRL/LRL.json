@@ -1,0 +1,176 @@
+{
+  "nomeCorso": "Logica e reti logiche",
+  "docente": "Francesco Pasquale",
+  "annoAccademico": "2018-2019",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Sessione Invernale",
+      "data": "25-02-2020 13:19",
+      "contenuto": "Primo Appello (3 febbraio 2020): Compito. Risultati. (Prova orale il 5 febbraio, a partire dalle 14:30 in Aula 3A)\nSecondo Appello (24 febbraio 2020): Compito. Risultati. (Prova orale il 26 febbraio, a partire dalle 14:30 in Aula 3A)"
+    },
+    {
+      "titolo": "Sessione Autunnale",
+      "data": "19-09-2019 10:20",
+      "contenuto": "Primo Appello (11 settembre 2019): Compito. Risultati. (Prova orale il 16 settembre, a partire dalle 10:00 in Aula 3A)\nSecondo Appello (18 settembre 2019): Compito. Risultati. (Prova orale il 20 settembre, a partire dalle 14:30 in Aula 3A)"
+    },
+    {
+      "titolo": "Sessione Estiva",
+      "data": "16-07-2019 16:59",
+      "contenuto": "Primo Appello (27 giugno 2019): Compito A, Compito B. Risultati. (Prova orale il 1 luglio, a partire dalle 10:00 in Aula 3A)\nSecondo Appello (15 luglio 2019): Compito. Risultati.  (Prova orale il 19 luglio, a partire dalle 10:00 in Aula 3A)"
+    },
+    {
+      "titolo": "Test intermedi",
+      "data": "14-06-2019 21:22",
+      "contenuto": "Primo Test (15 aprile 2019): Compito A, Compito B. Risultati.\nSecondo Test (12 giugno 2019): Compito A, Compito B. Risultati.\nAmmessi all'orale."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "26",
+      "data": "12-06-2019",
+      "contenuto": "Secondo test intermedio: Compito A, Compito B. Risultati."
+    },
+    {
+      "id": "25",
+      "data": "10-06-2019",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "24",
+      "data": "05-06-2019",
+      "contenuto": "Rappresentazione dei numeri frazionari: notazione in virgola fissa e notazione in virgola mobile, lo standard IEEE 754."
+    },
+    {
+      "id": "23",
+      "data": "03-06-2019",
+      "contenuto": "Circuiti aritmetici: richiami sul circuito Sommatore/Sottratore (ripple-carry adder). Migliorare l'efficienza del circuito: sommatore/sottrattore con \"anticipazione di riporto\" (carry-lookahead adder). Cenni alle ALU (Arithmetic/Logic Unit) e ai circuiti per la moltiplicazione. ([2]: Cap. 5)."
+    },
+    {
+      "id": "22",
+      "data": "29-05-2019",
+      "contenuto": "Cenni ai linguaggi per la descrizione dell'hardware (HDLs). Simulazione e sintesi. Esempi. ([2]: Cap. 4). Cenni ai sistemi di controllo versione e Git. (I software utilizzati durante la lezione sono: Icarus Verilog per la compilazione del codice Verilog, Yosys per la sintesi dei circuiti, GTKWave per le simulazioni)."
+    },
+    {
+      "id": "21",
+      "data": "22-05-2019",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "20",
+      "data": "20-05-2019",
+      "contenuto": "Macchine alla Moore e macchine alla Mealy. Codifica degli stati: binaria e one-hot. Cenni a metastabilit\u00e0 e sincronizzatori. Modello matematico di automa a stati finiti. ([2]: Cap. 3)"
+    },
+    {
+      "id": "19",
+      "data": "15-05-2019",
+      "contenuto": "Circuiti sequenziali sincroni. Macchine a stati finiti: equazioni, tabelle e diagrammi di stato. Esempi. ([2]: Cap. 3)"
+    },
+    {
+      "id": "18",
+      "data": "13-05-2019",
+      "contenuto": "Introduzione ai circuiti sequenziali: Latch, Flip-Flop e registri. ([2]: Cap. 3)"
+    },
+    {
+      "id": "17",
+      "data": "08-05-2019",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "16",
+      "data": "06-05-2019",
+      "contenuto": "I blocchi funzionali principali dei circuiti combinatori: Encoder, Decoder e Multiplexer. Funzioni Booleane e circuiti. Cenni al problema della temporizzazione. ([2]: Cap. 2)"
+    },
+    {
+      "id": "15",
+      "data": "29-04-2019",
+      "contenuto": "Dalla logica ai circuiti per le operazioni aritmetiche. Esempi: Half Adder, Full Adder e un circuito Addizionatore/Sottrattore. Minimizzazione di formule in forma normale: Il codice Gray e le mappe di Karnaugh. ([2]: Cap. 2)"
+    },
+    {
+      "id": "14",
+      "data": "17-04-2019",
+      "contenuto": "Introduzione alla seconda parte del corso: Reti Logiche. Rappresentazione delle informazioni: binaria, esadecimale, base64. Operazioni aritmetiche e conversioni. Rappresentazione dei numeri in complemento a due (esempio in c: numeri.c). ([2]: Cap. 1)"
+    },
+    {
+      "id": "13",
+      "data": "15-04-2019",
+      "contenuto": "Primo test intermedio: Compito A, Compito B. Risultati."
+    },
+    {
+      "id": "12",
+      "data": "10-04-2019",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "11",
+      "data": "08-04-2019",
+      "contenuto": "Logica del Primo Ordine (III). Un sistema di assiomi per la logica del primo ordine. Cenni alle teorie del primo ordine e all'incompletezza sintattica. ([1]: Cap. 8-9)Cenni ad altre logiche: Logica della conoscenza e il mistero degli isolani dagli occhi blu. (Chi volesse approfondire pu\u00f2 vedere, per esempio, qui)"
+    },
+    {
+      "id": "10",
+      "data": "03-04-2019",
+      "contenuto": "Logica del Primo Ordine (II). Formule valide e il metodo dei tableaux per la logica del primo ordine. Cenni a correttezza e completezza. ([1]: Cap. 9)"
+    },
+    {
+      "id": "9",
+      "data": "01-04-2019",
+      "contenuto": "Logica del Primo Ordine (I). Sintassi e semantica. Quantificatori, variabili, lettere predicative. Formule e interpretazioni nella logica del primo ordine. Formule valide vs tautologie. ([1]: Cap. 8)"
+    },
+    {
+      "id": "8",
+      "data": "27-03-2019",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "7",
+      "data": "25-03-2019",
+      "contenuto": "Logica Proposizionale (IV). Sistemi assiomatici (Hilbert systems) per la logica proposizionale. Schemi di assiomi e regole di inferenza. La regola di inferenza Modus Ponens. Le definizioni di \"Dimostrazione\", \"Teorema\" e \"Derivazione\" in un sistema assiomatico. Un esempio di sistema assiomatico per la logica proposizionale. Il teorema di deduzione. Correttezza del sistema e cenni alla sua completezza. ([1]: Prima parte del Cap. 7 - Per approfondire si veda, per esempio, il Cap 1.4 in [3])"
+    },
+    {
+      "id": "6",
+      "data": "20-03-2019",
+      "contenuto": "Logica Proposizionale (III). Correttezza del metodo dei tableaux. Gli insiemi di Hintikka e il lemma di Hintikka. Completezza del metodo dei tableaux. ([1]: Cap. 6)"
+    },
+    {
+      "id": "5",
+      "data": "18-03-2019",
+      "contenuto": "Logica Proposizionale (II). Il metodo dei tableaux per dimostrare una formula. ([1]: Cap. 6). Cenni alla notazione polacca e alla notazione polacca inversa. Formule ben formate in notazione polacca."
+    },
+    {
+      "id": "4",
+      "data": "13-03-2019",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "3",
+      "data": "11-03-2019",
+      "contenuto": "Logica Proposizionale (I). Sintassi e semantica. Variabili, costanti e connettivi. Formule ben formate. Tabelle di verit\u00e0. Tautologie, contraddizioni, contingenze. Interdipendenza dei connettivi: definire un connettivo in termini di altri connettivi. I connettivi joint denial (NOR) e alternative denial (NAND). ([1]: Cap. 5)"
+    },
+    {
+      "id": "2",
+      "data": "06-03-2019",
+      "contenuto": "I paradossi nella teoria elementare degli insiemi: \"l'insieme di tutti gli insiemi\", il paradosso di Russell, Hypergame. Richiami di matematica: il teorema di Cantor e le dimostrazioni per assurdo; il principio di induzione matematica e le dimostrazioni per induzione. ([1]: Cap 3 e 4)"
+    },
+    {
+      "id": "1",
+      "data": "04-03-2019",
+      "contenuto": "Introduzione al corso e descrizione del programma di massima. Richiami di matematica: teoria elementare degli insiemi; operatori Booleani ed equazioni Booleane; il metodo degli \"indici\" per verificare le equazioni Booleane; insiemi infiniti e cardinalit\u00e0; insiemi numerabili; corrispondenze biunivoche. ([1]: Cap. 1 e 2)"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Si veda la pagina del corso sul sito del docente",
+      "dataUpload": "20.02.2019 19:25:17",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/LRL/redirect.html",
+      "dimensione": "0 KB"
+    }
+  ],
+  "programma": "Prima Parte (Logica)Richiami di matematica: teoria degli insiemi elementare, algebra Booleana, relazioni e funzioni, principio di induzione.Logica proposizionale: connettivi logici, tabelle di verit\u00e0, variabili, formule, tableaux. Sistemi assiomatici. Correttezza e completezza.Logica del primo ordine: quantificatori, relazioni, propriet\u00e0 e predicati, formule della logica del primo ordine. Tableaux del primo ordine.Cenni al fenomeno dell'incompletezza.Seconda Parte (Reti Logiche)Sistemi numerici e rappresentazione dei numeri: binaria, esadecimale, base64. Le operazioni aritmetiche. Rappresentazione delle informazioni: le codifiche ASCII e Unicode; lo standard IEEE754per i numeri in virgola mobile.\nFunzioni Booleane e forme canoniche. Mappe di Karnaugh. Porte logiche e circuiti logici.Circuiti combinatori: codificatori e decodificatori, multiplexer, sommatori e sottrattori.Circuiti sequenziali: Latch e Flip-Flop. Sincronizzazione.\nCenni ai linguaggi per la descrizione dell'hardware (HDLs).\nAutomi a stati finiti.",
+  "testiRiferimento": "Raymond M. Smullyan[1]\u00a0 A Beginner's Guide to Mathematical LogicDover Publications, 2014Sarah L. Harris and David Money Harris[2]\u00a0 Sistemi digitali e architettura dei calcolatoriZanichelli, 2017",
+  "ricevimento": "Durante il periodo delle lezioni (Marzo - Giugno 2019):Gioved\u00ec 15:30 - 18:30 oppure su appuntamento.Al di fuori del periodo delle lezioni:Su appuntamento.",
+  "modalit\u00e0Esame": "L'esame consiste in una prova scritta e in un colloquio orale.Durante il corso si effettueranno due test intermedi. Gli studenti che ricevono una valutazione positiva a entrambi i test sono esonerati dalla prova scritta e ammessi a sostenere direttamente il colloquio orale."
+}

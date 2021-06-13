@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Linguaggi e metodologie di programmazione",
+  "docente": "Marco Bianchi",
+  "annoAccademico": "2011-2012",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Primo semestre Linguaggi di programmazione (Bianchi): Macchina astratta, interprete, linguaggio macchina.\rRealizzazione di una macchina astratta, implementazione di un linguaggio, implementazione interpretativa pura (definizione di interprete).\rImplementazione compilativa pura di un linguaggio (definizione di compilatore). Confronto tra implementazione compilativa pura e implementazione implementativa pura.\rImplementazione reale (con macchina intermedia) di un linguaggio, gerarchie di macchine astratte.\rLinguaggio visto come estensione della macchina astratta.\rBlocchi, regola di visibilit\u00e0 canonica, tipi di ambiente, modifiche dell'ambiente.\rRegole di scope statico.\rRegole di scope dinamico.\rAlcuni problemi di scope. \rMetodologie di programmazione (Tarquini): -- \r Secondo semestre Linguaggi di programmazione (Bianchi): Sonar: una piattaforma open-source per il controllo della qualit\u00e0 del codice (http://www.sonarsource.org/). \rAnt: strumento di supporto allo sviluppo (http://ant.apache.org/).\rCodice duplicato: un indizio di cattiva progettazione.\rMetodologie di programmazione (Tarquini): --",
+  "testiRiferimento": "Linguaggi di programmazione. Principi e paradigmi (II edizione)- Gabbrielli Maurizio e Martini Simone - Editore McGraw-Hill Companies.",
+  "ricevimento": "Al termine delle lezioni o su appuntamento.",
+  "modalit\u00e0Esame": "null"
+}

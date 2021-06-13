@@ -1,0 +1,171 @@
+{
+  "nomeCorso": "Algoritmi e strutture dati 2",
+  "docente": "Francesco Pasquale, Andrea Clementi",
+  "annoAccademico": "2017-2018",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Algoritmi e strutture dati.",
+  "comunicazioni": [
+    {
+      "titolo": "Avviso",
+      "data": "12-01-2018 13:57",
+      "contenuto": "Il secondo homework \u00e8 disponibile per il download. Consegna entro le ore 17:00 di venerd\u00ec 19 gennaio 2018."
+    },
+    {
+      "titolo": "Avviso",
+      "data": "16-11-2017 17:30",
+      "contenuto": "Il primo homework \u00e8 disponibile per il download. Consegna entro le ore 18:00 di gioved\u00ec 23 novembre 2017."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "27",
+      "data": "17-01-2018",
+      "contenuto": "Esercitazione. Conclusione del corso."
+    },
+    {
+      "id": "26",
+      "data": "15-01-2018",
+      "contenuto": "Introduzione alle Cryptocurrencies: cenni alle funzioni hash crittografiche e il loro ruolo nei sistemi di criptovalute. Cenni alle reti peer-to-peer. Il sistema Bitcoin e la sua Blockchain. (Il codice sorgente di Bitcoin \u00e8 liberamente scaricabile qui: https://github.com/bitcoin/bitcoin; per una guida di riferimento si veda, per esempio, [9])."
+    },
+    {
+      "id": "25",
+      "data": "10-01-2018",
+      "contenuto": "Algoritmi online e competitive ratio. Esempio: Ski rental problem. Algoritmi che \"imparano\": un esempio di algoritmo del tipo Randomized Weighted Majority ([8]: Cap. 4.1, 4.2, 4.3). Esercizi."
+    },
+    {
+      "id": "24",
+      "data": "08-01-2018",
+      "contenuto": "Il World Wide Web e la sua struttura di grafo diretto. Cenni al funzionamento di un motore di ricerca: Crawling, Indexing e il problema del Ranking. Il PageRank e sua formulazione come Random Walk. Cenni all'uso delle catene di Markov per l'analisi di algoritmi probabilistici. Esempio: analisi di un semplice algoritmo probabilistico per 2-SAT. ([7]: Cap. 13 e 14, [2]: Cap 7.1). Esercizi."
+    },
+    {
+      "id": "23",
+      "data": "20-12-2017",
+      "contenuto": "Un FPRAS (Fully Polynomial-time Randomized Approximation Scheme) per il problema del conteggio delle assegnazioni che soddisfano una formula in DNF. Cenni alle catene di Markov e ai metodi MCMC (Markov Chain Monte Carlo). ([2]: Cap. 11.2, 11.3, 11.4). Esercizi."
+    },
+    {
+      "id": "22",
+      "data": "18-12-2017",
+      "contenuto": "Metodo Monte Carlo per la stima di parametri. Esempio: Un algoritmo probabilistico che approssima \u03c0. Campionamento casuale (sampling) e conteggio, cenni alla classe #P. Esempio: Fomule in DNF e conteggio approssimato del numero di assegnazioni che soddisfano la formula. ([2]: Cap. 11.1, 11.2)"
+    },
+    {
+      "id": "21",
+      "data": "13-12-2017",
+      "contenuto": "Richiami di teoria elementare dei numeri: teorema di Fermat, radici non-banali dell'unit\u00e0. Il test di primalit\u00e0 di Miller-Rabin ([1]: Cap. 1.3. Per approfondire si veda, per esempio, [6]: Cap. 31.8 oppure l'articolo originale di M.O. Rabin [R80]). (Il codice scritto in aula: primes.py)."
+    },
+    {
+      "id": "20",
+      "data": "11-12-2017",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "19",
+      "data": "06-12-2017",
+      "contenuto": "Stime del discostamento di una variabile aleatoria dal suo valore atteso: disuguaglianze di Markov, Chebyshev e Chernoff. Esempi. ([2]: Cap. 3.1, 3.2, 3.3, 4.2). Esercizi."
+    },
+    {
+      "id": "18",
+      "data": "04-12-2017",
+      "contenuto": "[Lezione tenuta dal Prof. Clementi]: Essential bit content e typical sets. Il primo teorema di Shannon. ([5]. Cap. 4)"
+    },
+    {
+      "id": "17",
+      "data": "29-11-2017",
+      "contenuto": "Introduzione all'analisi di algoritmi probabilistici. Esempi: Un algoritmo probabilistico approssimante per Max Cut. Il valore atteso del numero di confronti dell'algoritmo Random Quick Sort e cenni all'analisi della deviazione dal valore atteso. ([2]: Cap. 2.5 e 6.2). Esercizi."
+    },
+    {
+      "id": "16",
+      "data": "27-11-2017",
+      "contenuto": "[Lezione tenuta dal Prof. Clementi]: Il contenuto informativo di un esperimento aleatorio e l'entropia. Esempi. Compressione lossy di stringhe di bit, Essential bit content di una variabile aleatoria. Esempi. ([5]: Cap. 4)"
+    },
+    {
+      "id": "15",
+      "data": "22-11-2017",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "14",
+      "data": "20-11-2017",
+      "contenuto": "[Lezione tenuta dal Prof. Clementi]: Definizione di sorgente random: distribuzione di probabilit\u00e0. Outcome indipendenti a istanti discreti. Caratteristiche fondamentali per un funzionale che esprima il grado di incertezza di una sorgente random. I casi Massima incertezza e Minima incertezza. Esempi. La definizione di Entropia H(X) di una sorgente X. Propriet\u00e0 fondamentali. La decomposizione del calcolo di H(X) per variabili aleatorie composite. L'entropia della composizione di sorgenti indipendenti. Esempi. ([5]: Cap. 2 e 4)"
+    },
+    {
+      "id": "13",
+      "data": "15-11-2017",
+      "contenuto": "I problemi computazionalmente difficili come risorsa: I fondamenti della crittografia a chiave pubblica, il protocollo di Diffie-Hellman per la generazione di una chiave condivisa e il sistema di cifratura RSA. Richiami di probabilit\u00e0 discreta. Esercizi. ([1]: Cap. 1.2 e 1.4; Per un ripasso di probabilit\u00e0 si vedano i primi 2 capitoli in [2])"
+    },
+    {
+      "id": "12",
+      "data": "13-11-2017",
+      "contenuto": "[Lezione tenuta dal Prof. Clementi]: Introduzione alla teoria dei codici e alla compressione dati. Codifiche a lunghezza fissa e codifiche prefisse a lunghezza variablile, Average Bit Length. L'algoritmo di Huffman. ([3]: Cap. 4.8; si veda anche [1]: Cap. 5.2)"
+    },
+    {
+      "id": "11",
+      "data": "08-11-2017",
+      "contenuto": "Euristiche di ricerca locale. Esempi: Ricerca locale per Min Vertex Cover e Travelling Salesman Problem. Ricerca locale con fattore di approssimazione garantito. Esempio: Un algoritmo approssimante per Max-Cut ([1]: Cap. 9.3, si veda anche [3]: Cap. 12.4). Esercizi."
+    },
+    {
+      "id": "10",
+      "data": "06-11-2017",
+      "contenuto": "Esercitazione. (Il codice scritto in aula per l'Esercizio 5 dell'esercitazione del 16 ottobre: travasi.py)"
+    },
+    {
+      "id": "9",
+      "data": "30-10-2017",
+      "contenuto": "Approssimazioni arbitrariamente buone. Esempio: un FPTAS (Fully Polynomial-Time Approximation Scheme) per il problema Knapsack. Distanze e algoritmi approssimanti: Un algoritmo 2-approssimante per il problema TSP quando i pesi degli archi definiscono una distanza; inapprossimabilit\u00e0 di TSP nel caso generale ([1]: Cap. 9.2, si veda anche [3]: Cap. 11.8). Esercizi."
+    },
+    {
+      "id": "8",
+      "data": "25-10-2017",
+      "contenuto": "Algoritmi approssimanti per problemi di ottimizzazione NP-hard. Esempi: Un algoritmo greedy 1.5-approssimante per il problema Load Balancing ([3]: Cap. 11.1); Un algoritmo 2-approssimante per il problema Min Vertex Cover ([1]: Prima parte Cap. 9.2). Esercizi."
+    },
+    {
+      "id": "7",
+      "data": "23-10-2017",
+      "contenuto": "Ricerca esaustiva intelligente. Le tecniche: Backtracking e Branch-and-bound. Esempi: Un algoritmo per SAT e un algoritmo per TSP ([1]: Cap. 9.1). Esercizi."
+    },
+    {
+      "id": "6",
+      "data": "18-10-2017",
+      "contenuto": "Problemi computazionalmente difficili. La tecnica delle riduzioni polinomiali per valutare la difficolt\u00e0 di un problema relativamente a un altro problema. Esempi: Se esiste un algoritmo polinomiale per 3-SAT allora esiste anche un algoritmo polinomiale per SAT; se esiste un algoritmo polinomiale per Independent Set allora esiste anche un algorimo polinomiale per 3-SAT ([1]: Cap. 8.2 e parte di 8.3). Esercizi."
+    },
+    {
+      "id": "5",
+      "data": "16-10-2017",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "4",
+      "data": "11-10-2017",
+      "contenuto": "La tecnica della Riduzione. Esempi: Un algoritmo lineare per 2-SAT ottenuto tramite riduzione al problema di scomporre un grafo diretto in componenti fortemente connesse e DAG delle componenti. Richiami su grafi diretti, DAGs e topological sorting. Richiami su Linear Programming. ([1]: Esercizio 3.28 e Cap. 7.7). Esercizi."
+    },
+    {
+      "id": "3",
+      "data": "09-10-2017",
+      "contenuto": "La tecnica della Programmazione Dinamica. Esempi: Un algoritmo per Chain matrix multiplication e un algoritmo per Independent set su alberi. ([1]: Cap. 6.5, 6.7). Esercizi."
+    },
+    {
+      "id": "2",
+      "data": "04-10-2017",
+      "contenuto": "La tecnica Divide et Impera. Esempio: l'algoritmo di Karatsuba per moltiplicare due interi. Cenni all'algoritmo di Strassen per la moltiplicazione di matrici. Richiami sulle relazioni di ricorrenza e sul Teorema Master. ([1]: Cap. 1.1, 2.1, 2.2, 2.5). Esercizi."
+    },
+    {
+      "id": "1",
+      "data": "02-10-2017",
+      "contenuto": "Introduzione al corso, descrizione del programma di massima. La tecnica Greedy. Esempio: Un algoritmo greedy per decidere la soddisfacibilit\u00e0 delle formule di Horn ([1]: Cap. 5.3). Esercizi."
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Si veda la pagina del corso sul sito del docente <br> <a href=\"http://www.mat.uniroma2.it/~pasquale/dida/aa1718/asd2/index.html\" target=\"_blank\">http://www.mat.uniroma2.it/~pasquale/dida/aa1718/asd2/index.html</a></br>",
+      "dataUpload": "03.10.2017 12:36:06",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/ASD2/redirect.html",
+      "dimensione": "0 KB"
+    }
+  ],
+  "programma": "Programma provvisorio\n\n1. Progettare algoritmi efficienti. Riepilogo delle tecniche pi\u00f9 efficaci per progettare algoritmi efficienti: Greedy, Divide et Impera, Programmazione dinamica, Riduzioni polinomiali. 2. Problemi computazionalmente difficili. La teoria dell'NP-completezza da un punto di vista algoritmico. Affrontare i problemi computazionalmente difficili: ricerca esaustiva intelligente, algoritmi approssimanti, euristiche di ricerca locale. Algoritmi che sfruttano l'esistenza di problemi computazionalmente difficili: il protocollo RSA e i fondamenti della crittografia a chiave pubblica. La matematica dietro le scene: Teoria dei numeri. 3. Algoritmi probabilistici. Il ruolo della randomness negli algoritmi. Quando scegliere a caso semplifica gli algoritmi: Test di primalit\u00e0 di Miller-Rabin. Quando scegliere a caso rende gli algoritmi pi\u00f9 efficienti: Packet Routing. Quando poter scegliere a caso \u00e8 indispensabile: Protocolli interattivi e zero-knowledge proofs. Le tecniche per analizzare gli algoritmi probabilistici. Hashing. Funzioni hash crittografiche. La rapida evoluzione tecnologica degli ultimi decenni ha portato all'ordine del giorno nuove sfide algoritmiche. Nell'ultima parte del corso ne studieremo alcune e vedremo come sono state affrontate. Per esempio, una o due fra le seguenti: Ranking. Le semplici idee algoritmiche che hanno rivoluzionato i motori di ricerca: PageRank e HITS. La matematica dietro le scene: Algebra lineare e catene di Markov. Algoritmi che imparano. Expert selection e il meta-algoritmo dei multiplicative updates. Big Data. Lavorare con grandi quantit\u00e0 di dati. Quando \"polinomiale\" non \u00e8 abbastanza efficiente: algoritmi sublineari.",
+  "testiRiferimento": "Testi di riferimento\n[1] S. Dasgupta, C. Papadimitriou, and U. Vazirani. Algorithms. McGraw-Hill, 2006. [2] M. Mitzenmacher and E. Upfal. Probability and Computing (2nd edition). Cambridge University Press, 2017.\n\nTesti di supporto\n[3] J. Kleinberg and E. Tardos. Algorithm Design. Addison-Wesley, 2005. [4] C. More, S. Mertens. The Nature of Computation. Oxford University Press, 2011\n[5] D.J.C. MacKay. Information Theory, Inference, and Learning Algorithms. Cambridge University Press, 2003.\n[6] T.H. Cormen, C.E. Leiserson, R.L. Rivest, C. Stein. Introduction to Algorithms. The MIT press, 2001\n[7] D. Easley, J. Kleinberg. Networks, Crowds, and Markets. Cambridge University Press, 2010\n[8] N. Nisan, T. Roughgarden, E. Tardos, V.V. Vazirani (eds.). Algorithmic Game Theory. Cambridge University Press, 2007\n[9] A.M. Antonopoulos. Mastering Bitcoin. Programming the Open Blockchain. O'Reilly, 2017",
+  "ricevimento": "Durante il periodo di svolgimento del corso (Ottobre 2017 - Gennaio 2018):Gioved\u00ec 15:00 - 17:00 oppure su appuntamento.Al di fuori del periodo di svolgimento del corso:Su appuntamento.",
+  "modalit\u00e0Esame": "L'esame consiste in una prova scritta e in un colloquio orale. Durante il corso si effettueranno due prove intermedie sotto forma di homework. Gli studenti che ricevono una valutazione positiva agli homework sono esonerati dalla prova scritta."
+}

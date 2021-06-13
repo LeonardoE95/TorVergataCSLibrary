@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Sistemi cooperativi e reti sociali",
+  "docente": "Maurizio Talamo",
+  "annoAccademico": "2014-2015",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Programma 2014-2015\n- Organizzazioni Virtuali; Social Network; Il cooperation Agreement; i concetti fondamentali dei sistemi cooperativi\n- Relazioni di fiducia: il trust, le propriet\u00e0 del trust, la delega e le mansioni\n- Rappresentazione di una virtual organization: grafo di contesto, grafo delle transazioni, workflow analysis\n- Il modello soa: propriet\u00e0 e limiti\n- Le propriet\u00e0 di un modello per la rappresentazione di un business process cooperativo\n- Introduzione alla peria dei giochi: le preferenze e la funzione di utilit\u00e0\n- Equilibrio di Nash: studio delle condizioni di esistenza e convergenza\n-\n- Applicazioni ai sistemi cooperativi: es. Google, e-bay etc ..",
+  "testiRiferimento": "Maurizio Talamo ed altriModelli di cooperazione e reti sociali: metodi e strumenti di progettoAracne Editrice - 2009",
+  "ricevimento": "Studio: lunedi' e venerdi' dalle 10 alle 11 su appuntamento",
+  "modalit\u00e0Esame": "Orale e discussione del progetto."
+}

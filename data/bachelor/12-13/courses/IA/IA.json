@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Intelligenza artificiale",
+  "docente": "Maria Teresa Pazienza",
+  "annoAccademico": "2012-2013",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Programmazione.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Intelligenza Artificiale, concetti base\rRicerca di soluzioni a problemi\rRappresentazione della conoscenza\rConoscenza incerta\rSistemi di ragionamento logico e probabilistico\rApprendimento automatico",
+  "testiRiferimento": "Libro di testo\r-Intelligenza artificiale: un approccio moderno-, Russel e Norvig; Prentice Hall, vol 1, capitoli 3,7,12\r-Knowledge representation and reasoning-, Brachman e Levesque, MK editors.\rCapitoli1,2,3,4,8,9,10.\rPresentazioni del docente ed articoli (dettagli sul sito)",
+  "ricevimento": "dopo ogni lezione e su appuntamento (inviare mail al docente)",
+  "modalit\u00e0Esame": "null"
+}

@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Modelli e linguaggi di simulazione",
+  "docente": "Giuseppe Iazeolla",
+  "annoAccademico": "2014-2015",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Corso di\n\nModelli & Linguaggi di Simulazione (MLS)\n\nAnno III, Semestre II, Emisemestre I, CFU 6\n\nDocente prof. Giuseppe Iazeolla\n\n\n\nLasimulazionefornisce uno strumento tradizionalmente riservato ai fisici e ai chimici: fare sperimentazioni in condizioni di laboratorio.\n\nNella Laurea in Informatica, la simulazione diventa uno strumento per fare sperimentazioni di laboratorio su sistemi Informatici e Reti usando i linguaggi di programmazione.\n\nObiettivo del corso MLS \u00e8 fornire gli strumenti per lo sviluppo modelli di simulazioneper l\u2019analisi e la progettazione di sistemi Informatici e Reti.\n\nIl corso contempla lo studio di:\n\n\n\n1.Metodi di simulazione discreta\n\n2.Simulazione parallela e distribuita\n\n3.Simulazioneguidata da tracce e da distribuzioni\n\n4.Analisi dei risultati in simulazione\n\n5.Convalida di esperimenti di simulazione\n\n6.Simulazione con linguaggi generali (Java e C++)\n\n7.Simulazione con linguaggi speciali\n\n8.Applicazioni allo studio dei sistemi Informatici e Reti.",
+  "testiRiferimento": "GiuseppeIazeolla\n\nPRINCIPI e METODI\n\ndi SIMULAZIONE DISCRETA\n\nSimulazionesequenziale,parallela,distribuita\n\nsimulazione internet e web\n\nMetodi di analisi dell\u2019output\n\nFranco Angeli2010\n\n\n\n\nGiuseppeIazeollaIMPIANTI RETI SISTEMIINFORMATICIModellistica, Valutazione delle prestazioni e Progettocon Tecniche Analitiche e di SimulazioneFranco Angeli2008",
+  "ricevimento": "Dopo Lezione",
+  "modalit\u00e0Esame": "Prova in Itinere 1\nProva in Itinere2 (per chi ha superato la Prova in Itinere 1)\nProva Finale (per chi ha superato le Prove in Itinere):\nProgetto & Sviluppo di uno studio in MLS\nProgetto: in aula\nSviluppa: a casa (per gruppi).\nEsami Sessione di fine-ciclo\n1^ Appello (orale + discussione Progetto&Sviluppo MLS)\noppure Recupero Prove Itinere 1,2\n2^ Appello (orale + discussione Progetto&Sviluppo MLS)\nEsami Sessioni successive\n1^Appello (orale + discussione Progetto&Sviluppo MLS)\noppure Recupero Prove Itinere1,2\n2^ Appello (orale + discussione Progetto&Sviluppo MLS)"
+}

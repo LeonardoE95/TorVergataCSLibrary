@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Ottimizzazione combinatoria",
+  "docente": "Fabrizio Rossi",
+  "annoAccademico": "2006-2007",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Complementi di Programmazione Lineare (LP): calcolo di tutte \r\nle soluzioni ottime di un problema LP. Risoluzione efficiente\r\ndi un problema LP.\r\nIl problema della Programmazione Lineare a variabili intere (ILP).  \r\nAlgoritmi classici per problemi ILP: l'algoritmo duale frazionario\r\ned il metodo dei tagli di Gomory.\r\nL'approccio Branch & Bound (B&B): l'algoritmo B&B efficiente. \r\nIl principio di Bellmann.\r\nIl problema dello zaino: l'algoritmo goloso.\r\nL'approccio gruppale: rilassamento ILPC di un ILP.\r\nL'algoritmo asintotico di Gomory. \r\nL'algoritmo di Hu e relazioni con l'algoritmo di Dijkstra. \r\nEstensioni dell'algoritmo di Hu.\r\nIl metodo Branch & Cut.\r\nApplicazioni operative.",
+  "testiRiferimento": "",
+  "ricevimento": "",
+  "modalit\u00e0Esame": "null"
+}

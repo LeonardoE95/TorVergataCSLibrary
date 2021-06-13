@@ -1,0 +1,35 @@
+{
+  "nomeCorso": "Linguaggi e metodologie di programmazione",
+  "docente": "Fabio Massimo Zanzotto, Armando Stellato",
+  "annoAccademico": "2019-2020",
+  "crediti": "12",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "2",
+      "data": "04-03-2020",
+      "contenuto": "Descrizione minimale dei Costrutti Prolog\nDescrizione ed analisi dell'algoritmo di risoluzione del Prolog\nPrimi esercizi con le liste:\n1) member\n2) append\n3) reverse (in modalit\u00e0 lezione con alternative di codice)"
+    },
+    {
+      "id": "1",
+      "data": "02-03-2020",
+      "contenuto": "Introduzione alla Modalit\u00e0 di Programmazione Dichiarativa\nEsercizio del Cruciverba in Object Oriented\nBreve descrizione del Linguaggio Prolog\nRisoluzione dell'Esercizio del Cruciverba in 5 minuti"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "<a href=\"http://art.uniroma2.it/teaching/lmp/\" target=\"_blank\">Sito Web del corso</a>",
+      "dataUpload": "18.10.2019 10:34:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/LMP/Fabio-Massimo-Zanzotto-New-Copia.jpg",
+      "dimensione": "757 KB"
+    }
+  ],
+  "programma": "Guardare corso su didattica.uniroma2.it\n\nModulo A\nModulo B",
+  "testiRiferimento": "Guardare corso su didattica.uniroma2.it\n\nModulo A\nModulo B",
+  "ricevimento": "Ricevimento\nProf. Stellato\nProf. Zanzotto",
+  "modalit\u00e0Esame": "Guardare corso su didattica.uniroma2.it\n\nModulo A\nModulo B"
+}

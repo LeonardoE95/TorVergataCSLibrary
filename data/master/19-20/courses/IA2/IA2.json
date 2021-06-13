@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Intelligenza artificiale 2",
+  "docente": "Armando Stellato",
+  "annoAccademico": "2019-2020",
+  "crediti": "9",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "28-02-2020 10:27",
+      "contenuto": "Tutte le informazioni sul programma del corso, materiale didattico, regolamento d'esame etc..\nsono disponibili su:\n\nhttp://art.uniroma2.it/teaching/lod/"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Tutte le informazioni sul programma del corso, materiale didattico, regolamento d'esame etc..\nsono disponibili su:\n\nhttp://art.uniroma2.it/teaching/lod/",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Sistemi cooperativi e reti sociali",
+  "docente": "Maurizio Talamo",
+  "annoAccademico": "2015-2016",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "1) Introduzione di Complex Web attraverso analisi di contesti.\n2) Definizione formale di Complex Web.\n3) Studio dell propriet\u00e0 di un complex web\n4) Definizione di meta regole per il riconoscimento di un sistema complesso.\n5) Richiamo dei concetti di protocollo su rete.\n6) Richiami sui protocolli IP, TCP, HTTP, SSL.\n7) Un linguaggio basato sul riconoscimento delle stringhe\n8) Ottenimento di sequenze elementari di eventi su WEB\n9) Il modello degli stati\n10) Il modello delle transizioni temporali\n11) Dipendenza e causalit\u00e0\n12) Il grafo causale.\n13) Rappresentazione di complex web come insieme di grafi causali.\n\nMateriale didattico: dispense distribuite dal docente.",
+  "testiRiferimento": "Dispense a cura del docente, distribuite durante le lezioni.",
+  "ricevimento": "Su appuntamento da richiedere tramite email a maurizio.talamo@uniroma2.it",
+  "modalit\u00e0Esame": "L'esame \u00e8 orale. Durante la prova si discutono alcuni esercizi che sono assegnati agli studenti durante le lezioni."
+}

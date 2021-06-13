@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Analisi numerica",
+  "docente": "Stefano Fanelli",
+  "annoAccademico": "2001-2002",
+  "crediti": "6",
+  "settore": "",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Complessita' degli algoritmi algebrici e numerici. Complessita' di funzioni razionali. Programmi bilineari. Applicazione alla risoluzione di sistemi lineari. Algoritmi paralleli. Trasformata rapida di Fourier.",
+  "testiRiferimento": "",
+  "ricevimento": "",
+  "modalit\u00e0Esame": "null"
+}

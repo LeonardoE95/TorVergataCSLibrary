@@ -1,0 +1,59 @@
+{
+  "nomeCorso": "Ingegneria del software",
+  "docente": "Benedetto Intrigila, Andrea D'Ambrogio",
+  "annoAccademico": "2017-2018",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Linguaggi e metodologie di programmazione.",
+  "comunicazioni": [
+    {
+      "titolo": "Prova 12 febbraio 2019",
+      "data": "15-02-2019 13:43",
+      "contenuto": "Studente Marcotulli Matteo:\n1a parte: voto 22\n2a parte: voto 30"
+    },
+    {
+      "titolo": "Gruppi",
+      "data": "02-10-2017 21:16",
+      "contenuto": "Tutti gli studenti (indipendentemente dalla frequenza) devono formare dei gruppi e darne comunicazione al docente."
+    }
+  ],
+  "lezioni": [],
+  "materiale": [
+    {
+      "titolo": "Risultati compito 26/2/19",
+      "dataUpload": "28.02.2019 17:03:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IS/risultati_17_18_PROVA_26_2_19.pdf",
+      "dimensione": "376 KB"
+    },
+    {
+      "titolo": "Risultati compito 18/9/18",
+      "dataUpload": "21.09.2018 15:42:17",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IS/Risultati_compito_18_9_18.pdf",
+      "dimensione": "453 KB"
+    },
+    {
+      "titolo": "Risultati compito 10/9/18",
+      "dataUpload": "12.09.2018 13:37:47",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IS/Risultati_compito_10_9_18.pdf",
+      "dimensione": "383 KB"
+    },
+    {
+      "titolo": "Risultati compito 10/7/18",
+      "dataUpload": "12.07.2018 16:50:39",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IS/Risultati_compito_10_7_18.pdf",
+      "dimensione": "379 KB"
+    },
+    {
+      "titolo": "Risultati compito 11/6/18",
+      "dataUpload": "13.06.2018 20:41:06",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/IS/Risultati_compito_11_6_18.pdf",
+      "dimensione": "391 KB"
+    }
+  ],
+  "programma": "ProgrammaPrima Parte:Il ciclo di vita del softwareGestione dei requisiti software (Principalmente).Design (Cenni).Sviluppo (Cenni).Verifica e validazione (Cenni).Il linguaggio di modellazione UML e il suo uso nell'analisi dei requisiti.",
+  "testiRiferimento": "I. Sommerville\u00a0Software Engineering 7\u00a0(o edizioni successive)\u00a0(come integrazione sar\u00e0 usato anche:\u00a0CRAIG LARMAN:\u00a0Applicare UML e i pattern. Analisi e progettazione orientata agli oggetti.)\u00a0Per UML:\u00a0L. Baresi, L. Lavazza, M. Pianciamore\u00a0Dall'idea al codice con UML 2\u00a0Addison Wesley\n\nTool di Modellazione UML: Visual Paradigm\n\nVisual Paradigm\u00a0grants University of Rome II\u00a0UML tools,\u00a0BPMN tools,\u00a0Agile Story Mapping tools\u00a0and\u00a0DFD tools\u00a0under the\u00a0Academic Training Partner Program.",
+  "ricevimento": "Si riceve per appuntamento da prendere per mail.\nStudio 1212 Dente B (tel. 0672594670)email:intrigil@mat.uniroma2.it",
+  "modalit\u00e0Esame": "null"
+}

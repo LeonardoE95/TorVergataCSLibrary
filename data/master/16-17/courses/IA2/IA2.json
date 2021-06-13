@@ -1,0 +1,264 @@
+{
+  "nomeCorso": "Intelligenza artificiale 2",
+  "docente": "Maria Teresa Pazienza",
+  "annoAccademico": "2016-2017",
+  "crediti": "9",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "orario Intelligenza Artificiale 2",
+      "data": "10-10-2016 15:02",
+      "contenuto": "Si invitano gli studenti a contattare al pi\u00f9 presto il docente del corso prof. Maria Teresa Pazienza (pazienza@info.uniroma2.it) per concordare l'orario definitivo delle lezioni"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "25",
+      "data": "25-01-2017",
+      "contenuto": "analisi del progetto con gli studenti"
+    },
+    {
+      "id": "24",
+      "data": "18-01-2017",
+      "contenuto": "Analisi preliminare dei progetti e introduzione a RDF4J Workbench."
+    },
+    {
+      "id": "23",
+      "data": "19-12-2016",
+      "contenuto": "- Costruzione di una ontologia sul dominio dell'universit\u00e0 (usando Prot\u00e9g\u00e9)- Eccezioni e contesti in RDF4J"
+    },
+    {
+      "id": "22",
+      "data": "19-12-2016",
+      "contenuto": "- Uso della libreria su Lemon Design Patterns (state verb, intersective adjective)- OWL 2[if !supportLineBreakNewLine][endif]"
+    },
+    {
+      "id": "21",
+      "data": "16-12-2016",
+      "contenuto": "- Uso della libreria su Lemon Design Patterns (proper noun, class noun, relational noun, state verb)[https://github.com/jmccrae/lemon.patterns]"
+    },
+    {
+      "id": "20",
+      "data": "14-12-2016",
+      "contenuto": "Uso di una libreria per i DUDES\nCenni su SPIN (http://spinrdf.org/)"
+    },
+    {
+      "id": "19",
+      "data": "12-12-2016",
+      "contenuto": "Ulteriore dettagli relativi ai progetti\nUso di una libreria per i DUDES"
+    },
+    {
+      "id": "18",
+      "data": "05-12-2016",
+      "contenuto": "Ripasso nuove feature Java 8"
+    },
+    {
+      "id": "17",
+      "data": "07-12-2016",
+      "contenuto": "Presentazione dei progetti IA2 a.a. 2016-2017\nRDF4J QueryBuilderFactory e interrogazione endpoint remoto\nUlteriori info su TopBraid Composer Free Edition"
+    },
+    {
+      "id": "16",
+      "data": "02-12-2016",
+      "contenuto": "- Nuove feature di Java 8 (e Java 7) utili per RDF4J- RDF4J Repository e query SPARQL- Brevissima introduzione a TopBraid Composer Free Edition[if !supportLineBreakNewLine][endif]"
+    },
+    {
+      "id": "15",
+      "data": "30-11-2016",
+      "contenuto": "RDF4J (interfaccia Model, lettura e scrittura di RDF con Rio)\nYASGUI\nLinked Open Vocabularies\nprefix.cc\nWebVOWL: Web-based Visualization of Ontologies"
+    },
+    {
+      "id": "14",
+      "data": "28-11-2016",
+      "contenuto": "Pythia\nDBpedia\nCenni su articolo: \"Template-Based Question Answering over RDF Data\"\nReasoning: Ambiguity"
+    },
+    {
+      "id": "13",
+      "data": "25-11-2016",
+      "contenuto": "Ripasso generazione della grammatica\nRipasso di Prot\u00e9g\u00e9 + spiegazione query tramite manchester syntax\nSPARQL\nQA su RDF (fino ad esempio di Pythia escluso)"
+    },
+    {
+      "id": "12",
+      "data": "23-11-2016",
+      "contenuto": "- Generazione della grammatica- Approfondimento sull'uso di Prot\u00e9g\u00e9 Desktop (creazione di classi, descrizione in Manchester Syntax, inferenze)"
+    },
+    {
+      "id": "11",
+      "data": "21-11-2016",
+      "contenuto": "modellazione in Lemon di parole appartenenti a diverse categorie sintattiche"
+    },
+    {
+      "id": "10",
+      "data": "18-11-2016",
+      "contenuto": "lessici ontologici"
+    },
+    {
+      "id": "9",
+      "data": "16-11-2016",
+      "contenuto": "OWL"
+    },
+    {
+      "id": "8",
+      "data": "14-11-2016",
+      "contenuto": "richiami di RDF"
+    },
+    {
+      "id": "7",
+      "data": "11-11-2016",
+      "contenuto": "allineare la rappresentazione semantica di una frase ad una ontologia"
+    },
+    {
+      "id": "6",
+      "data": "09-11-2016",
+      "contenuto": "identificazione del significato di una sentence. LTAG"
+    },
+    {
+      "id": "5",
+      "data": "07-11-2016",
+      "contenuto": "interpretazione automatica di sentences"
+    },
+    {
+      "id": "4",
+      "data": "04-11-2016",
+      "contenuto": "Sistemi di IR/IE e Q/A"
+    },
+    {
+      "id": "3",
+      "data": "02-11-2016",
+      "contenuto": "Grammatiche per la descrizione ed analisi di frasi in linguaggio naturale"
+    },
+    {
+      "id": "2",
+      "data": "26-10-2016",
+      "contenuto": "Semantica del linguaggio naturale, ontologie e ragionamento automatico"
+    },
+    {
+      "id": "1",
+      "data": "24-10-2016",
+      "contenuto": "Introduzione agli argomenti del corso ed alle modalit\u00e0 di svolgimento di lezioni, esercitazioni ed esami"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "risultati prova d'esame del 20 giugno 2017",
+      "dataUpload": "23.06.2017 14:43:42",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Appello_EstivoIA1.docx",
+      "dimensione": "14 KB"
+    },
+    {
+      "titolo": "Esercizio per la creazione di una ontologia",
+      "dataUpload": "11.01.2017 10:24:22",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/EsercizioProgettazioneOntologia.pdf",
+      "dimensione": "75 KB"
+    },
+    {
+      "titolo": "OWL2",
+      "dataUpload": "11.01.2017 10:23:12",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/OWL2 - EN.pdf",
+      "dimensione": "2249 KB"
+    },
+    {
+      "titolo": "descrizione del progetto da realizzare",
+      "dataUpload": "13.12.2016 16:35:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/progettoIA2_2016-17.pdf",
+      "dimensione": "531 KB"
+    },
+    {
+      "titolo": "link utili",
+      "dataUpload": "05.12.2016 12:15:51",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Links lecture 2 December 2016.pdf",
+      "dimensione": "203 KB"
+    },
+    {
+      "titolo": "link richiamati nella lezione del 30 novembre",
+      "dataUpload": "01.12.2016 17:24:12",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Links lecture 30 November 2016.pdf",
+      "dimensione": "238 KB"
+    },
+    {
+      "titolo": "link utili",
+      "dataUpload": "28.11.2016 16:13:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Links lecture 28 November 2016.pdf",
+      "dimensione": "233 KB"
+    },
+    {
+      "titolo": "ontology based question answering",
+      "dataUpload": "28.11.2016 16:12:57",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Day5_modificato.pdf",
+      "dimensione": "1110 KB"
+    },
+    {
+      "titolo": "ragionamento automatico su ambiguit\u00e0",
+      "dataUpload": "28.11.2016 16:12:10",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Day4_modificato.pdf",
+      "dimensione": "789 KB"
+    },
+    {
+      "titolo": "links utili",
+      "dataUpload": "21.11.2016 16:19:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Links lecture 21 November 2016.pdf",
+      "dimensione": "211 KB"
+    },
+    {
+      "titolo": "lessici ontologici",
+      "dataUpload": "18.11.2016 15:31:38",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Day3_modificato.pdf",
+      "dimensione": "1137 KB"
+    },
+    {
+      "titolo": "esercizi RDF",
+      "dataUpload": "18.11.2016 15:30:43",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/RDF - Exercises - EN.pdf",
+      "dimensione": "674 KB"
+    },
+    {
+      "titolo": "OWL",
+      "dataUpload": "18.11.2016 15:30:20",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/OWL - EN.pdf",
+      "dimensione": "3426 KB"
+    },
+    {
+      "titolo": "richiami di RDF",
+      "dataUpload": "14.11.2016 15:44:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/RDF-RDFS - EN.pdf",
+      "dimensione": "2662 KB"
+    },
+    {
+      "titolo": "sintassi e semantica per la comprensione del significato dei testi",
+      "dataUpload": "09.11.2016 13:36:20",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Day2.pdf",
+      "dimensione": "2076 KB"
+    },
+    {
+      "titolo": "interpretazione del linguaggio naturale",
+      "dataUpload": "09.11.2016 13:35:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/Day1.pdf",
+      "dimensione": "872 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #d7ecfc;\">Elaborazione del linguaggio naturale: cenni</span>",
+      "dataUpload": "28.10.2016 12:52:05",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/2introElaborazLinguagNaturale.pptx",
+      "dimensione": "399 KB"
+    },
+    {
+      "titolo": "Semantica del linguaggio naturale, ontologie e ragionamento automatico",
+      "dataUpload": "24.10.2016 09:55:26",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/1IngegnConoscenza.ppt",
+      "dimensione": "1491 KB"
+    },
+    {
+      "titolo": "Informazioni generali sul corso di Intelligenza Artificiale 2",
+      "dataUpload": "03.10.2016 15:19:19",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/IA2/programmaIntelligenza Artificiale 2.docx",
+      "dimensione": "17 KB"
+    }
+  ],
+  "programma": "Introduzione all\u2019elaborazione del linguaggio naturale (NLP simbolico)\nSemantica, semantica lessicale, sistemi basati su semantica\nAnalisi del discorso\nOntologie\nModelli, metodologie di rappresentazione di conoscenza concettuale, linguaggi, tecnologie\nLogiche terminologiche, logiche descrittive\nSemantic Web\nApplicazioni\u00a0(es. IE, Q/A, reasoning) che traggono vantaggio\u00a0da approcci misti basati su\u00a0NLP e\u00a0ontologie\nSemantica e Big Data, linguaggi, tecnologie, applicazioni",
+  "testiRiferimento": "\u201cOntology-based Interpretation of Natural Language\u201d\nAutori: P. Cimiano, C. Unger, J. McCrae\n\nMorgan & Claypool\u00a0publishers, 2014",
+  "ricevimento": "Il docente \u00e8 disponibile a ricevere gli studenti subito dopo ogni lezione.\nInoltre si pu\u00f2 fissare un ricevimento personale in data ed ora da concordarsi inviando una mail al docente",
+  "modalit\u00e0Esame": "Esame orale sulle tematiche svolte a lezione, e progetto.\nInformazioni sul progetto:\n\nIl progetto consiste nello sviluppo di un sistema di question answering per basi di conoscenza aderenti agli standard di rappresentazione usati nel contesto del Semantic Web.\nIl sistema deve accettare domande formulate in lingua Inglese, tradurle nel linguaggio (formale) di interrogazione SPARQL e sottometterle alla base di conoscenza per recuperare i risultati.Le prove saranno effettuate su una specifica base di conoscenza, costruita durante lo sviluppo del sistema. Ciononostante, il progetto del sistema deve supportare il suo adattamento ad ontologie differenti.Il progetto pu\u00f2 essere svolto in gruppi formati al massimo da tre persone. Ciascun gruppo dovrebbe lavorare su un dominio specifico, o quantomeno su un aspetto specifico di uno stesso dominio.Al termine del progetto, sar\u00e0 necessario consegnare con debito anticipo:\u2022\u00a0\u00a0\u00a0 i sorgenti (accompagnati da istruzioni per compilare ed eseguire il sistema)\u2022\u00a0\u00a0\u00a0 una relazione (del lavoro svolto)Nel corso della prova orale, sar\u00e0 inoltre richiesto di mostrare e discutere\u2022\u00a0\u00a0\u00a0 una presentazione sul progetto realizzatoL\u2019esecuzione del progetto deve essere basata sull\u2019approccio, le tecniche e le tecnologie che saranno discusse nell\u2019ambito del corso. Si suggerisce, pertanto, che il lavoro sul progetto sia svolto durante il corso, man mano che gli argomenti rilevanti sono stati introdotti."
+}

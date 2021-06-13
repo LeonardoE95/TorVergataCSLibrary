@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Calcolo numerico",
+  "docente": "Carla Manni",
+  "annoAccademico": "2016-2017",
+  "crediti": "6",
+  "settore": "MAT/08",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Analisi Matematica. Matematica discreta.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Aritmetica in precisione finita\nMetodi numerici per equazioni non lineari\nMetodi numerici per\u00a0\u00a0sistemi lineari\nInterpolazione ed Approssimazione\nIntegrazione Numerica\nTrattamento numerico di\u00a0\u00a0equazioni differenziali (cenni)",
+  "testiRiferimento": "D. Bini, M. Capovani, O. Menchi,\u00a0\u00a0Metodi numerici per l'Algebra Lineare, Zanichelli, Bologna, 1988\nR. Bevilacqua, D. Bini, M. Capovani, O. Menchi,\u00a0\u00a0Metodi Numerici,\u00a0\u00a0Zanichelli, Bologna, 1992.\nA. Quarteroni, R. Sacco, F. Saleri,\u00a0\u00a0Matematica Numerica,\u00a0\u00a0Springer 2008.",
+  "ricevimento": "da concordare direttamente con il docente via email.",
+  "modalit\u00e0Esame": "esame scritto e orale"
+}

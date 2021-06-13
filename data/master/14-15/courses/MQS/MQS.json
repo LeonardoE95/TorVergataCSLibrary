@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Modelli e qualit\u00e0 del SW",
+  "docente": "Giuseppe Iazeolla, Andrea D'Ambrogio",
+  "annoAccademico": "2014-2015",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Corso di\n\nModelli e Qualit\u00e0 delSoftware (MQS)\n\nLaurea magistrale, Anno II,Semestre I, CFU9\n\nDocenti prof. Giuseppe Iazeolla, prof Andrea D\u2019Ambrogio\n\n\n\nProgramma del Corso\n\nParte prof. Iazeolla\nmodelli di qualit\u00e0\nindici e attributi di qualit\u00e0\nverifica e convalida della qualit\u00e0\naffidabilit\u00e0 del software\nmodelli statici e dinamici di affidabilit\u00e0\nstatistical testing\nmetodi analitici e simulativi di stima dell\u2019 affidabilit\u00e0\nsicurezza del software\nmetodi di stima della sicurezza\n\n\n\nParteprof. D\u2019Ambrogio\nmodel-driven engineering (MDE)\napproccio MDE basato su model-driven architecture (MDA) e relativi standard (MOF, XMI, etc.)\nlinguaggi e strumenti di model transformation\nmodel-driven quality management",
+  "testiRiferimento": "Giuseppe Iazeolla\nAffidabilit\u00e0 e Sicurezza del Software, Franco Angeli, 2013\n\nSchach S.R.\nSoftware Engineering(3rd Edition), Irwin\n\nSommerville I.,\nSoftware Engineering (6th Edition), Addison-Wesley",
+  "ricevimento": "Dopo lezione",
+  "modalit\u00e0Esame": "Modalit\u00e0 d\u2019esame MQS\n\nProva in Itinere 1\nProva in Itinere 2(se superata Prova in Itinere 1)\nProgetto e Sviluppo di uno studio MQS\n\nProgetto (in Aula)\n\nSviluppo (a Casa, per gruppi)\n\nEsami\n1^ Appello\n\nProva finale (scritta, usa i risultati dello Sviluppo studio MQS)\noppure\n\nRecupero Prova in Itinere 1\nRecupero Prova in Itinere 2(se superato Recupero Prova Itinere 1)\nProgetto e Sviluppo di uno studio MQS\n\n2^ Appello esuccessivi\n\nProva finale (scritta, usa i risultati dello Sviluppo studio MQS)\noppure\n\nRecupero Prova in Itinere 1\nRecupero Prova in Itinere 2(se superato Recupero Prova Itinere 1)\nProgetto e Sviluppo di uno studio MQS"
+}

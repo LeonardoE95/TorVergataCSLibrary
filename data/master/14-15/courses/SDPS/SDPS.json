@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Sistemi distribuiti di programmazione e simulazione",
+  "docente": "Giuseppe Iazeolla, Andrea D'Ambrogio",
+  "annoAccademico": "2014-2015",
+  "crediti": "9",
+  "settore": "ING-INF/05",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Corso di\n\n\n\nSistemi Distribuiti di Programmazione e Simulazione (SDPS)\n\n\n\nLaurea Magistrale in Informatica,Anno II, Semestre II, 9 CFU\n\n\n\nproff. Giuseppe Iazeolla e Andrea D\u2019Ambrogio\n\n\n\n\n\n\n\nProgramma del corso\n\n\n\n1. Il paradigma della programmazione centralizzata\n\n\n\n2. Ilparadigma della simulazione distribuita\n\n\n\n3. Distribuzione in rete locale e rete geografica\n\n\n\n4. Middleware per la simulazione distribuita : HLA e SimArch\n\n\n\n5. Progetto e Sviluppo di uno studio SDPS in Java & HLA\n\n\n\n6. Progetto e Sviluppo di uno studio SDPS SimArch\n\n\n\n7. La legge di Amdhal in simulazione distribuita\n\n\n\n8. Analisi dello speedup\n\n\n\n9. Simulazione distribuita in-the-loop.",
+  "testiRiferimento": "Corso di\n\n\n\nSistemi Distribuiti di Programmazione e Simulazione (SDPS)\nLibri di Testo\n\n\n\n\n\n\n\nGiuseppeIazeolla\n\nPRINCIPI e METODI\n\ndi SIMULAZIONE DISCRETA\n\nSimulazionesequenziale,parallela,distribuita\n\nsimulazione internet e web\n\nMetodi di analisi dell\u2019output\n\nFranco Angeli2010\n\n\n\n\n\nGiuseppe Iazeolla\n\nRETI IMPIANTI SISTEMI INFORMATICI\n\nEsercizi\n\ndi Simulazione Centralizzata e Distribuita\n\nFranco Angeli2011",
+  "ricevimento": "Dopo lezione",
+  "modalit\u00e0Esame": "Modalit\u00e0 d\u2019esame SDPS\nProva in Itinere 1\nProva in Itinere 2(se superata la Prova in Itinere 1)\nProva in Itinere 3(se superata la Prova in Itinere 2)\nProgetto e Sviluppo di uno studio in Simulazione Centralizzata\nProgetto (in Aula)\nSviluppo (a Casa, per gruppi)\nEsami\n1^ Appello\nProva finale\nProgetto e Sviluppo in SDPS dello studio della Prova Itinere 3\nProgetto (in Aula)\nSviluppo (a Casa, per gruppi)\noppure\nRecupero Prove in Itinere 1, 2, 3\nProgetto e Sviluppo in SDPS dello studio della Prova Itinere 3\n2^ Appello esuccessivi\n\nProva finale\nProgetto e Sviluppo in SDPS dello studio della Prova Itinere 3\nProgetto (in Aula)\nSviluppo (a Casa, per gruppi)\noppure\nRecupero Prove in Itinere 1, 2, 3\nProgetto e Sviluppo in SDPS dello studio della Prova Itinere 3"
+}

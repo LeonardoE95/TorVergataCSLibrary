@@ -1,0 +1,156 @@
+{
+  "nomeCorso": "Natural language processing",
+  "docente": "Fabio Massimo Zanzotto",
+  "annoAccademico": "2019-2020",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "25",
+      "data": "20-01-2020",
+      "contenuto": "Using and Building Textual Entailment Lexicons\nBuilding Textual Entailment Corpora"
+    },
+    {
+      "id": "24",
+      "data": "12-12-2019",
+      "contenuto": "Distributional Approches to Semantic aka Word Embedding"
+    },
+    {
+      "id": "23",
+      "data": "09-12-2019",
+      "contenuto": "Anaphora Resolution\nWord Sense Disambuigation"
+    },
+    {
+      "id": "22",
+      "data": "05-12-2019",
+      "contenuto": "Micro-Teorie per costruire una Macroteoria:\nPOS, Chunking, PP-Attachment Resolution, NER"
+    },
+    {
+      "id": "21",
+      "data": "02-12-2019",
+      "contenuto": "Lexicalized Tree Adjoining Grammars"
+    },
+    {
+      "id": "20",
+      "data": "28-11-2019",
+      "contenuto": "Frame di Minsky\nFrame di Fillmore\nFrames e FrameNet\nLambda Calcolo per Semantica in NLP: Introduzione"
+    },
+    {
+      "id": "19",
+      "data": "25-11-2019",
+      "contenuto": "Semantica e Semiotica\nComposizionalit\u00e0 semantica e primitive semantiche\nWordNet"
+    },
+    {
+      "id": "18",
+      "data": "16-12-2019",
+      "contenuto": "Rappresentazioni Distribuite:\nIntroduzione alle rappresentazioni one-hot e compressione delle stesse"
+    },
+    {
+      "id": "17",
+      "data": "19-12-2019",
+      "contenuto": "Analisi delle problematiche del progetto assegnato"
+    },
+    {
+      "id": "16",
+      "data": "09-01-2020",
+      "contenuto": "Rappresentazioni distribute\nIntroduzione alle rappresentazioni holographic\nPaper di riferimento:\u00a0https://www.researchgate.net/publication/313247648_Symbolic_Distributed_and_Distributional_Representations_for_Natural_Language_Processing_in_the_Era_of_Deep_Learning_a_Survey"
+    },
+    {
+      "id": "15",
+      "data": "16-01-2020",
+      "contenuto": "Textual Entailment\nAnalisi di un esempio del corpus RTE presente sul libro\nModello di risoluzione base: Lexical Overlap\nModello di risoluzione con matching di grafo tripartito per modellare regole con variabili"
+    },
+    {
+      "id": "14",
+      "data": "13-01-2020",
+      "contenuto": "Introduzione al Textual Entaliment\nDescrizione delle problematiche relative"
+    },
+    {
+      "id": "13",
+      "data": "18-11-2019",
+      "contenuto": "Algoritmo Shift-Reduce per Context Free e per Grammatiche alle Dipendenze\nAlgoritmo CYK+\n3h"
+    },
+    {
+      "id": "12",
+      "data": "11-11-2019",
+      "contenuto": "Inside-Outside Algorithm for PCFG\nLimitation of PCFG\nBack-off\n3h"
+    },
+    {
+      "id": "11",
+      "data": "07-11-2019",
+      "contenuto": "Probabilistic Context Free Grammars\n3h"
+    },
+    {
+      "id": "10",
+      "data": "04-11-2019",
+      "contenuto": "Feature Structures\n3h"
+    },
+    {
+      "id": "9",
+      "data": "31-10-2019",
+      "contenuto": "Sintassi: Algoritmo di Early\n3h"
+    },
+    {
+      "id": "8",
+      "data": "28-10-2019",
+      "contenuto": "Algoritmo CYK\n3h"
+    },
+    {
+      "id": "7",
+      "data": "24-10-2019",
+      "contenuto": "Part-of-speech tagging: metodologie\nTransformation-based POS tagging\nHMM POS tagging\nCenni su Maximum Likelyhood\n3h"
+    },
+    {
+      "id": "6",
+      "data": "21-10-2019",
+      "contenuto": "Analisi delle tecniche statistiche per il calcolo della statistical significance\nPOS Tagging: come scegliere ed interpretare i POS Tag Sets\nEsercizio di Annotazione POS al fine del calcolo dell'Interannotator Agreement\n3h"
+    },
+    {
+      "id": "5",
+      "data": "17-10-2019",
+      "contenuto": "Presentazione progetto del corso.\nCome si valuta un modello di NLP.\nCome si valutano sistemi di NLP.\n3h"
+    },
+    {
+      "id": "4",
+      "data": "14-10-2019",
+      "contenuto": "Linguistica: livelli di interpretazione della lingua. Fonologia, Morfologia, Sintassi e Semantica\n3h"
+    },
+    {
+      "id": "3",
+      "data": "10-10-2019",
+      "contenuto": "Analisi del chatbot costruito\n2h"
+    },
+    {
+      "id": "2",
+      "data": "08-10-2019",
+      "contenuto": "Che cos'\u00e8 la lingua: linguistica interna e linguistica esterna.\n2h"
+    },
+    {
+      "id": "1",
+      "data": "07-10-2019",
+      "contenuto": "Presentazione del corso.\nHands-on: costruiamo un chatbot per accedere ad un conto bancario.\n2h"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Presentazione Lauree",
+      "dataUpload": "19.02.2020 17:10:55",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/NLP/PresentazioneLauree.gif",
+      "dimensione": "300 KB"
+    },
+    {
+      "titolo": "<a href=\"http://art.uniroma2.it/zanzotto/teaching/courses/NLP/\" target=\"_blank\">Guardare sul sito web del corso</a>",
+      "dataUpload": "07.10.2019 12:32:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/NLP/Fabio-Massimo-Zanzotto-New.jpg",
+      "dimensione": "1811 KB"
+    }
+  ],
+  "programma": "Programma (su didattica.uniroma2.it)\n\nContents (on didattica.uniorma2.it)",
+  "testiRiferimento": "Programma (su didattica.uniroma2.it)\n\nContents (on didattica.uniorma2.it)",
+  "ricevimento": "Guarda su didattica.uniroma2.it\n\nCheck on didattica.uniroma2.it",
+  "modalit\u00e0Esame": "Guardare su didattica.uniroma2.it\n\nCheck on didattica.uniroma2.it"
+}

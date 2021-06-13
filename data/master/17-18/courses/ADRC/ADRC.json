@@ -1,0 +1,162 @@
+{
+  "nomeCorso": "Algoritmi distribuiti e reti complesse",
+  "docente": "Andrea Clementi, Luca Trevisan",
+  "annoAccademico": "2017-2018",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "APPELLI DI SETTEMBRE",
+      "data": "07-09-2018 12:36",
+      "contenuto": "SI AVVISANO tutti gli studenti interessati che e' possibile da oggi prenotarsi su delphi per gli appelli autunnali.\nSI RICHIEDE cortesemente ad ogni studente interessato di inviare a clementi@mat.uniroma2.it \u00a0una email \u00a0in cui si specifica *quali* moduli intende fare nell'appello da lui prenotato."
+    },
+    {
+      "titolo": "MODULO I:  APPELLO DI GIUGNO 2018",
+      "data": "14-06-2018 19:12",
+      "contenuto": "Scusandomi per la situazione, informo gli studenti interessati che potranno svolgere la prova di esame relatica al I modulo del corso\nil giorno martedi 19-06-2018 alle ore 15.00 nel mio uffcio a SOGENE. Prego gli studenti interessati di inviarmi una email entro domenica per prenotare l'esame. Inoltre li invito a seguire questo sito nei prossimi giorni per eventuali comunicazioni sulla\u00a0 situazione medica.\nAndrea Clementi"
+    },
+    {
+      "titolo": "CAMBIAMENTO AULA MOD. III",
+      "data": "06-06-2018 14:32",
+      "contenuto": "Si informa che la\u00a0 lezionie di\u00a0 gioved\u00ec 07/06 del prof Trevisan avra' luogo\u00a0 dalle 17.15 alle 18.30 in AULA T5."
+    },
+    {
+      "titolo": "III modulo: SITO WEB",
+      "data": "03-05-2018 16:51",
+      "contenuto": "Il prof. Trevisan ha aperto un sito relativo al modulo di ADRC che insegnera' in cui si possono trovare tutte le informazioni ed il materiale didattico relativi al suddetto modulo. Il sito e' :\n\nhttps://people.eecs.berkeley.edu/~luca/bwca18/"
+    },
+    {
+      "titolo": "III MODULO: PROF. TREVISAN II",
+      "data": "10-04-2018 11:49",
+      "contenuto": "Si informano gli studenti che il modulo del Prof. Trevisan di ADRC avra' inizio GIOVEDI 17 MAGGIO\ncon i seguenti orario E luogo:\n\n-\u00a0Luned\u00ec\u00a011/13\u00a0aula\u00a07PP2;-\u00a0Gioved\u00ec\u00a017/19\u00a0aula\u00a07.\n\n\n\n\n\nNOTA IMPORTANTE: Si informano gli\u00a0 studenti del II anno o fuoricorso che, al fine di non creare problemi di collisione con i corsi del II anno, essi\u00a0 *possono* anche portare come programma di esame quello dello scorso anno accademico che non prevede il modulo del Prof. Trevisan. E' sufficiente comunicarlo via email al Prof. Clementi o in sede di esame."
+    },
+    {
+      "titolo": "ESITO ESONERO DEL 01/2018",
+      "data": "15-01-2018 11:33",
+      "contenuto": "RISULTATI ESONERO\n(Gli studenti che hanno consegnato il compito ma\nche non appaiono in questa lista hanno riportato un risultato non sufficiente)\n\nMATRICOLA/NOME/NICKNAME\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SCORE\n\n0217260 ...............................\u00a0\u00a0\u00a0 18/30\n\n0246425 ................................\u00a0\u00a0 28/30\n\nBONAVITA D. ........................\u00a0\u00a0\u00a0\u00a0 25/30\n\n0258412\u00a0\u00a0\u00a0\u00a0 ..........................\u00a0\u00a0\u00a0\u00a0\u00a0 20/30\n\n0202133\u00a0\u00a0\u00a0 ...........................\u00a0\u00a0\u00a0\u00a0 18/30"
+    },
+    {
+      "titolo": "ESONERO 11/01/18",
+      "data": "11-01-2018 10:25",
+      "contenuto": "L'esonero avra' luogo alle ore 14.30 in aula 7. Si pregano gli studenti\u00a0 di arrivare 10 minuti prima per effettuare le operazioni iniziali in anticipo."
+    },
+    {
+      "titolo": "KOLMOGOROV MEETS TURING 2017",
+      "data": "16-11-2017 11:28",
+      "contenuto": "Per gli studenti della LM che vogliono farsi un'idea delle applicazioni pi\u00f9 avanzate dei metodi ed degli algoritmi probabilistici in Computer Science, c'e' un'ottima occasione a ROMA 3. La partecipazione e' gratuita ma, chi decide di venire, e' cortesemente pregato di inviare una email ad Andrea Clementi.\u00a0 Friday December 1st 2017, Roma Tre University\nKolmogorov meets Turing 4th edition,\na workshop on probabilistic methods for the analysis of stochastic processes and randomized algorithms.\n\n\nLink:http://www.mat.uniroma3.it/users/caputo/kmt2017.html\n\n\n*********************************\nAula F, Dipartimento di Matematica e Fisica, Roma Tre\nLargo S. Murialdo 1, 00146 Roma\n\n\n14:30-15:20\nChris Schwiegelshohn\nPCA for k-means: Preserving Cost, Clusters, And Beyond\n15:25-16:15\u00a0Marco Scarsini\u00a0When is selfish routing bad? The price of anarchy in light and heavy traffic.16:20-16:45 Coffe break\u00a016:45-17:35\u00a0Francesco Pasquale\u00a0Rationality and Randomness.17:40-18:30\u00a0Alexandre Stauffer\u00a0Multi-particle diffusion limited aggregation."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "18",
+      "data": "07-12-2017",
+      "contenuto": "La dinamica del 3 majority\nAnalisi in media del suo tempo di completamento"
+    },
+    {
+      "id": "17",
+      "data": "04-12-2017",
+      "contenuto": "Il modello Gossip\nIl problema del consenso binario\nDinamiche di consenso\nil voter model\nAnalisi in media del voter model"
+    },
+    {
+      "id": "16",
+      "data": "30-11-2017",
+      "contenuto": "Modifica del\u00a0 \u00a0 protocollo select ed analisi corretta\nRisultato negativo: il lower bound deterministico (senza prova)\nl'analisi del protocollo BGI randomizzato\nIL gap esponenziale"
+    },
+    {
+      "id": "15",
+      "data": "27-11-2017",
+      "contenuto": "Protocolli di Broadcast per Radio Networks efficienti nel caso di reti sparse.\nLe famiglie selettive\nIl protocollo di Broadcast basato sulle famiglie selettive\nUna prima analisi che non funziona"
+    },
+    {
+      "id": "14",
+      "data": "23-11-2017",
+      "contenuto": "IL protocollo Round Robin con D e/o n sconosciuti: indovinare i parametri in modo efficiente (ricerca binaria)\nAnalisi del completamento e delle terminazione\n\nAspetti negativi del Round Robin"
+    },
+    {
+      "id": "13",
+      "data": "20-11-2017",
+      "contenuto": "Analisi della correttezza, convergenza e\u00a0 terminazione del protocollo\nRound Robin.\nAssunzioni sulla conoscenza dei parametri iniziali D e N della rete.\nAnalisi del tempo di completamento e del numero di trasmissioni/lavoro di un nodo"
+    },
+    {
+      "id": "12",
+      "data": "16-11-2017",
+      "contenuto": "IL problema del Broodcast sulle Radio Networks.\nRisultati negativi per il protocollo Flooding\nUn primo algoritmo basato sul Round Robin"
+    },
+    {
+      "id": "11",
+      "data": "13-11-2017",
+      "contenuto": "IL Modello Radio Networks: Introduzione, esempi, il problema dell'Interferenza.\nDifferenze con il modello link-based"
+    },
+    {
+      "id": "10",
+      "data": "09-11-2017",
+      "contenuto": "La Leader Election su un anello:\nLa tecnica ''Controlled Distance'' in fasi\nIl protocollo Controlled Distance\nCorrettezza e msg complexity\nUn semplice protocollo per Meshes\nConsiderazioni finali per la Leader Election"
+    },
+    {
+      "id": "9",
+      "data": "06-11-2017",
+      "contenuto": "Il problema dell'elezione di un Leader\nCondizioni Iniziali\nRisultati di impossibilita'\nCondizione: Unique IDs\nSchemi di p\u00ecrotocolli per topologie\u00a0 generali\nLeader Election su anelli\nDue protocolli semplici ma non ottimali: All-to-All e All-to-All modificato\nAnalisi della correttezza e msg complexity"
+    },
+    {
+      "id": "8",
+      "data": "02-11-2017",
+      "contenuto": "Il problema della DFS in distribuito\ncondizioni iniziali\nUn protocollo di Traversal strettamente sequenziale\nUna sua variante ''parallela''\nCorrettezza e Msg complexity\nConsiderazioni nel caso Multiple Inititators"
+    },
+    {
+      "id": "7",
+      "data": "30-10-2017",
+      "contenuto": "IL problema dello Spanning Tree Distribuito\nAnalsisi del Problema e condizioni iniziali\nUnique Initiator\nIL protocollo Shout e Shout+\nRisultati di impossibilita' nel caso multiple initiators"
+    },
+    {
+      "id": "6",
+      "data": "26-10-2017",
+      "contenuto": "IL protocollo HyperFlood su Hypercube\nAnalisi\u00a0 della correttezza\nAnalisi della\u00a0 msg complexity"
+    },
+    {
+      "id": "5",
+      "data": "23-10-2017",
+      "contenuto": "Il problema del Wake-Up\nCondizioni ed ipotesi\nUn protocollo ottimale\nanalisi della msg complexity in funzione del numero di initiators\nReti sparse, scalable, efficienti\nLa struttura ad Hypercube"
+    },
+    {
+      "id": "4",
+      "data": "16-10-2017",
+      "contenuto": "Verifica dell'analisi della message complexitiydi FLOOD rispetto agli archi\nLe tecniche di Lower Bound nei sistemi distribuiti: l'ambiente e la localita'.\nUn lower bound banale per il Broadcast\nUn lower bound ottimo per il Broadcast: dimostrazione formale"
+    },
+    {
+      "id": "3",
+      "data": "12-10-2017",
+      "contenuto": "Il protocollo FLOOD: 2 versioni\nAnalisi e dimostrazione della correttezza\nLa Message complexity : analisi con due approcci diversi\nl'ideal time del protocollo"
+    },
+    {
+      "id": "2",
+      "data": "05-10-2017",
+      "contenuto": "Il modello di calcolo distribuito.\nLe entita' locali: i nodi\nLa comunicazione: i messaggi\nLe azioni locali\nGli eventi\nI protocolli\nI concetti di Task, Processo,\u00a0 stato/configurazione del sistema\nCorrettezza di un Protocollo\nLa message complexity\nSistemi asincroni e sincroni\nLe restrizioni standard\nEsempio di task: il Broadcast"
+    },
+    {
+      "id": "1",
+      "data": "02-10-2017",
+      "contenuto": "- Presentazione del Corso\n- Collocazione del corso rispetto alla Laurea Magistrale\n- Informazioni generali\n- Introduzione informale ai modelli distribuiti di calcolo ed agli algoritmi distribuiti\n- L'esempio degli alunni in classe"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Materiale didattico relativo al Modulo del Prof. Clementi",
+      "dataUpload": "19.12.2017 09:57:02",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/ADRC/ADRC CLEMENTI.zip",
+      "dimensione": "2215 KB"
+    },
+    {
+      "titolo": "Articoli sul modello Gossip relativo alle ultime lezioni del Prof. Clementi",
+      "dataUpload": "19.12.2017 09:54:23",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/ADRC/MATERIALE GOSSIP MODEL.zip",
+      "dimensione": "1203 KB"
+    }
+  ],
+  "programma": "Il corso quest'anno avra' un'importante novita'.\n\nOltre ai due moduli standard di:\n\n\na) Calcolo Distribuito\u00a0 (Prof. Clementi)\nb) Teoria Algoritmica dei Giochi (Dr. Gual\u00e0)\n\nvi sara' un ulteriore modulo (di circa 10 ore di lezione) (Modulo c) che verra' svolto dal Prof. Luca Trevisanche sara' Visiting Professor nel nostro Dipartimento in cui verranno trattati argomenti fondamentali \u00a0dell'analisi di \u00a0grafi di grandi dimensioni.\nLuca Trevisan \u00e8 full professor all'Universit\u00e0 di Berkeley (CA - USA) e Senior Scientist al\nSimons Institute for the Theory of Computing.\nhttps://people.eecs.berkeley.edu/~luca/\nIl Prof. Trevisan\u00a0 rappresenta uno dei pi\u00f9 importanti\u00a0 scienziati \u00a0in Theoretical Computer Science in campo internazionale. Questa terza parte verr\u00e0 erogata nel mese di\u00a0 maggio 2018 e sar\u00e0 parte integrante del corso ADRC.\n\n\nL'esame del corso, pertanto, sar\u00e0 strutturato in due parti.\nNegli appelli invernali (febbraio 2018) vi sar\u00e0 un test \u00a0intermedio sui moduli (a) e (b), mentre\nin tutti gli \u00a0appelli successivi, gli studenti potranno dare l'esame (ed i test relativi) su tutti e tre i moduli\n(a,b, e c).\n\n\n\nIl modulo (a)\npresenta i principi fondamentali del calcolo distribuito sia da un punto di vista dei modelli di comunicazione/computazione pi\u00f9 importanti che per quanto riguarda i metodi algoritmici fondamentali per tali modelli.\nL'obiettivo formativo e' quello di fornire degli strumenti efficienti e rigorosi per il Problem Solving algoritmico in cui, rispetto ai corsi algoritmici della triennale, per la prima volta le entit\u00e0 computazionali (agenti)\u00a0 sono molteplici ed interagenti.Questo nuovo paradigma offre ottime\u00a0 basi per progettare\u00a0 protocolli efficienti per problemi fondamentali ed estremamente attuali nel mondo dei moderni sistemi distribuiti.Questa parte sar\u00e0 tenuta del Prof. Clementi e sar\u00e0 di 6 cfu.Nel modulo (b), il Dr. Gual\u00e0 tratter\u00e0 un altro aspetto fondamentaledei sistemi distribuiti moderni: la presenza di comportamenti egoistici degli agenti di un sistema distribuito. Tale presenza ha portato negli ultimi decenni a sviluppare un'importante teoria:l'Algorithmic Game Theory. Profondamente ispirata dalla famosa Game Theory (Nash Equilbria), questa teoria viene trattata nel corso per affrontare importanti problematiche nel campo dell'ottimizzazione di reti di comunicazione e di altre applicazioni.\n\nIl modulo (c) il prof. Trevisan introdurra' importanti tecniche di analisi e progettazione di algoritmi\nper problemi di ottimizzazione e/o detection su grafi di grandi dimensione. In particolare,\nvista la grande dimensione dei dati, verranno studiate tecniche di natura statistica che permettono l'analisi delle performance non nel ''worst-case''.\u00a0\u00a0 Qui sotto vengono riportati i \u00a0programmi preliminari\u00a0per i 3 moduli.\u00a0Modulo (a): Algoritmi Distribuiti- Modelli di computazione distribuiti: paradigmi, algoritmi, misure di complessit\u00e0, comunicazione- Un processo epidemico: Il\u00a0 Broadcast e l'Information Spreading- Il problema del Wake-Up- Il problema dello Spanning Tree- Il problema del Leader Election- Il Modello Wireless: il fenomeno delle collisioni- Il Broadcast su Wireless Networks: protcolli\u00a0 deterministici e randomizzati- Problemi distribuiti avanzati in\u00a0 Social Networks\u00a0\u00a0\u00a0 e Data ScienceModulo (b) \u00a0Teoria Algoritmica dei Gioghi**** - da inserire *****\n\nModulo (c) (in inglese - versione preliminare)\nWorst-case analysis sometimes overestimates the difficulty of certain problems in practice. In this course we will review more refined methods for the analysis of algorithms, including average-case analysis for random instances, analysis of distributions with a \"planted\" solution, semi-random models which combine random and adversarial choices, and machine learning problems in which the input is a collection of iid samples from an arbitrary unknown distribution. We will conclude with a brief overview of the theory of average-case complexity, and the evidence that we have that certain problems remain hard even when analyzed with respect to natural classes of distributions. Here is a tentative list of topics that we will cover:\nProperties of random graphs\nCliques in random graphs\nIndependent sets in random graphs\nPlanted bisection and the stochastic block model\nFinding cuts in semi-random graph models\nStable cuts and stable clustering\nAn introduction to average-case complexity",
+  "testiRiferimento": "N. Santoro: Distributed Algorithms + slides ed appunti",
+  "ricevimento": "Su appuntamento per email con il Docente: clementi/guala@mat.uniroma2.it",
+  "modalit\u00e0Esame": "NOTA IMPORTANTE (del 23-05-18)\nle modalita' di esame della parte del Prof. Trevisan saranno definite entro pochi giorni anche sulla base di un feedback da parte degli studenti. In ogni caso:\n\n- E' prevista *per tutti*\u00a0 (e in ogni appello) una prova orale (durante gli appelli previsti).\n\n- Probabilmente, saranno proposti\u00a0 degli\u00a0 homework *facoltativi* a cui verranno\u00a0 dati un punteggio/ \"bonus\" da aggiungere eventualmente alla prova orale.\n\n- Per gli studenti lavoratori valgono le stesse condizioni di cui sopra."
+}

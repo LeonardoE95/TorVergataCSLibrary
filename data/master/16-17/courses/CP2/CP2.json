@@ -1,0 +1,149 @@
+{
+  "nomeCorso": "Calcolo delle probabilit\u00e0",
+  "docente": "Antonella Calzolari",
+  "annoAccademico": "2016-2017",
+  "crediti": "6",
+  "settore": "MAT/06",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "09-05-2017 15:52",
+      "contenuto": "Gioved\u00ec 11 maggio in orario di lezione si svolger\u00e0 la prova d'esonero."
+    },
+    {
+      "titolo": "",
+      "data": "04-04-2017 16:12",
+      "contenuto": "Le note del corso e\u00a0i testi delle esercitazioni sono pubblicati sulla mia pagina web\ncalzolar@mat.uniroma2.it"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "23",
+      "data": "30-05-2017",
+      "contenuto": "Parametri infinitesimali ed equazioni di Kolmogorov, calcolo della funzione di transizione della catena a due stati"
+    },
+    {
+      "id": "22",
+      "data": "25-05-2017",
+      "contenuto": "Catene di Markov a tempo continuo: descrzione mediante i tempi di soggiono negli stati e le probabilit\u00e0 di salto. Dimostrazione del fatto che dalla propriet\u00e0 della perdita di memoria segue che la legge dei tempi di soggiorno\u00a0\u00e8 esponenziale."
+    },
+    {
+      "id": "21",
+      "data": "23-05-2017",
+      "contenuto": "Processi di rinnovo e tasso di rischio di una legge di variabile aleatoria non negativa\u00a0con densit\u00e0."
+    },
+    {
+      "id": "20",
+      "data": "18-05-2017",
+      "contenuto": "Distribuzione dei tempi di salto del processo di Poisson condizionata al numero di eventi e problema del costo di attesa. Media condizionata\u00a0 al numero di eventi degli intertempi di salto e rappresentazione del valore medio di una variabile aleatoria non negativa."
+    },
+    {
+      "id": "19",
+      "data": "16-05-2017",
+      "contenuto": "Dimostrazione dello splitting, coda con flusso di ingresso Poisson e infiniti sportelli con tempo di servizio a duevalori, processo di Poisson composto."
+    },
+    {
+      "id": "18",
+      "data": "11-05-2017",
+      "contenuto": "Esonero"
+    },
+    {
+      "id": "17",
+      "data": "09-05-2017",
+      "contenuto": "Il processo di Poisson come modello per un flusso di eventi \"rari\".\nProbabilita` che una variabile esponenziale sia pi\u00f9 piccola di un'altra esponenziale ed indipendente. Conclusione\u00a0del \"problema della scorta\" (sulle Note)."
+    },
+    {
+      "id": "16",
+      "data": "04-05-2017",
+      "contenuto": "\nIndipendenza degli incrementi del processo di Poisson.\u00a0Problema della multa.\nSomma di due processi di Poisson indipendenti (merging).\u00a0Problema della scorta."
+    },
+    {
+      "id": "15",
+      "data": "02-05-2017",
+      "contenuto": "\nDefinizione del processo di Poisson e calcolo della legge in un tempo generico, dimostrazione della perdita di memoria del processo di Poisson"
+    },
+    {
+      "id": "14",
+      "data": "27-04-2017",
+      "contenuto": "Esercitazione: correzione esoneri a.a. 2009/10 e a.a. 2010/11"
+    },
+    {
+      "id": "13",
+      "data": "20-04-2017",
+      "contenuto": "Dimostrazione della condizione sufficiente per la regolarit\u00e0.\nDimostrazione dell'unicit\u00e0 del periodo.\nUn caso di\u00a0dinamica markoviana\u00a0a stati finiti non irriducibile ergodica.\nUn caso di dinamica markoviana a stati finiti non irriducibile e\u00a0non ergodica: calcolo del\u00a0limite della potenza n-ma della matrice di transizione e, data la legge al tempo 0, calcolo del limite della legge al tempo n."
+    },
+    {
+      "id": "12",
+      "data": "18-04-2017",
+      "contenuto": "Esercizi\nEnunciato dei principali risultati sull'ergodicit\u00e0"
+    },
+    {
+      "id": "11",
+      "data": "13-04-2017",
+      "contenuto": "Misura invarinte: definizione, esempi, spazio degli stati finito \u00e8 CS per l'esistenza di almeno una, valore sugli stati transienti, esistenza di almeno uno stato persistente \u00e8 CN per l'esistenza, caso irriducibile persistente positivo.\nDefinizione di ergodicit\u00e0 e conseguenze."
+    },
+    {
+      "id": "10",
+      "data": "06-04-2017",
+      "contenuto": "Persistenza e transienza di una catena di nascita e morte con infiniti stati\nCoda con arrivi e partenza con legge bernoulliana\nComportamento asintotico della\u00a0catena\u00a0a 2 stati"
+    },
+    {
+      "id": "9",
+      "data": "04-04-2017",
+      "contenuto": "Tempi medi di assorbimento nella classe di tutt gli stati persistenti\nProbabilit\u00e0 di estinzione nella catena di nascita e morte con estremi assorbenti\nEsercitazione in classe"
+    },
+    {
+      "id": "8",
+      "data": "30-03-2017",
+      "contenuto": "Condizione necessaria affinch\u00e9 uno stato sia transiente nel caso spazio degli stati finito\nEquazione di Chapman-Kolmogorov\nTransitivit\u00e0 della propriet\u00e0 di comunicazione tra stati\nDecomposizione dello spazio degli stati\nUscita certa dalla classe degli stati transienti quando ha cardinalita finita\nLegge e valor medio del numero dei passaggi per uno stato\nLa probabilit\u00e0 di raggiungere uno stato transiente in un grande numero di passi\nCorrezione esercizio"
+    },
+    {
+      "id": "7",
+      "data": "28-03-2017",
+      "contenuto": "Probabilit\u00e0 di assorbimento.\nCondizione sufficiente per la transienza di uno stato.\nCondizione sufficiente per la persistenza di uno stato (non dimostrata).\nEsistenza di almeno uno stato persistente in una classe chiusa finita\u00a0e persistenza delle classi irriducibili finite."
+    },
+    {
+      "id": "6",
+      "data": "23-03-2017",
+      "contenuto": "Dimostrazione Teorema degli infiniti ritorni\nTempo di primo ingresso in uno stato\nLegge\u00a0e valore medio del numero di visite ad uno stato\nEsercizi"
+    },
+    {
+      "id": "5",
+      "data": "21-03-2017",
+      "contenuto": "Correzione esercizio.\nCatena di una fila di attesa.\nRappresentazione in forma ricorsiva di una catena.\nGrafico di una catena.\nStati comunicanti e classi irriducibili.\nDefinizione di transienza e persistenza di uno stato.\nLemma di continuit\u00e0 della misura di probabilit\u00e0"
+    },
+    {
+      "id": "4",
+      "data": "16-03-2017",
+      "contenuto": "Probabilit\u00e0 di transizione in uno e pi\u00f9 passi.\nDensit\u00e0 di probabilit\u00e0 ad uno\u00a0 pi\u00f9 \u00a0tempi.\nCaratterizzazione di una catena.\nRovina del giocatore, nascita e morte, urna di Ehrenfest."
+    },
+    {
+      "id": "3",
+      "data": "14-03-2017",
+      "contenuto": "Richiami su indipendenza di famiglie di eventi e famiglie di variabili aleatorie.\nDefinizione di catene di Markov a tempo discreto e spazio discreto.\nPasseggiata aleatoria sugli interi."
+    },
+    {
+      "id": "2",
+      "data": "09-03-2017",
+      "contenuto": ""
+    },
+    {
+      "id": "1",
+      "data": "07-03-2017",
+      "contenuto": "Test di autovalutazione e richiami di probabilit\u00e0"
+    },
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "7 marzo\nTest di autovalutazione e richiami di probabilit\u00e0"
+    }
+  ],
+  "materiale": [],
+  "programma": "Catene di Markov a tempo discreto e a stati numerabili.\nProcesso di Poisson.\nElementi della teoria dei processi di rinnovo.\nCatene di Markov a tempo continuo.",
+  "testiRiferimento": "A.Calzolari, \"Modelli stocastici a valori discreti, Note del corso di CP per la LM in Informatica\"\n\nH.C.Tijms, \"A First Course in Stochastic Models\"\n\nP.Baldi, \"Calcolo delle probabilit\u00e0\"",
+  "ricevimento": "Per appuntamento, marted\u00ec\u00a0o gioved\u00ec ore 14, in studio",
+  "modalit\u00e0Esame": "Esame scritto in due moduli affrontabili\u00a0in una sola prova o\u00a0in due prove separate e con voto che si conserva per un anno a partire dalla prima prova affrontata. Il primo modulo consiste in uno\u00a0 o pi\u00f9 esercizi sulle catene di Markov a tempo discreto, mentre il secondo modulo sostituisce una prova orale e quindi propone quesiti sulla rimanente parte del programma ai quali occorre rispondere in modo discorsivo ma rigoroso. Il voto finale \u00e8 la media dei due voti.\nIn accordo con il regolamento del corso di laurea, lo studente potr\u00e0 accedere a 4 dei 6 appelli proposti (2 appelli per ogni sessione) ma\u00a0ad uno solo nelle sessioni autunnali e invernali."
+}

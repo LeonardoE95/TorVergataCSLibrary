@@ -1,0 +1,149 @@
+{
+  "nomeCorso": "Teoria dei codici e dell'informazione",
+  "docente": "Andrea Clementi",
+  "annoAccademico": "2014-2015",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Matematica discreta. Calcolo delle probabilit\u00e0.",
+  "comunicazioni": [
+    {
+      "titolo": "ESONERO TCI (Risultati)",
+      "data": "01-06-2015 10:16",
+      "contenuto": "Matricola \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Voto\n\n186003 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a030/30\n\n179450 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a030/30\n\n178508 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Non Sufficiente\n\n186204 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 20/30\n\n191761 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a022/30"
+    },
+    {
+      "titolo": "PROVA DI ESONERO SCRITTA",
+      "data": "10-05-2015 11:33",
+      "contenuto": "IN DATA GIOVEDI 28/05, DALLE ORE 14.30 in aula T5, si svolgera' una prova di esonere scritta per il corso di TCI. Gli studenti interessati dovranno necessariamente prenotarsi \u00a0 inviando una email\nal prof. Clementi entro il 21/05."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "24",
+      "data": "28-05-2015",
+      "contenuto": "PROVA DI ESONERO"
+    },
+    {
+      "id": "23",
+      "data": "26-05-2015",
+      "contenuto": "IL Calcolo del Mediano in un vettore non ordinato.\n\nL'algortimo Random Sampling.\n\nL'analisi dell'errore e del tempo\nmediante la disuguaglianza di\u00a0Chebyshev"
+    },
+    {
+      "id": "22",
+      "data": "21-05-2015",
+      "contenuto": "Il problema dell ordinamento di un vettore.\nIl Random Quick Sort.\nAnalisi del numero medio di confonti mediante la linearita' del valor medio.\nIL problema del Min-Cut su Grafi. L'algoritmo randomizzato basato sulla contrazione archi. L'analisi del tempo mediante il teorema di Bayes sulle probabilita' condizionate."
+    },
+    {
+      "id": "21",
+      "data": "19-05-2015",
+      "contenuto": "Un Algoritmo Randomizzato per la Verifica di prodotti tra matrici\n\ndefinizione, analisi probabilistica dell errore, complessita'"
+    },
+    {
+      "id": "20",
+      "data": "14-05-2015",
+      "contenuto": "I metodi \u00a0randomizzati e loro importanza in Computer Science.\n\nIL problema della verifica efficiente di identita' polinomiali\n\nMetodo Randomizzato\n\nAnalisi dell'errore"
+    },
+    {
+      "id": "19",
+      "data": "12-05-2015",
+      "contenuto": "Costruzione randomizzata efficiente di BLC per BSC con Rate \u00a0e con errore medio molto vicini al II THM di Shannon:\nRandom BLC e Syndrome-Decoding"
+    },
+    {
+      "id": "18",
+      "data": "05-05-2015",
+      "contenuto": "Esercitazione a cura del Dr. Natale"
+    },
+    {
+      "id": "17",
+      "data": "07-05-2015",
+      "contenuto": "\n\n- Costruzione efficiente di Codici Correttori\n- Distanza e Spazio di Hamming\n- Binary Linear \u00a0Codes\n- Distanza minima di un BLC\n- Inesistenza di BLC con worst-case error e rate ottimali: definizione\ndi codici perfetti."
+    },
+    {
+      "id": "16",
+      "data": "30-04-2015",
+      "contenuto": "- Lemma \u00a0Jointly-Typicality.\n- Prova del Lemma JT.\n- Significato del Lemma JT\n- Applicazione del Lemma JT per limitare la prob. di errore della Codifica JT di Shannon.\n- Dimostrazione formale del II Thm di Shannon"
+    },
+    {
+      "id": "15",
+      "data": "28-04-2015",
+      "contenuto": "- Passi fondamentali della dimostrazione del II THM di Shannon (Parte positiva):\nscelta random del Codice (sequenze X-Typ),\nDecodifica in base alla definizione di JT.\nDefinizione \u00a0dei tipi di possibili tipi di errori."
+    },
+    {
+      "id": "14",
+      "data": "23-04-2015",
+      "contenuto": "- Verifica del II Thm. di Shannon sul canale: Noisy-Typewriter\n- Discussione della \u00a0dimostrazione della Parte positiva del II THM. di Shannon.\n- Def. di Seq. Jointly-Typical\n- Esempi di Sequenze JT su BSC."
+    },
+    {
+      "id": "13",
+      "data": "21-04-2015",
+      "contenuto": "- II Thm. di Shannon\n- Discussione del significato del II Thm. di Shannon\n- Codifica, Trasmissione e Decodifica a Blocci\n- Definizioni di entropia, mutua informazione e rate su trasmissione a blocchi.\n- Definizione di Block-Error\n- Decodifica Ottimale\n- Enunciato formale del II THM di Shannon"
+    },
+    {
+      "id": "12",
+      "data": "16-04-2015",
+      "contenuto": "ESERCITAZIONE \u00a0(DR. Natale)"
+    },
+    {
+      "id": "11",
+      "data": "14-04-2015",
+      "contenuto": "Entropia condizionata,\nCalcolo della muta informazione in un canale\nvari tipi di canali,\nesempi sul canale BSC e ZC\nDefinizione e significato della Capacita' di un Canale"
+    },
+    {
+      "id": "10",
+      "data": "09-04-2015",
+      "contenuto": "Esercitazione sul I thm di Shannon e su\ndistribuzioni congiunte\n\n(Dr. Natale)"
+    },
+    {
+      "id": "9",
+      "data": "02-04-2015",
+      "contenuto": "Dimostrazione parte Upper Bound del I Thm di Shannon.\nDimostrazione parte Lower Bound del I Thm di Shannon\nConsiderazioni finali."
+    },
+    {
+      "id": "8",
+      "data": "31-03-2015",
+      "contenuto": "Enunciato Formale del I Thm. di Shannon.\nConcetti e definizioni preliminari per la dimostrazione del Thm.\nEsempio nel caso binario.\nDistribuzione Binomiale, Valor Medio e Varianza.\nFig. 4.11 (del Libro)\nDefinizione formale di sequenze tipiche (con parametro)\nAsymptotic Equipartition Principle.\nLegge dei grandi numeri"
+    },
+    {
+      "id": "7",
+      "data": "26-03-2015",
+      "contenuto": "Esercitazioni sulle ultime due lezioni\n(Dr. Natale)"
+    },
+    {
+      "id": "6",
+      "data": "24-03-2015",
+      "contenuto": "La compressione dati. a) Lossy Compression (codifica a blocchi) e b) Lossless Compression (codifica a lungh variabile).\nIntroduzione alla Compressione a.\n\n- Insiemi Tipici: Definizione informale mediante la funzione di Entropia su blocchi di 1 simbolo.\nEsempio 4.6 (sul libro)\n- Codifica di N simboli.\nDefinizione dell'Insieme di sequenze tipiche.\n-Esempio 4.7 sul libro\n- Descrizione e discussione del I Teorema di Shannon mediante le figure 4.7, 4.8, e 4.9"
+    },
+    {
+      "id": "5",
+      "data": "17-03-2015",
+      "contenuto": "Definizione formale dell'Entropia di una Sorgente Random. Il contenuto informativo di una sorgente.\nDecomposizione dell'Entropia ed esempi. Esempio delle 12 monete.\nIl grafico delle Entropia Binaria, Massimo e Minimo valore.\nEntropia congiunta di due sorgenti indipendenti.\nEntropia di distribuzioni non uniformi. Esempio del sottomarino."
+    },
+    {
+      "id": "4",
+      "data": "12-03-2015",
+      "contenuto": "Esercitazione sulle prime tre lezioni\n(Dr. Natale)"
+    },
+    {
+      "id": "3",
+      "data": "10-03-2015",
+      "contenuto": "Cenni ed intuizioni sul II Thm di Shannon: la Capacita' di un canale e l'entropia di una sorgente random\nRichiami di Probabilita' discreta:\nspazi di probabilita', spazi congiunti, marginali, probabilita' condizionali, indipendenza, \u00a0teorema di bayes. Esercizi ed esempi\nLa probabilita' inversa, il likehood, l'inferenza statistica: esempi"
+    },
+    {
+      "id": "2",
+      "data": "05-03-2015",
+      "contenuto": "Calcolo della probabilita' di errore della majority rule per i repetition code ed ottimalita' della rule.\nI block code, gli hamming code, la matrice di parita', la sindrome, la correzione dell errore attraverso i dischi, la prob di errore di L(7,4)"
+    },
+    {
+      "id": "1",
+      "data": "03-03-2015",
+      "contenuto": "Introduzione alla teoria dell'informazione. Sorgenti random, compressione, trasmissione\nSemplici esempi di codici ridondanti, il repetition Code R3 ed il concetto di rate ed errore su un canale binario simmetrico"
+    }
+  ],
+  "materiale": [],
+  "programma": "Corso di Laurea in InformaticaTEORIA DEI\u00a0 CODICI E INFORMAZIONEA.A.\u00a0\u00a0 2013-14 (II Semestre)Prof.\u00a0 Andrea ClementiPROGRAMMA1.\u00a0\u00a0\u00a0\u00a0 Introduzione alla Teoria dei Codici e dell'Informazione.a.\u00a0\u00a0\u00a0\u00a0 Obiettivi generalib.\u00a0\u00a0\u00a0\u00a0 Il ruolo della Probabilit\u00e0c.\u00a0\u00a0\u00a0\u00a0\u00a0 Modelli Matematici per l'Informazione e la Trasmissioned.\u00a0\u00a0\u00a0\u00a0 Modelli di Canale con Errorie.\u00a0\u00a0\u00a0\u00a0 Codici per la Trasmissione su Canali; Rate di Trasmissionef.\u00a0\u00a0\u00a0\u00a0\u00a0 Esempi di Codici Correttori: Repetition Codes e Block Codes.g.\u00a0\u00a0\u00a0\u00a0 Discussione informale dei risultati di ShannonRif. Bibliografico:\u00a0 Capitolo 1 di [1]2.\u00a0\u00a0\u00a0\u00a0 I concetti fondamentali della Teoria dell'Informazione.a.\u00a0\u00a0\u00a0\u00a0 Richiami di\u00a0 Probabilit\u00e0 Discretab.\u00a0\u00a0\u00a0\u00a0 Inferenza Statistica: Il Likelihoodc.\u00a0\u00a0\u00a0\u00a0\u00a0 Definizioni di Entropia e di Contenuto Informativo (di Shannon) di una Sorgente di Informazione.d.\u00a0\u00a0\u00a0\u00a0 Propriet\u00e0 utili della funzione EntropiaRif. Bibliografico:\u00a0 Capitolo 3 di\u00a0 [1]3.\u00a0\u00a0\u00a0\u00a0 La Compressione\u00a0 Datia.\u00a0\u00a0\u00a0\u00a0 Variabili Aleatorie particolari: Le Sorgenti di Informazionib.\u00a0\u00a0\u00a0\u00a0 Entropia di una Sorgentec.\u00a0\u00a0\u00a0\u00a0\u00a0 Significato dell'Entropia di una Sorgented.\u00a0\u00a0\u00a0\u00a0 Esempi di Sorgenti e valutazione dell'Entropiae.\u00a0\u00a0\u00a0\u00a0 Entropia\u00a0 di una Sorgente e Compressione del suo Outcomef.\u00a0\u00a0\u00a0\u00a0\u00a0 Compressione con Errore e senzag.\u00a0\u00a0\u00a0\u00a0 Compressione di Sequenze di simboli di una Sorgenteh.\u00a0\u00a0\u00a0\u00a0 Sequenze Tipichei.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Il I\u00b0\u00a0 Teorema di Shannonj.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Dimostrazione del I\u00b0\u00a0 Teorema\u00a0 di Shannon\u00a0 Rif. Bibliografico: Capitolo 4 di [1]\u00a04.\u00a0\u00a0\u00a0\u00a0 Codifica Binaria a Lunghezza Variabile (L.V.) senza Erroria.\u00a0\u00a0\u00a0\u00a0 Codifica Univoca,\u00a0 Codici Prefissib.\u00a0\u00a0\u00a0\u00a0 Il I\u00b0 Teorema di Shannon per la codifica a L.V.c.\u00a0\u00a0\u00a0\u00a0\u00a0 Esempi di Codici Binari a L.V.d.\u00a0\u00a0\u00a0\u00a0 Codifica a L.V.\u00a0 Ottimale ed i codici di Huffman\u00a0\u00a0 Rif. Bibliografici:\u00a0 Capitolo 5 di [1].\u00a05.\u00a0\u00a0\u00a0\u00a0 Codifica e Decodifica per Canali di Trasmissione con Erroria.\u00a0\u00a0\u00a0\u00a0 Il Modello di Canale attraverso spazi probabilistici congiunti.b.\u00a0\u00a0\u00a0\u00a0 Random Variables (R.V.)\u00a0 Dipendentic.\u00a0\u00a0\u00a0\u00a0\u00a0 Entropia Congiunta, Condizionata, Marginale di R.V.d.\u00a0\u00a0\u00a0\u00a0 Il Concetto di Mutua Informazione I(X,Y)e.\u00a0\u00a0\u00a0\u00a0 La Comunicazione su un Canale con Errorif.\u00a0\u00a0\u00a0\u00a0\u00a0 Inferenza dell'Input conoscendo l'Outputg.\u00a0\u00a0\u00a0\u00a0 Capacit\u00e0 di un Canaleh.\u00a0\u00a0\u00a0\u00a0 Il II\u00b0 Teorema di Shannon sui Canali con Errorei.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Descrizione informale della Dimostrazionej.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Sequenze Congiuntamente Tipichek.\u00a0\u00a0\u00a0\u00a0 Dimostrazione formale (alcune parti)\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rif. Bibliografici:\u00a0 Cap. 9 e 10 di [1]\u00a06.\u00a0\u00a0\u00a0\u00a0 Canali e\u00a0 Codici Binari\u00a0 a.\u00a0\u00a0\u00a0\u00a0 Correzione di Errori e Distanza di Hammingb.\u00a0\u00a0\u00a0\u00a0 Codici Buoni e Cattivic.\u00a0\u00a0\u00a0\u00a0\u00a0 Codici Perfettid.\u00a0\u00a0\u00a0\u00a0 Codici di Hamminge.\u00a0\u00a0\u00a0\u00a0 Non esistenza di Codici Perfetti utilif.\u00a0\u00a0\u00a0\u00a0\u00a0 Codici Lineari Randomg.\u00a0\u00a0\u00a0\u00a0 Codici Lineari Efficienti per il Canale Binario SimmetricoRif. Bibliografici: Cap. 13 e 14 di [1]\u00a0\u00a0Riferimenti Bibliografici:David J.C. MacKay. Information Theory, Inference, and Learning Algorithms. Cambridge University Press, Version 7.2 (2005).\u00a0\u00a0Propedeuticit\u00e0:\u00a0 Matematica discreta. Calcolo delle probabilit\u00e0.",
+  "testiRiferimento": "D. MacKay Information Theory, Inference, and Learning Algorithms Cambridge University Press ISBN-10: 0521642981 ISBN-13: 978-0521642989",
+  "ricevimento": "app.to per email con il docente.\n\nclementi@mat.uniroma2.it",
+  "modalit\u00e0Esame": "orale"
+}

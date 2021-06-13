@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Calcolo numerico",
+  "docente": "Francesca Pelosi",
+  "annoAccademico": "2019-2020",
+  "crediti": "6",
+  "settore": "MAT/08",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Analisi Matematica. Matematica discreta.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Elementi di base sui seguenti argomenti:\n\n\n\nAnalisi degli errori\n\nIntroduzione l corso. I numeri macchina\nTaglio, arrotondamento, precisione di macchina, operazioni di macchina, (esempi)\nCondizionamento, numero di condizionamento, (esempi)\nEsempi sulla stabilita`, errori inerenti, di troncamento ed arrotondamento\n\nmetodi numerici per l'algebra lineare:\n\nRichiami di algebra lineare. Spazi normati, norme Holderiane, norme matriciali indotte e naturali\nSistemi lineari, numero di condizionamento, (esempi)\nSistemi triangolari,Fattorizzazione LR, Metodo di Gauss, (esempi), notazione matriciale\nMetodo di Gauss, algoritmo di Gauss\nEsercizi sul metodo di Gauss (1 Lab)\nStabilita` del metodi di Gauss, Gauss con pivot totale, (esempi)\nGauss con pivot parziale, (esempi)\nAlgoritmo di Gauss con pivot parziale, Fattorizzazione diretta\ne metodo di Choleski\nMetodi iterativi per sistemi lineari, convergenza e velocit\u00e0 (cenni)\n\ninterpolazione ed approssimazione;\n\n\n\nInterpolazione ed approssimazione dei dati, formalizzazione del problema ed esempi\nPolinomio interpolante nelle forme di Lagrange e Newton, differenze divise\nErrore nelle formule di interpolazione, differenze divise e derivate",
+  "testiRiferimento": "M. G.Gasparo, R. Morandi, Elementi di Calcolo Numerico:metodi e algoritmi;\nA. Quarteroni, Elementi di Calcolo Numerico, Esculapio;G. Monegato, Calcolo Numerico, Levrotto e Bella;V. Comincioli, Analisi Numerica, McGraw-Hill;F. Fontanella, A. Pasquali, Calcolo Numerico, Pitagora.\nA. Quarteroni, Elementi di Calcolo Numerico, Esculapio;G. Monegato, Calcolo Numerico, Levrotto e Bella;V. Comincioli, Analisi Numerica, McGraw-Hill;F. Fontanella, A. Pasquali, Calcolo Numerico, Pitagora.",
+  "ricevimento": "Concordare con il docente",
+  "modalit\u00e0Esame": "scritto e orale"
+}

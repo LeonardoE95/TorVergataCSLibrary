@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Elementi di economia nel progetto di sistemi",
+  "docente": "Guido Marinelli",
+  "annoAccademico": "2015-2016",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "Lunedi 11:30-13:30\nGiovedi 11:30-13:30"
+    }
+  ],
+  "materiale": [],
+  "programma": "Sistemi di servizi in rete mono-organizzazione, sistemi di servizi multi-organizzazione e community. I sistemi cooperativi. Processo di decision-making. Catena del valore.\n\nAnalisi di fattibilit\u00e0 tecnica; analisi di fattibilit\u00e0 economica; analisi di fattibilit\u00e0 normativa e organizzativa. Analisi costi-benefici per un sistema di servizi. Flusso di cassa, Valore Attuale Netto, Tasso Interno di Rendimento, Tempo di Ritorno Attualizzato. Il valore dell'informazione. Il valore della sicurezza e della privacy. Il costo dei contenziosi. Il valore del monitoraggio, controllo e certificazione dei processi e delle regole di cooperazione definite nel sistema di servizi. Rilevazione di allarmi in un sistema cooperativo. Misure della Qualit\u00e0 del Servizio (QoS) e pianificazione dell'evoluzione di un sistema cooperativo.\n\nDall\u2019analisi di fattibilit\u00e0 alla progettazione di massima e al progetto di dettaglio.\n\nLe procedure di approvvigionamento. Capitolato tecnico servizi ICT. \u00a0Dlgs 163/2006 (cenni).\nGli aspetti contrattuali per un sistema di servizi ICT (cenni).",
+  "testiRiferimento": "Lucidi del docente\nNino Di Franco / Francesca A. Iacobone: Pragmatica dell\u2019analisi costi-benefici: ISBN 978-88-548-2360-0\nGiuseppe Pennisi \u2013 Pasquale Lucio Scandizzo: Valutare l\u2019incertezza: L\u2019ANALISI COSTI-BENEFICI NEL 21\u00b0 SECOLO: ISBN-13 9788834833087",
+  "ricevimento": "Chiamare 335 5237496\n(Giorno di ricevimento: giovedi pomeriggio)",
+  "modalit\u00e0Esame": "Compilazione di una tesina ed esame orale"
+}

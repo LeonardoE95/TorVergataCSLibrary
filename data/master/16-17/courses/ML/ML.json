@@ -1,0 +1,164 @@
+{
+  "nomeCorso": "Machine learning",
+  "docente": "Giorgio Gambosi",
+  "annoAccademico": "2016-2017",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "15-01-2018 16:42",
+      "contenuto": "Gli appelli per la sessione invernale avranno luogo marted\u00ec 13-2-2018 e marted\u00ec 27-2-2018, in entrambi i casi alle ore 10 nello studio del docente"
+    },
+    {
+      "titolo": "Esami sessione autunnale",
+      "data": "10-07-2017 11:22",
+      "contenuto": "Gli appelli per la sessione estiva avranno luogo gioved\u00ec 14-9-2017 e gioved\u00ec 28-9-2017, in entrambi i casi alle ore 10 nello studio del docente"
+    },
+    {
+      "titolo": "Esami sessione estiva",
+      "data": "29-05-2017 15:24",
+      "contenuto": "Gli appelli per la sessione estiva avranno luogo venerd\u00ec 23-6-2017 e gioved\u00ec 20-7-2017, in entrambi i casi alle ore 10 nello studio del docente"
+    },
+    {
+      "titolo": "",
+      "data": "15-05-2017 12:34",
+      "contenuto": "Le lezioni previste per la settimana dal 15-5-2017 al 19-5-2017 sono annullate. La prossima lezione sar\u00e0 tenuta marted\u00ec 23-5-2017"
+    },
+    {
+      "titolo": "",
+      "data": "12-04-2017 14:41",
+      "contenuto": "La lezione prevista per domani, 13-4-2017, \u00e8 rimandata a data successiva da definire."
+    },
+    {
+      "titolo": "",
+      "data": "10-04-2017 17:06",
+      "contenuto": "La lezione prevista per domani, 11-4-2017, \u00e8 rimandata a data successiva da definire."
+    },
+    {
+      "titolo": "",
+      "data": "23-03-2017 11:03",
+      "contenuto": "La lezione prevista per oggi, 23-3-2017, \u00e8 rimandata a data successiva da definire."
+    },
+    {
+      "titolo": "",
+      "data": "17-03-2017 00:15",
+      "contenuto": "Una serie di tutorial su scikit-learn \u00e8 disponibile all'indirizzo\u00a0http://www.datasciencecentral.com/profiles/blogs/scikit-learn-tutorial-series"
+    },
+    {
+      "titolo": "",
+      "data": "16-03-2017 20:51",
+      "contenuto": "Per chi fosse interessato a testi a carattere non tecnico, inerenti le tematiche del corso, si suggeriscono:\nP. Domingos \u201cL\u2019Algoritmo Definitivo: La macchina che impara da sola e il futuro del nostro mondo\u201d Bollati\u00a0\u00a0Boringhieri 2016\nC. O\u2019Neil \u201cWeapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy\u201d\u00a0\u00a0Allen Lane 2016\nS. Bertsch McGrayne \u201cThe Theory That Would Not Die: How Bayes' Rule Cracked the Enigma Code, Hunted Down Russian Submarines, and Emerged Triumphant from Two Centuries\u201d Yale Univ. Press 2012"
+    },
+    {
+      "titolo": "",
+      "data": "14-03-2017 23:15",
+      "contenuto": "Le lezioni del corso, a partire dal 16-3-2017, avranno luogo il marted\u00ec alle 11.30 in aula G2A e il gioved\u00ec alle 14.30 in aula 7."
+    },
+    {
+      "titolo": "",
+      "data": "06-03-2017 15:05",
+      "contenuto": "Nella cartella 'Libri', all'interno della cartella dropbox condivisa, sono disponibili alcuni testi di Machine learning e di programmazione Python liberamente disponibili su Internet"
+    },
+    {
+      "titolo": "",
+      "data": "06-03-2017 15:00",
+      "contenuto": "All'indirizzo\u00a0http://jupyter.org/\u00a0sono disponibili informazioni sull'ambiente Jupyter Notebook"
+    },
+    {
+      "titolo": "",
+      "data": "06-03-2017 14:58",
+      "contenuto": "I materiali messi a disposizione degli studenti saranno resi man mano accessibili alla seguentecartella dropbox(aprire il link in una diversa finestra)"
+    },
+    {
+      "titolo": "",
+      "data": "06-03-2017 14:43",
+      "contenuto": "All'indirizzohttp://www.scipy-lectures.org/sono disponibili tutorial sui package Python Numpy, Scipy, Matplotlib"
+    },
+    {
+      "titolo": "",
+      "data": "06-03-2017 14:42",
+      "contenuto": "All'indirizzohttps://www.continuum.io/downloads\u00e8 disponibile l'ambiente di programmazione Python Anaconda: include l'editor Spyder"
+    },
+    {
+      "titolo": "",
+      "data": "06-03-2017 14:41",
+      "contenuto": "All'indirizzohttps://store.enthought.com/downloads\u00e8 disponibile l'ambiente Enthought Canopy di programmazione Python: \u00e8 prevista una academic license per docenti e studenti."
+    },
+    {
+      "titolo": "",
+      "data": "06-03-2017 14:40",
+      "contenuto": "All'indirizzo\u00a0http://scikit-learn.org/stable/documentation.html\u00a0sono disponibili documnetazione e tutorial del framework scikit-learn"
+    },
+    {
+      "titolo": "",
+      "data": "06-03-2017 14:38",
+      "contenuto": "Al seguente\u00a0indirizzo\u00a0\u00e8 accessibile documentazione sui package Pyhton Numpy, Scipy, Matplotlib, Pandase sull'ambiente IPython"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "10",
+      "data": "18-04-2017",
+      "contenuto": "Linear discriminant analysis. Perceptron"
+    },
+    {
+      "id": "9",
+      "data": "06-04-2017",
+      "contenuto": "Classificazione lineare. Tipi di approcci al problema. Classificazione mediante regressione lineare."
+    },
+    {
+      "id": "8",
+      "data": "04-04-2017",
+      "contenuto": "Soluzioni fully bayesian per le regressione lineare. Kernel equivalente"
+    },
+    {
+      "id": "7",
+      "data": "30-03-2017",
+      "contenuto": "Approcci bayesiani alla regressione lineare. MAP"
+    },
+    {
+      "id": "6",
+      "data": "28-03-2017",
+      "contenuto": "Modello probabilistico della regressione lineare. Massima verosimiglianza per RL. Decomposizione errore sistematico - varianza"
+    },
+    {
+      "id": "5",
+      "data": "23-03-2017",
+      "contenuto": "Cenni di teoria dell'informazione. Utilizzo dell'informazione mutua per la selezione di feature. Regressione lineare. Funzioni base. Regolarizzazione."
+    },
+    {
+      "id": "4",
+      "data": "21-03-2017",
+      "contenuto": "Bayesian learning: Maximum a posteriori (MAP) e metodi fully bayesian. Esempi: i modelli Beta-Bernoulli e Dirichlet-multinomiale. Applicazione ai modelli di linguaggio. Classificatori Naive-Bayes di documenti."
+    },
+    {
+      "id": "3",
+      "data": "16-03-2017",
+      "contenuto": "Richiami di probabilit\u00e0 e statistica bayesiana. Applicazione della formula di Bayes al learning. Distribuzioni coniugate."
+    },
+    {
+      "id": "2",
+      "data": "14-03-2017",
+      "contenuto": "Introduzione al machine learning. Modelli parametrici. Funzioni di costo. Esempio: regressione polinomiale. Minimi quadrati. Overfitting e regolarizzazione. Un modello probabilistico per la regressione. Massimizzazione della verosimiglianza."
+    },
+    {
+      "id": "1",
+      "data": "09-03-2017",
+      "contenuto": "Esempio di progetto"
+    },
+    {
+      "id": "0",
+      "data": "06-03-2017",
+      "contenuto": "Introduzione al corso"
+    }
+  ],
+  "materiale": [],
+  "programma": "Pattern recognition e machine learning. Schema generale di un sistema di ML. Inferenza. Apprendimento supervisionato e non supervisionato. Regressione lineare. Funzioni base e regressione. Overfitting e funzioni di penalizzazione. Model selection. Introduzione alla teoria delle decisioni. Classificazione: approcci (funzioni di discriminazione, modelli probabilistici discriminativi, modelli probabilistici generativi). Riduzione di dimensionalit\u00e0 e feature selection. Il modello connessionistico. Reti neurali a pi\u00f9 strati. Apprendimento di reti neurali. Optimal margin classifiers e support vector machines. Funzioni kernel. Metodi non parametrici per la stima di probabilit\u00e0: applicazione alla classificazione. Apprendimento non supervisionato. Clustering. Algoritmo k-means. Modelli di mistura di distribuzioni. Modelli a variabili latenti e algoritmo EM. Modello probabilistico di PCA. Factor analysis.Ensemble methods.Modelli statistici del testo. LSA, PLSA, Topic models. Utilizzo di strumenti in ambiente Python per l'analisi e l'apprendimento da dataset reali.",
+  "testiRiferimento": "C. M. Bishop \"Pattern recognition and machine learning\", Springer",
+  "ricevimento": "Al termine delle lezioni. E' possibile inoltre richiedere un appuntamento via mail.",
+  "modalit\u00e0Esame": "Colloquio orale. E' previsto un progetto di applicazione di metodi di ML ad uno specifico problema e la redazione della relativa relazione. Per l'iscrizione all'esame \u00e8 richiesta la prenotazione sul sito delphi.uniroma2.it"
+}

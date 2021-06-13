@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Laboratorio di ingegneria del software",
+  "docente": "Andrea Bei",
+  "annoAccademico": "2011-2012",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Ingegneria del software.",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Parte I\rProgettazione di architetture software\r- Come si progetta una architettura software\r- Principi di progettazione Object Oriented\r- Design & Architectural Pattern (GRASP, GOF, ?)\r- Analisi architetturale \r Parte II\r- Architetture, Framework e Tecnologie JEE\r- Modelli architetturali di riferimento \r- Architetture e tecnologie JEE (JDBC, Servlet, JSP, JSF, Web Services, EJB) \r- Framework: Hibernate, Struts, Spring\r Parte III\rMobile development \r- ANDROID\r- LAYAR",
+  "testiRiferimento": "Testi consigliati:\r - Applicare UML e I Pattern: Analisi e Progettazione Orientata Agli Oggetti  (Craig Larman)\r- Ingegneria del software (Ian Sommerville)",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

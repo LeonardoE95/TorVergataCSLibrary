@@ -1,0 +1,38 @@
+{
+  "nomeCorso": "Ingegneria del software",
+  "docente": "Benedetto Intrigila, Andrea D'Ambrogio",
+  "annoAccademico": "2014-2015",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Linguaggi e metodologie di programmazione.",
+  "comunicazioni": [
+    {
+      "titolo": "Risultati prova 10 settembre 2015",
+      "data": "15-09-2015 22:28",
+      "contenuto": "Parte Intrigila:Tribuzi Matteo: 25/26\n\nParte D'Ambrogio:\n- PIACENTINI MATTEO:\u00a0 \u00a0 28- POMPILI VALERIO: 18 - TEMPESTA MATTEO: 25 - ZOMPETTA ANDREA: 18"
+    },
+    {
+      "titolo": "Risultati prova 6 luglio 2015",
+      "data": "15-07-2015 00:15",
+      "contenuto": "Modulo Intrigila:- Maceratesi Ivan 17/18- Tribuzi Matteo Insufficiente\nModulo D'Ambrogio vedi file sulla pagina del corso."
+    },
+    {
+      "titolo": "Risultati prova 9 giugno 2015",
+      "data": "19-06-2015 22:04",
+      "contenuto": "Modulo Intrigila:- Maceratesi Ivan Insufficiente- Tribuzi Matteo Insufficiente\nModulo D'Ambrogio vedi file sulla pagina del corso."
+    },
+    {
+      "titolo": "Gruppi",
+      "data": "07-10-2014 01:46",
+      "contenuto": "Tutti gli studenti (indipendentemente dalla frequenza) devono formare dei gruppi e darne comunicazione al docente."
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Programma Prima Parte: Il ciclo di vita del software Gestione dei requisiti software (Principalmente). Design (Cenni). Sviluppo (Cenni). Verifica e validazione (Cenni). Il linguaggio di modellazione UML e il suo uso nell'analisi dei requisiti.",
+  "testiRiferimento": "I. Sommerville Software Engineering 7 (o edizioni successive)  (come integrazione consultare anche: MACIASZEK, L.A. and LIONG, B.L. (2005): Practical Software Engineering. A Case Study Approach Addison Wesley)  Per UML: L. Baresi, L. Lavazza, M. Pianciamore Dall'idea al codice con UML 2 Addison Wesley\n\nUniversity of Rome 2 is provided with the use of VP for educational purpose by the Academic Partner Program from Visual Paradigm.",
+  "ricevimento": "Studio 1212 Dente B (tel. 0672594670) Lunedi ore 17-18, Mercoledi ore 17-18 email:intrigil@mat.uniroma2.it",
+  "modalit\u00e0Esame": "null"
+}

@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Informatica teorica",
+  "docente": "Dora Giammarresi",
+  "annoAccademico": "2007-2008",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Teoria della Calcolabilit\u00e0:\r\nIntroduzione alla teoria della computazione. La Macchina di Turing e la tesi di Church. Varianti al modello di macchina di Turing. Funzioni calcolabili mediante Macchine di Turing. La macchina di Turing universale. Indecidibilit\u00e0 di propriet\u00e0 riguardanti le macchine di Turing. Il modello RAM. Equivalenza tra RM e MT.\r\n\r\nTeoria della Complessit\u00e0:\r\nMisure di Complessit\u00e0. Classi di complessit\u00e0 temporali: classi deterministiche e non. Teoremi di compressione e accelerazione. Teoremi di gerarchia (cenni). Teorema di Savitch. La classe P e la classe NP. Linguaggi P-completi. La congettura P = NP. Linguaggi NP-completi. Il teorema di Cook. Alcune dimostrazioni di NP-completezza. La classi coNP. Np completezza forte e pseudo-polinomialit\u00e0. La gerarchia polinomiale e la classe PSPACE (cenni).",
+  "testiRiferimento": "Ausiello, d'Amore, Gambosi \"Linguaggi, modelli, complessit\u00e0\" Franco Angeli",
+  "ricevimento": "Mercoledi 11.00-12.00 studio docente",
+  "modalit\u00e0Esame": "null"
+}

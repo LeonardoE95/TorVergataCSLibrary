@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Analisi di reti",
+  "docente": "Miriam Di Ianni",
+  "annoAccademico": "2014-2015",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Lezione Analisi di Reti del 06/11/14",
+      "data": "05-11-2014 20:01",
+      "contenuto": "Causa allerta meteo, la lezione del 6 novembre non avr\u00e0 luogo."
+    },
+    {
+      "titolo": "Lezioni del 20 e 23 ottobre 2014",
+      "data": "05-11-2014 20:00",
+      "contenuto": "Causa allerta meteo, la lezione del giorno 6 novembre 2014 non avr\u00e0 luogo."
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Il problema del Minimo Raggio di Trasmissione per la connessione di un grafo geometrico casuale: analisi probabilistica.\n\nAnalisi di modelli di mobilit\u00e0 e studio della distribuzione spaziale dei nodi.\n\nIl problema del Minimum Broadcast Range Assignment: studio e analisi di un algoritmo di approssimazione; studio di differenti primitive di comunicazione: accumulazione, gossip.\n\nIl problema del Clustering nei grafi geometrici: applicazione a tale problema dell'algoritmo di Chvatal e dell'algoritmo di Luby e loro analisi.\n\nProblemi di Role Assignment: studio di diverse tipologie di Role Assignment e algoritmo per l'assegnazioni di ruoli in un grafo in accordo al Role Assignment Ecologico.",
+  "testiRiferimento": "Dispense a cura del docente, disponibili in questa pagina.",
+  "ricevimento": "Per appuntamento, da richiedere a mezzo posta elettronica.",
+  "modalit\u00e0Esame": "Esame orale."
+}

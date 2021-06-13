@@ -1,0 +1,164 @@
+{
+  "nomeCorso": "Intelligenza artificiale 1",
+  "docente": "Maria Teresa Pazienza",
+  "annoAccademico": "2015-2016",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "prova in itinere di Intelligenza Artificiale 1",
+      "data": "07-01-2016 12:44",
+      "contenuto": "Gioved\u00ec 14 gennaio ore 14 in aula 8 edificio della didattica di Ingegneria"
+    },
+    {
+      "titolo": "incontro con aziende",
+      "data": "03-12-2015 15:16",
+      "contenuto": "Il 4 dicembre alle ore 14,30 presso l'aula Gismondi gli studenti\npotranno incontrare alcune aziende informatiche. Fra queste,\nCapgemini, Expert System, Sinergieit, Onyx Technology, Reveal, IBM.\nSi invitano tutti gli studenti, ed in particolare quelli del terzo anno e della magistrale, a partecipare."
+    },
+    {
+      "titolo": "",
+      "data": "06-10-2015 17:25",
+      "contenuto": "la prima lezione si terr\u00e0 il giorno 6 ottobre 2015 con il seguente calendario:\n\nmarted\u00ec ore 11,30-13,30 aula B6 Macroarea di Ingegneria\ngioved\u00ec ore 11,30-13,30 aula B7 Macroarea di Ingegneria"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "28",
+      "data": "21-01-2016",
+      "contenuto": "prova in itinere su OWL"
+    },
+    {
+      "id": "27",
+      "data": "19-01-2016",
+      "contenuto": "prova d'esame"
+    },
+    {
+      "id": "26",
+      "data": "14-01-2016",
+      "contenuto": "esercitazioni"
+    },
+    {
+      "id": "25",
+      "data": "12-01-2016",
+      "contenuto": "esercitazioni"
+    },
+    {
+      "id": "24",
+      "data": "22-12-2015",
+      "contenuto": "esercitazioni su RDF"
+    },
+    {
+      "id": "23",
+      "data": "17-12-2015",
+      "contenuto": "varie forme dell'inheritance a supporto del ragionamento automatico"
+    },
+    {
+      "id": "22",
+      "data": "15-12-2015",
+      "contenuto": "DL: entailment"
+    },
+    {
+      "id": "21",
+      "data": "10-12-2015",
+      "contenuto": "Description Logics: motivazioni"
+    },
+    {
+      "id": "20",
+      "data": "03-12-2015",
+      "contenuto": "rappresentazione della conoscenza con frames"
+    },
+    {
+      "id": "19",
+      "data": "01-12-2015",
+      "contenuto": "Clausole di Horn"
+    },
+    {
+      "id": "18",
+      "data": "26-12-2015",
+      "contenuto": "prova in itinere su resolution"
+    },
+    {
+      "id": "17",
+      "data": "05-11-2015",
+      "contenuto": "entailment"
+    },
+    {
+      "id": "16",
+      "data": "03-11-2015",
+      "contenuto": "rappresentazione della conoscenza (fatti base, complessi, terminologia...)"
+    },
+    {
+      "id": "14",
+      "data": "29-10-2015",
+      "contenuto": "prova in itinere su FOL"
+    },
+    {
+      "id": "12",
+      "data": "24-11-2015",
+      "contenuto": "first-order resolution"
+    },
+    {
+      "id": "11",
+      "data": "19-11-2015",
+      "contenuto": "risoluzione: parte 2"
+    },
+    {
+      "id": "10",
+      "data": "17-11-2015",
+      "contenuto": "risoluzione: parte 1"
+    },
+    {
+      "id": "9",
+      "data": "12-11-2015",
+      "contenuto": "esercizi: rappresentazione in forma logica della conoscenza di una applicazione"
+    },
+    {
+      "id": "8",
+      "data": "10-11-2015",
+      "contenuto": "rappresentazione della conoscenza in un'applicazione ed entailment"
+    },
+    {
+      "id": "7",
+      "data": "27-10-2015",
+      "contenuto": "Denotation, satisfaction, entailment in FOL"
+    },
+    {
+      "id": "6",
+      "data": "22-10-2015",
+      "contenuto": "Interpretazione in FOL"
+    },
+    {
+      "id": "5",
+      "data": "20-10-2015",
+      "contenuto": "Introduzione alla logica del primo ordine"
+    },
+    {
+      "id": "4",
+      "data": "15-10-2015",
+      "contenuto": "cenni di logica proposizionale"
+    },
+    {
+      "id": "3",
+      "data": "13-10-2015",
+      "contenuto": "introduzione al paradigma computazionale logico"
+    },
+    {
+      "id": "2",
+      "data": "08-10-2015",
+      "contenuto": "metodologie di rappresentazione della conoscenza"
+    },
+    {
+      "id": "1",
+      "data": "06-10-2015",
+      "contenuto": "presentazione dle corso: tematiche, programma, modalit\u00e0 di svolgimento"
+    }
+  ],
+  "materiale": [],
+  "programma": "Programma del corso di Intelligenza Artificiale 1\nPresentazione: argomenti, introduzione\nRappresentazione della conoscenza e ragionamento automatico\nLogica del primo ordine\nBasi di conoscenza: ontologie, inferenza\nSistemi di ragionamento logico: frame e reti semantiche\nIntroduzione al Semantic Web\nRDF/RDFS\nEsercitazioni del corso di Intelligenza Artificiale 1\nOWL: struttura del linguaggio\nEsercizi su gestione conoscenza\nLinguaggi di Interrogazione per il Web Semantico\nStrumenti per lo sviluppo e la gestione di Ontologie\nThesauri and Concept Scheme Development: SKOS & SKOS-XL\nEsercizi su gestione conoscenza\nTecnologie per la gestione di repository RDF\nLinked Open Data\n\nObiettivi formativi del corso di Intelligenza Artificiale 1\nFornire agli studenti che seguono questo corso le motivazioni e la conoscenza di base relative alla modellazione dei sistemi intelligenti; in particolare la gestione della conoscenza (Knowledge Management) e le basi dell\u2019apprendimento automatico oltre alla possibilit\u00e0 del loro uso per risolvere problemi complessi (Knowledge Based Systems) anche nel contesto del Semantic Web.\nTesto consigliato del corso di Intelligenza Artificiale 1\n\u201cKnowledge representation and reasoning\u201d, \u00a0Brachman\u00a0e Levesque:, Morgan Kaufmann, Cap. 1,2,3,4.1,4.2,5,8,9,10\u00a0(solo capitoli\u00a0selezionati)",
+  "testiRiferimento": "Testo consigliato del corso di Intelligenza Artificiale 1\n\u201cKnowledge representation and reasoning\u201d, \u00a0Brachman\u00a0e Levesque:, Morgan Kaufmann, Cap. 1,2,3,4.1,4.2,5,8,9,10\u00a0(solo capitoli\u00a0selezionati)",
+  "ricevimento": "subito dopo la lezione; inviando una mail al docente: pazienza@info.uniroma2.it \u00e8 possibile fissare un ricevimento in data ed ora da concordare con il docente",
+  "modalit\u00e0Esame": "Modalit\u00e0 di accertamento del corso di Intelligenza Artificiale 1\n\n\nEsame scritto con domande a risposta libera ed esercizi\n\n****************\n\nPer gli studenti che frequentano e studiano costantemente \u00e8 prevista una verifica scritta alla fine di ciascun ciclo di lezioni relative ad un argomento; tale verifica sar\u00e0 valutata dal docente ed i risultati comunicati agli studenti.\n\nAlla fine del corso il docente, alla luce dei risultati conseguiti in tutte le verifiche parziali, proporr\u00e0 un voto finale. Lo studente potr\u00e0 accettarlo come voto d'esame o presentarsi alle prove ufficiali d'esame previste sostenendo la prova d'esame.\n\nNon sono previsti esoneri parziali.\n\n****************"
+}

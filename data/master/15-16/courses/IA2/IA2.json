@@ -1,0 +1,194 @@
+{
+  "nomeCorso": "Intelligenza artificiale 2",
+  "docente": "Maria Teresa Pazienza",
+  "annoAccademico": "2015-2016",
+  "crediti": "9",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "tecnologie per i progetti",
+      "data": "27-11-2015 13:34",
+      "contenuto": "A partire da luned\u00ec 30 novembre ci sar\u00e0 un gruppo di 4 lezioni (circa) per la presentazione di tecnologie avanzate da utilizzare nella preparazione dei progetti.\nSi invitano tutti gli studenti a partecipare a queste lezioni."
+    },
+    {
+      "titolo": "assegnazione progetti",
+      "data": "16-11-2015 09:42",
+      "contenuto": "si avvisano gli studenti che gli argomenti deli progetti saranno assegnati prima di Natale per dar modo ad ognuno di avere tempo a sufficienza per la loro implementazione"
+    },
+    {
+      "titolo": "calendario delle lezioni",
+      "data": "12-10-2015 12:25",
+      "contenuto": "le lezioni si svolgeranno presso la maroarea di Ingegneria secondo il seguente calendario:\n\nluned\u00ec dalle ore 09.30 alle ore 11.15 aula B11\nmercoled\u00ec dalle ore 09.30 alle ore 11.15 aula B12\nvenerd\u00ec dalle ore 09.30 alle ore 11.15 aula B5"
+    },
+    {
+      "titolo": "comunicazioni con il docente",
+      "data": "12-10-2015 11:38",
+      "contenuto": "per qualunque motivo, lo studente pu\u00f2 inviare una mail al docente per comunicazioni personali."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "31",
+      "data": "13-01-2016",
+      "contenuto": "esercitazioni su progetti"
+    },
+    {
+      "id": "30",
+      "data": "11-01-2016",
+      "contenuto": "esercitazioni su progetti"
+    },
+    {
+      "id": "29",
+      "data": "21-12-2015",
+      "contenuto": "esercitazioni su progetti"
+    },
+    {
+      "id": "28",
+      "data": "18-12-2015",
+      "contenuto": "esercitazioni"
+    },
+    {
+      "id": "27",
+      "data": "16-12-2015",
+      "contenuto": "analisi progetti organizzati per gruppi di studenti"
+    },
+    {
+      "id": "26",
+      "data": "14-12-2015",
+      "contenuto": "seminario David Israel"
+    },
+    {
+      "id": "25",
+      "data": "14-12-2015",
+      "contenuto": "presentazione progetti da svolgere da parte degli studenti"
+    },
+    {
+      "id": "24",
+      "data": "11-12-2015",
+      "contenuto": "Relation Extraction, DKpro (enfasi sui tagset), fondamenti di CODA e Apache Ruta"
+    },
+    {
+      "id": "23",
+      "data": "09-12-2015",
+      "contenuto": "aeminario su motivazioni ed rappresentazione della conoscenza in Watson (sistema di Q/A dell'IBM)"
+    },
+    {
+      "id": "22",
+      "data": "07-12-2015",
+      "contenuto": "Relation Extraction, DKpro (enfasi sui tagset), fondamenti di CODA e Apache Ruta"
+    },
+    {
+      "id": "21",
+      "data": "04-12-2015",
+      "contenuto": "AncoraUIMA ed in particolare DKPro ed introduzione alla relation extraction.\n[if !supportLineBreakNewLine][endif]"
+    },
+    {
+      "id": "20",
+      "data": "02-12-2015",
+      "contenuto": "L'argomento di oggi \u00e8 stato: UIMA + alcuni programmi di esempio su OWLART APILink ai programmi mostrati a lezione:https://dl.dropboxusercontent.com/u/47961860/esempi_uima-versione_2015-12-02.zipLinks a due file di testo contenenti link di studio e alcune query da provare con triple storehttps://dl.dropboxusercontent.com/u/47961860/LINKS_20151202.txthttps://dl.dropboxusercontent.com/u/47961860/QUERY_20151202.txt"
+    },
+    {
+      "id": "19",
+      "data": "30-11-2015",
+      "contenuto": "argomenti trattati oggi:\n- alcuni servizi e tool per il semantic web (prefix.cc, Linked Open Vocabularies,\u00a0WebVOWL, Parrot, Vapour, OOPS! (gli ultimi due solo accennati))\n- OWL ART API (programmi di esempio)"
+    },
+    {
+      "id": "18",
+      "data": "27-11-2015",
+      "contenuto": "risoluzione di ambiguit\u00e0 attraverso il reasoner (capitolo 7 del libro)\nnovit\u00e0 introdotte da e RDF 1.1 e da OWL 2 (parte del capitolo 2)"
+    },
+    {
+      "id": "17",
+      "data": "25-11-2015",
+      "contenuto": "SPARQL ed introduzione al Q/A su RDF (II parte)"
+    },
+    {
+      "id": "16",
+      "data": "23-11-2015",
+      "contenuto": "SPARQL ed introduzione al Q/A su RDF"
+    },
+    {
+      "id": "15",
+      "data": "20-11-2015",
+      "contenuto": "RDF-WordNet"
+    },
+    {
+      "id": "14",
+      "data": "18-11-2015",
+      "contenuto": "linguistic linked data"
+    },
+    {
+      "id": "13",
+      "data": "16-11-2015",
+      "contenuto": "lessici ontologici"
+    },
+    {
+      "id": "12",
+      "data": "13-11-2015",
+      "contenuto": "teconologie del semantic web"
+    },
+    {
+      "id": "11",
+      "data": "11-11-2015",
+      "contenuto": "DRS discourse representation structure"
+    },
+    {
+      "id": "10",
+      "data": "09-11-2015",
+      "contenuto": "sostistuzione e aggiunta di alber TAG"
+    },
+    {
+      "id": "9",
+      "data": "04-11-2015",
+      "contenuto": "analisi sintattica di una frase e rilevanza dei ruoli sintattici"
+    },
+    {
+      "id": "8",
+      "data": "30-10-2015",
+      "contenuto": "RDF ed ontologie"
+    },
+    {
+      "id": "7",
+      "data": "28-10-2015",
+      "contenuto": "rappresentazione del significato di una espressione linguistica"
+    },
+    {
+      "id": "6",
+      "data": "28-10-2015",
+      "contenuto": "FOL e linguaggio naturale"
+    },
+    {
+      "id": "5",
+      "data": "21-10-2015",
+      "contenuto": "ontologie lessicali"
+    },
+    {
+      "id": "4",
+      "data": "19-10-2015",
+      "contenuto": "differenti fasi dell'elaborazione del linguaggio naturale: ruolo della semantica"
+    },
+    {
+      "id": "3",
+      "data": "16-10-2015",
+      "contenuto": "ontologie e semantica del linguaggio naturale: introduzione"
+    },
+    {
+      "id": "2",
+      "data": "14-10-2015",
+      "contenuto": "introduzione all'elaborazione del linguaggio naturale"
+    },
+    {
+      "id": "1",
+      "data": "12-10-2015",
+      "contenuto": "presentazione delle tematiche del corso e delle modalit\u00e0 di svolgimento di lezioni, esercitazioni ed esami"
+    }
+  ],
+  "materiale": [],
+  "programma": "Programma del corso di Intelligenza Artificiale 2\n\nIntroduzione all\u2019elaborazione del linguaggio naturale (NLP simbolico)\nSemantica, semantica lessicale, sistemi basati su semantica\nAnalisi del discorso\nOntologie\nModelli, metodologie di rappresentazione di conoscenza concettuale, linguaggi, tecnologie\nLogiche terminologiche, logiche descrittive\nSemantic Web\nApplicazioni\u00a0(es. IE, Q/A, reasoning) che traggono vantaggio\u00a0da approcci misti basati su\u00a0NLP e\u00a0ontologie\nSemantica e Big Data, linguaggi, tecnologie, applicazioni\nEsercitazioni del corso di Intelligenza Artificiale 2\nLIME e LEMON: struttura dei linguaggi\nFramework \u00a0avanzati per lo sviluppo e la gestione di Ontologie\nIntegrazione di risorse di conoscenza open access in sistemi intelligenti\nObiettivi formativi del corso di Intelligenza Artificiale 2\n\nFornire agli studenti conoscenze formali e tecnologiche avanzate per la modellazione di sistemi intelligenti; in particolare sistemi di information extraction e di question answering \u00a0anche nel contesto del Semantic Web.\nTesti consigliati del corso di Intelligenza Artificiale 2\n\n\u201cOntology-based Interpretation of Natural Language\u201d\nAutori: P. Cimiano, C. Unger, J. McCrae\nMorgan & Claypool\u00a0publishers, 2014\n\n\nModalit\u00e0 di accertamento del corso di Intelligenza Artificiale 1\n\nEsame orale e progetto",
+  "testiRiferimento": "libro di testo:\n\u201cOntology-based Interpretation of Natural Language\u201d\nAutori: P. Cimiano, C. Unger, J. McCrae\n\nMorgan & Claypool\u00a0publishers, 2014\n\ncapitoli 1,2,3,4,5,6,7,9,10",
+  "ricevimento": "subito dopo ogni lezione; inoltre ove necessario lo studente pu\u00f2 inviare una mail al docente con richiesta di ricevimento personalizzato (giorno, ora da concordarsi)",
+  "modalit\u00e0Esame": "Esame orale e progetto"
+}

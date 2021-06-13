@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Architettura elaboratori",
+  "docente": "Alessandra Pieroni",
+  "annoAccademico": "2012-2013",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Programma del corso\r Organizzazione dei sistemi di calcolo\r     Processori\r     Memorie principali e Memorie secondarie\r     Input/output\rDescrizione dei sistemi di calcolo \r\tDescrizione orizzontale\r\tDescrizione verticale\r        Descrizione del livello logico digitale\r\t    Processore\r            Memorie\r            Bus\rArchitettura e Governo di sistemi di calcolo\r\tTipi di architettura\r        Tipi di Governo\r               Strumenti di governo\r\t       Processi e Thread\r\t       Comunicazione tra processi\r               Scheduling \r               Gestione Processi\r               File System\r               Input/output\rSistemi a configurazione multiprocessor\r        Legge di Grosch\r\tLegge di Moore\rReti di interconnesione\r        Reti intraprocessor\r        Reti interprocessor\r        Computer networks\r\t        LAN, MAN e WAN\rCaratterizzazione Unit\u00e0 e Reti\r\tCaratterizzazione CPU\r\t\tEsempi di CPU\r\tCaratterizzazione Reti\r\t\tCaratterizzazione Reti Intraprocessor\r                Caratterizzazione Reti Iterprocessor\r                \tReti Statiche e Reti Dinamiche\r                Caratterizzazione Computer Network\r\t                Legge Metcalfe\r                        Legge delle Reti\r Programma prima prova: \rLibro Tanembaum cap.1 e 2 (fino a 2.1.5 escluso)\r Programma seconda prova:\rLibro Tanembaum cap.2 (tutto)\rLibro Iazeolla: cap. 2.1 e 2.2; cap.3 tutto; cap.5.1.\r Programma per la terza prova: \rLibro Iazeolla: \rcap.3.2 (inclusi sotto paragrafi) e 3.3 (inclusi sotto paragrafi)\rcap.4 (escluso cap4.4).\rLibro Tanenbaum:\rcap3 (fino a 3.2.4 incluso).",
+  "testiRiferimento": "Testi consigliati: \r 1) Tanenbaum Andrew S., Architettura dei calcolatori: Un approccio \t\t   strutturale,  5a Ed., Pearson Education, 2006\r 2) Giuseppe Iazeolla, Impianti, Reti e Sistemi Informatici, 2a Ed., \t\t\tFrancoAngeli 2008",
+  "ricevimento": "In aula dopo lezione",
+  "modalit\u00e0Esame": "null"
+}

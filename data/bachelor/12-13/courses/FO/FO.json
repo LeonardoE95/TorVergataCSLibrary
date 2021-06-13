@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Fondamenti di informatica",
+  "docente": "Benedetto Intrigila",
+  "annoAccademico": "2012-2013",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Risultati prova 12/2/2014",
+      "data": "15-02-2014 00:21",
+      "contenuto": "I risultati all'Url:\n\nhttp://www.mat.uniroma2.it/~intrigil/Fondamenti_Informatica_12_2_14.pdf"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "I fondamenti teorici della teoria della computazione.La gerarchia di ChomskyLinguaggi regolari e automiLinguaggi context-free e automi a pila.Macchina di Turing. (Cenni)\nCon riferimento al libro di testo (vedi sotto):cap.1 tuttocap. 2 paragrafi 2.1, 2.4 e 2.5cap.3 tuttocap. 4 tutto",
+  "testiRiferimento": "Giorgio Ausiello , Fabrizio D'Amore , Giorgio GambosiLinguaggi, modelli, complessit\u00e0",
+  "ricevimento": "Studio 1212 Dente B (tel. 0672594670) Martedi ore 17-18email:intrigil@mat.uniroma2.it",
+  "modalit\u00e0Esame": "null"
+}

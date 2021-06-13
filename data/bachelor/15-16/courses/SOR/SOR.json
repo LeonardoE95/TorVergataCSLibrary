@@ -1,0 +1,314 @@
+{
+  "nomeCorso": "Sistemi operativi e reti",
+  "docente": "Pietro Frasca",
+  "annoAccademico": "2015-2016",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Architettura dei sistemi di elaborazione. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "Risultati esame prova scritta appello 3 - A.A. 2015/2016",
+      "data": "22-09-2016 17:39",
+      "contenuto": "Risultati\u00a0esame prova scritta appello 2 - A.A. 2015/2016\nTesto\u00a0della prova scritta\nTesto\u00a0con suluzione\u00a0della prova scritta\n\nLa prova orale dell'esame di Sistemi operativi e reti si svolger\u00e0 Venerd\u00ec 23 Settembre 2016 alle ore 10:00 in aula 3A.\n\nSosterranno la prova orale gli studenti che hanno conseguito una votazione di almeno 18/30.\nGli studenti che non hanno superato la prova scritta, possono visionare il compito e chiedere spiegazioni durante lo svogimento della prova orale."
+    },
+    {
+      "titolo": "Risultati esame prova scritta appello 2 - A.A. 2015/2016",
+      "data": "20-07-2016 20:03",
+      "contenuto": "Risultati\u00a0esame prova scritta appello 2 - A.A. 2015/2016\nTesto\u00a0della prova scritta\n\nLa prova orale dell'esame di Sistemi operativi e reti si svolger\u00e0 Gioved\u00ec 21 Luglio 2016 alle ore 10:00 in aula 3A.\n\nSosterranno la prova orale gli studenti che hanno conseguito una votazione di almeno 18/30.\nGli studenti che non hanno superato la prova scritta, possono visionare il compito e chiedere spiegazioni durante lo svogimento della prova orale."
+    },
+    {
+      "titolo": "Risultati esame prova scritta appello 1 - A.A. 2015/2016",
+      "data": "16-06-2016 20:43",
+      "contenuto": "Risultati\u00a0esame prova scritta appello 1 - A.A. 2015-2016\nTesto della prova scritta\n\nLa prova orale dell'esame di Sistemi operativi e reti si svolger\u00e0 nei seguenti giorni:\n- Venerd\u00ec 17 Giugno 2016 alle ore 10:00 aula 3A;\n- Luned\u00ec 20 Giugno 2016 \u00a0alle ore 10:00 aula 3A;\n- Marted\u00ec 21 Giugno 2016 alle ore 10:00 aula 3A.\n\nGli \u00a0studenti che hanno conseguito una votazione di almeno 18/30 sosterranno la prova orale secondo la\u00a0seguente tabella.\nGli studenti che non hanno superato l'esame, possono visionare il compito e chiedere spiegazioni durante lo svogimento della prova orale."
+    },
+    {
+      "titolo": "Lezione di Sistemi operativi e reti del 31-03-2016",
+      "data": "30-03-2016 15:28",
+      "contenuto": "Si comunica che la lezione di Sitemi operativi e reti (Frasca) di Gioved\u00ec 31-03-2016 non si svolger\u00e0."
+    },
+    {
+      "titolo": "Risultati esonero prova scritta - A.A. 2015/2016",
+      "data": "22-02-2016 19:26",
+      "contenuto": "Risultati\u00a0esonero prova scritta - A.A. 2014-2015\n\nLa prova orale dell'esonero di Sistemi operativi e reti si svolger\u00e0 nei seguenti giorni:\n- Marted\u00ec 23 \u00a0Febbraio 2016 alle ore 10:00 in aula 10;\n- Mercoled\u00ec 24 Febbraio alle ore 10:00 in aula 28;\n- Gioved\u00ec 25 Febbraio alle ore 10:00 in aula 28.\n\nGli \u00a0studenti che hanno conseguito una votazione di almeno 18/30 sosterranno la prova orale secondo la seguente tabella."
+    },
+    {
+      "titolo": "Risultati esame integrativo prova scritta del 19-02-2016",
+      "data": "22-02-2016 19:00",
+      "contenuto": "Risultati\u00a0esame integrativo prova scritta - A.A. 2014-2015"
+    },
+    {
+      "titolo": "Risultati esame prova scritta appello 4 - A.A. 2014/2015",
+      "data": "18-02-2016 19:33",
+      "contenuto": "Risultati esame prova scritta appello 4 - A.A. 2014-2015\nTesto della prova scritta\n\nLa prova orale dell'esame dell'appello 4 si svolger\u00e0 Venerd\u00ec 19 Febbraio 2016 alle ore 10:00 in aula 3A. Sosterranno l'esame gli studenti che hanno conseguito una votazione di almeno 18/30."
+    },
+    {
+      "titolo": "Informazioni esonero SOR A.A. 2015-2016",
+      "data": "18-02-2016 18:54",
+      "contenuto": "I risultati della prova scritta\u00a0e le date della prova orale\u00a0dell'esonero di SOR dell'A.A. 2015-2016 \u00a0saranno pubblicate luned\u00ec 22 febbraio."
+    },
+    {
+      "titolo": "Esempi di system call",
+      "data": "28-01-2016 12:35",
+      "contenuto": "Nell'area \"Materiale didattico\" \u00e8 stata pubblicata una nuova versione della raccolta di esempi sulle system call.\u00a0La raccolta contiene esempi di base sull'uso delle chiamate di sistema descritte durante il corso e una raccolta di soluzioni di molti problemi d'esame (programmi multiprocesso e multithread)."
+    },
+    {
+      "titolo": "Esonero SOR A.A. 2015/2016",
+      "data": "20-01-2016 11:22",
+      "contenuto": "La prova scritta dell'esonero di Sistemi operativi e reti si svolger\u00e0 il 16-02-2016 alle ore 10:00 in aula T5. La prova orale si svolger\u00e0 a partire dal 19-02-2016.\nLo studente che intende sostenere l'esonero deve prenotarsi inviando, entro l'12-02-2016, una e-mail all'indirizzo del docente:\u00a0frasca@mat.uniroma2.it, indicando come oggetto la frase \"esame parziale SOR A.A. 2015/2016\" e indicando nel messaggio soltanto il proprio cognome, nome e numero di matricola nel seguente formato:\n\nCOGNOME NOME MATRICOLA\n\nNel riguadro \"modalit\u00e0 d'esame\" sono scritte informazione dettagliate sullo svolgimento dell'esonero."
+    },
+    {
+      "titolo": "Data inizio lezioni",
+      "data": "01-10-2015 13:41",
+      "contenuto": "Le lezioni di Sistemi operativi e reti inizieranno Marted\u00ec 6 Ottobre 2015 ore 11:00, in aula 3A."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "48",
+      "data": "24-05-2016",
+      "contenuto": "Confronto tra switch e router. Reti wireless. Collegamenti wireless e caratteristiche di rete. Wi-Fi 802.11. Canali e associazioni.\u00a0Utilizzo di IEEE 802.11 per collegamenti punto-punto.\u00a0Esempio di progettazione LAN."
+    },
+    {
+      "id": "47",
+      "data": "19-05-2016",
+      "contenuto": "Ethernet. Struttura del frame Ethernet. CSMA/CD di Ethernet. Efficienza di Ethernet. Tecnologie Ethernet. Hub. Switch dello strato di collegamento."
+    },
+    {
+      "id": "46",
+      "data": "17-05-2016",
+      "contenuto": "Protocolli di accesso multiplo. Protocolli a suddivisione di canale. Protocolli di accesso casuale. CSMA e CSMA/CD. Protocolli a turno. Reti LAN. Indirizzi LAN. ARP. Invio di datagram a nodi interni ed esterni alla LAN."
+    },
+    {
+      "id": "45",
+      "data": "12-05-2016",
+      "contenuto": "Lo strato di collegamento. Servizi offerti dallo strato di collegamento. Adattatori (schede di rete).\u00a0Tecniche di rilevazione e correzione degli errori. Controllo di parit\u00e0. Controllo di parit\u00e0 a due dimensioni. Somma di controllo. Controllo a ridondanza ciclica. Esempio di calcolo CRC."
+    },
+    {
+      "id": "44",
+      "data": "10-05-2016",
+      "contenuto": "Instradamento inter-sistema. BGP. Reti stub e reti stub multi homed. Instradamento multicast. IGMP. Algoritmi di instradamento multicast (solo conclusioni). Esempio di applicazione multicast in Java (facoltativa)."
+    },
+    {
+      "id": "43",
+      "data": "05-05-2016",
+      "contenuto": "Algoritmi di instradamento. Algoritmi di instradamento LS. Algoritmi di instradamento DV. Confronto tra LS e DV. Instradamento gerarchico. Sistemi autonomi. Instradamento in Internet. Instradamento intra-sistema. RIP. OSPF."
+    },
+    {
+      "id": "42",
+      "data": "03-05-2016",
+      "contenuto": "UPnP (Universal Plug and Play). ICMP. IPv6. Formato del datagram IPv6. Passaggio da IPv4 a IPv6. Metodo dual-stack. Metodo del tunneling. ICMP. ICMP per IPv6."
+    },
+    {
+      "id": "41",
+      "data": "28-04-2016",
+      "contenuto": "Indirizzamento per classe. Indirizzamento CIDR. Assegnazione di indirizzi IP. Configurazione delle interfacce di rete di host e router. DHCP. Traduzione degli indirizzi di rete (NAT)."
+    },
+    {
+      "id": "40",
+      "data": "26-04-2016",
+      "contenuto": "Reti datagram. Il protocollo IP. Formato dei datagram IPv4. Frammentazione del datagram IPv4. Indirizzamento IPv4."
+    },
+    {
+      "id": "39",
+      "data": "21-04-2016",
+      "contenuto": "Controllo della congestione TCP. AIMD. Partenza lenta. Reazione a eventi di timeout. Prevenzione della congestione. Descrizione macroscopica del throughput TCP. Strato di rete. Reti a circuito virtuale."
+    },
+    {
+      "id": "38",
+      "data": "19-04-2016",
+      "contenuto": "Alcuni tipici scenari. Raddoppio dell'intervallo di timeout. Ritrasmissione rapida. Instaurazione della connessione TCP. Controllo del flusso."
+    },
+    {
+      "id": "37",
+      "data": "14-04-2016",
+      "contenuto": "Esempio di numeri di sequenza e di riscontro. Stima del tempo di andata e ritorno (RTT) e timeout. Calcolo del timeout per le ritrasmissioni. Trasferimento affidabile dei dati."
+    },
+    {
+      "id": "36",
+      "data": "12-04-2016",
+      "contenuto": "Lo strato di trasporto. Multiplexing e demultiplexing nell'UDP e nel TCP. l protocollo UDP. Struttura del segmento UDP. Checksum di UDP. Trasporto orientato alla connessione: TCP. Struttura del segmento TCP. Numeri di sequenza e numeri di riscontro."
+    },
+    {
+      "id": "35",
+      "data": "07-04-2016",
+      "contenuto": "Programmazione delle socket con UDP. Esempio di applicazione C/S con UDP."
+    },
+    {
+      "id": "34",
+      "data": "05-04-2016",
+      "contenuto": "Confronto tra le architetture C/S e P2P. Programmazione delle socket. Programmazione delle socket con TCP. Esempio di applicazione C/S in Java."
+    },
+    {
+      "id": "33",
+      "data": "29-03-2016",
+      "contenuto": "Distribuzione di contenuti. Server proxy.\u00a0Esempio d'uso di server proxy. Reti per la distribuzione di contenuti (CDN). Applicazioni P2P. P2P con database centralizzato e distruito. Inondazione di richieste."
+    },
+    {
+      "id": "32",
+      "data": "24-03-2016",
+      "contenuto": "Protocolli di accesso alla posta. POP3. IMAP. Posta elettronica con HTTP. DNS. Servizi forniti dal DNS. Funzionamento del DNS.\u00a0DNS: database distribuiti e gerarchici. Cache DNS. Record DNS. Messaggi DNS."
+    },
+    {
+      "id": "31",
+      "data": "22-03-2016",
+      "contenuto": "Il protocollo FTP. Modalit\u00e0 attiva e passiva. Comandi FTP. Posta elettronica. SMTP. Formati dei messaggi di posta e MIME. Estensioni MIME per dati non ascii. Esempi di messaggi con intestazioni MIMe. Esempi di messaggi multipart/mixed."
+    },
+    {
+      "id": "30",
+      "data": "17-03-2016",
+      "contenuto": "Formato del messaggio di risposta HTTP. Get condizionato. Interazione utente-server: autorizzazione e cookie. Connessione non persistente e persistente. Connessioni non persistenti in parallelismo \u00a0e in serie. Connessione persistente senza parallelismo e con parallelismo."
+    },
+    {
+      "id": "29",
+      "data": "15-03-2016",
+      "contenuto": "Livello di applicazione. Architetture e protocolli dello strato di applicazione Indirizzamento dei processi. Processi di comunicazione nella rete. Servizi formiti dai protocolli di trasporto alle applicazioni. Requisiti di servizio delle applicazioni. Applicazioni di rete. Web. Il protocollo HTTP. Formato del messaggio di richiesta HTTP."
+    },
+    {
+      "id": "28",
+      "data": "10-03-2016",
+      "contenuto": "Ritardi e perdite nelle reti a commutazione di pacchetto. Tipi di ritardo: trasmissione, propagazione, elaborazione, coda. Ritardo totale. Ritardo da host a host. Ritardi e percorsi in Internet. Traceroute e tracert. Perdita di pacchetti. Intensit\u00e0 del traffico. Lo stack protocollare di Internet e il modello ISO OSI. Gli strati di Internet \u00a0e i servizi che forniscono."
+    },
+    {
+      "id": "27",
+      "data": "08-03-2016",
+      "contenuto": "Mezzi trasmissivi. Doppini in rame. Cavi coassiali. Fibre ottiche. Canali radio terrestri. Canali radio satellitari. Accesso alla rete Internet. Accesso residenziale, aziendale e wireless. Gli ISP e le reti dorsali di Internet."
+    },
+    {
+      "id": "26",
+      "data": "03-03-2016",
+      "contenuto": "La sezione interna della rete (nucleo). Commutazione di circuito. Multiplazione (multiplexing) nelle reti a commutazione di circuito. FDM e TDM. Commutazione di pacchetto. Confronto tra commutazione di circuito e commutazione di pacchetto. Frammentazione del messaggio.\u00a0Reti a commutazione di pacchetto datagram."
+    },
+    {
+      "id": "25",
+      "data": "01-03-2016",
+      "contenuto": "Internet. Descrizione dei servizi. Definizione di protocollo di rete. Applicazioni client/server. Servizi senza connessione e orientati alla connessione."
+    },
+    {
+      "id": "24",
+      "data": "12-01-2016",
+      "contenuto": "Organizzazione fisica del file system. Strutture dati del kernel per l\u2019accesso ai file. System call per i file. Esempi. Protezione. Autenticazione degli utenti. I file /etc/passwd e /etc/group. Controllo di accesso alle risorse. ACL in Unix."
+    },
+    {
+      "id": "23",
+      "data": "07-01-2016",
+      "contenuto": "Esempio d'uso delle variabili condition nell'implementazione del modello produttore-consumatore. Gestione della memoria (Unix). Il file system (Unix). Stuttura logica del file system. \u00a0La variabile di ambiente PATH."
+    },
+    {
+      "id": "22",
+      "data": "22-12-2015",
+      "contenuto": "Esempio di sincronizzazione con i mutex. I semafori. Le variabili condition. Esempi di sincronizzazione con le variabili condition."
+    },
+    {
+      "id": "21",
+      "data": "17-12-2015",
+      "contenuto": "La funzione alarm. Esempio sd'uso di alarm. Comunicazione. Pipe. Esempio d'uso delle pipe. Chiamate di sistema per la sospensione di processi: pause, sleep e uspleep.\u00a0I thread in Linux e Unix. I thread POSIX: la libreria pthread. Creazione e terminazione dei thread. Sincronizzazione tra thread. I mutex pthread. Esempi."
+    },
+    {
+      "id": "20",
+      "data": "15-12-2015",
+      "contenuto": "Sostituzione del codice. Scheduling in Unix.\u00a0Interazione tra processi. Sincronizzazione. System call per l'uso di segnali. Invio di segnali tra processi."
+    },
+    {
+      "id": "19",
+      "data": "10-12-2015",
+      "contenuto": "Storia di Unix e Linux. Architettura di Unix. Interazione con l'utente. Shell. Processi e thread. Diagramma degli stati. Immagine di un processo Unix. System call per la gestione di processi. Creazione di processi. Terminazione di processi."
+    },
+    {
+      "id": "18",
+      "data": "03-12-2015",
+      "contenuto": "Il livello organizzazione fisica. Tecniche di allocazione dei file. Allocazione contigua. Allocazione a lista concatenata, a lista con FAT, a indice. Protezione di file e directory. Matrice di protezione. ACL e C-list."
+    },
+    {
+      "id": "17",
+      "data": "01-12-2015",
+      "contenuto": "Dischi raid. Il file system. Struttura logica del file system. Gestione della stuttura logica del file system. Il livello di accesso. Strutture dati e operazioni di accesso ai file. memory mapping.\u00a0Metodi di accesso: sequenziale, diretto e ad indice."
+    },
+    {
+      "id": "16",
+      "data": "26-11-2015",
+      "contenuto": "Driver di dispositivo. Flusso di controllo durante un trasferimento tra dispositivo e processo. Gestione del timer. Gestione dei dischi.\u00a0Criteri di ordinamento dei dati su disco e politiche di scheduling. Esempio di memorizzazione su due tracce contigue e su tracce e settori sparsi. Algoritmi di scheduling FCFS, SSTF e SCAN."
+    },
+    {
+      "id": "15",
+      "data": "24-11-2015",
+      "contenuto": "Livello dipendente dai dispositivi. Controller di un dispositivo. Comunicazione tra processo e dispositivo. Gestione di un dispositivo mediante controllo di programma. Gestione di un dispositivo mediante interrupt. Descrittore di un dispositivo. Gestione di un dispositivo con DMA."
+    },
+    {
+      "id": "14",
+      "data": "19-11-2015",
+      "contenuto": "Memoria segmentata e paginata. Gestione degli spazi virtuali. Paginazione a pi\u00f9 livelli. Gestione dell'I/O. Classificazione dei dispositivi. Struttura logica del sistema di I/O. Livello indipendente dai dispositivi. Bufferizzazione. Gestione degli errori e delle eccezioni. Allocazione dei dispositivi e tecniche di spooling."
+    },
+    {
+      "id": "13",
+      "data": "17-11-2015",
+      "contenuto": "Paginazione su richiesta. Gestione del page-fault. Rimpiazzamento delle pagine. Algoritmi di rimpiazzamento delle pagine. Algoritmo second chance."
+    },
+    {
+      "id": "12",
+      "data": "12-11-2015",
+      "contenuto": "Protezione e condivisione con spazio virtuale segmentato.\u00a0Memoria paginata. Segmentazione su richiesta."
+    },
+    {
+      "id": "11",
+      "data": "10-11-2015",
+      "contenuto": "Tecniche di gestione della memoria. Memoria partizionata. Partizioni fisse e variabili. Tecniche di allocazione mediante free-list: best-fit, first-fit, worst-fit. Protezione e condivisione con spazio virtuale unico.\nTecnica delle partizioni multiple. Segmentazione."
+    },
+    {
+      "id": "10",
+      "data": "05-11-2015",
+      "contenuto": "Metodi per il trattamento del blocco cristico. Prevenzione statica e dinamica. Algoritmo del banchiere. Rilevamento dei blocchi critici.\u00a0Gestione della memoria. Creazione di un file eseguibile. Spazio virtuale unico. Rilocazione statica e dinamica. Spazio virtuale segmentato."
+    },
+    {
+      "id": "9",
+      "data": "03-11-2015",
+      "contenuto": "Blocco critico (stallo). Rappresentazioni dello stato di allocazione delle risorse. Modelli basati su grafo e modelli basati sulle matrici. Esempi di situazioni di stallo. Stallo con risorse consumabili. Condizioni necessarie per lo stallo."
+    },
+    {
+      "id": "8",
+      "data": "29-10-2015",
+      "contenuto": "Soluzione al problema della mutua esclusione con semafori.\u00a0Problema della comunicazione. Soluzione al problema della comunicazione con semafori: produttore-consumatore con buffer di capacit\u00e0 1. Produttore-consumatore con buffer di capacit\u00e0 N. Sincronizzazione dei processi con scambio di messaggi (message passing). Send e receive. Soluzione al problema della comunicazione tra processi. Comunicazione diretta e indiretta. Sincronizzazione tra processi comunicanti."
+    },
+    {
+      "id": "7",
+      "data": "27-10-2015",
+      "contenuto": "Algoritmi di scheduling real-time. Algoritmo Rate Monotonic (RM). Sincronizzazione tra processi/thread. Cooperazione e competizione. Modello ad ambiente globale. Modello ad ambiente locale. Problema della mutua esclusione. Soluzioni al problema della mutua esclusione con attesa attiva. Semafori."
+    },
+    {
+      "id": "6",
+      "data": "22-10-2015",
+      "contenuto": "Principali algoritmi di scheduling. FCFS. SJF. SRTF. Round robin. Algoritmi di scheduling basati sulle priorit\u00e0. Algoritmi di scheduling a code multiple."
+    },
+    {
+      "id": "5",
+      "data": "20-10-2015",
+      "contenuto": "Thread. Thread a livello utente e a livello kernel. Scheduling. Scheduling a breve termine, a medio termine e lungo termine. Comportamento dei processi: cpu burst e i/o burst. Parametri di scheduling."
+    },
+    {
+      "id": "4",
+      "data": "15-10-2015",
+      "contenuto": "Descrittore del processo. Code di processi. Cambio di contesto. Creazione e terminazione dei processi. Esempio di creazione di processo in Unix. Interazione tra i processi. Esempio di processi cooperanti: modello produttore-consumatore. Esempio di processi in competizione. Il kernel di un sistema a processi. Trasferimento tra l'ambiente del kernel e l'ambiente dei processi. Chiamate di sistema bloccanti e non bloccanti."
+    },
+    {
+      "id": "3",
+      "data": "13-10-2015",
+      "contenuto": "Struttura ed organizzazione software dei sistemi operativi. Principali strutture: struttura monolitica, stratificata, a microkernel, modulare, client/server. Struttura dei sistemi operativi. Principali componenti dei sistemi operativi. Gestione dei processi. Definizione di processo. Immagine di un processo. Stati di un processo. Transizioni di stato."
+    },
+    {
+      "id": "2",
+      "data": "08-10-2015",
+      "contenuto": "Sistemi batch multiprogrammati. Sistemi a partizione di tempo (time-sharing). Sistemi in tempo reale. Sistemi paralleli e distribuiti. Sistemi operativi per PC."
+    },
+    {
+      "id": "1",
+      "data": "06-10-2015",
+      "contenuto": "Introduzione al corso. Principali funzioni di un Sistema operativo.\u00a0Classificazione dei sistemi operativi. Sistemi batch."
+    }
+  ],
+  "materiale": [],
+  "programma": "Parte I: Sistemi operativi(I semestre)\nIntroduzione ai sistemi operativi.\nStoria e classificazione dei sistemi operativi.\nPrincipali modelli strutturali.\nGestione dei processi.\nThreads.\nSincronizzazione dei processi.\nGestione della memoria.\nGestione dell' I/O.\nGestione del file system.\nI sistemi operativi Unix e Linux.\nCasi di studio: Unix e Linux\nParte II: Reti di calcolatori (II semestre)\nReti di calcolatori e Internet.\nStrato di applicazione.\nStrato di trasporto.\nStrato di rete e instradamento.\nStrato di collegamento e reti di area locale.\nReti wireless",
+  "testiRiferimento": "Testi di riferimentoSistemi operativi, II ed. - P. Ancilotti, M. Boari, A. Ciampolini, G. Lipari - McGraw-HillReti di Calcolatori e Internet, IV ed. - Un approccio top-down - J.F. Kurose, K.W. Ross - Pearson - Addison Wesley.Libri consigliati per approfondimentiSistemi Operativi, IX ed., A. Silberschatz, P. Galvin, G. Gagne. Pearson.I moderni Sistemi Operativi, III ed., A. S. Tanenbaum. Pearson - Prentice Hall.Sistemi operativi, D. M. Dhamdhere, McGraw-Hill.Reti di Calcolatori e Internet, B. A. Forouzan, McGraw-Hill.",
+  "ricevimento": "Stanza docente (0103) - Marted\u00ec ore 14.00 - 15.00.Per appuntamento via email.",
+  "modalit\u00e0Esame": "Gli studenti iscritti al nuovo ordinamento devono sostenere l'esame \"Sistemi operativi e reti\" di 12 crediti. Gli studenti iscritti al vecchio ordinamento devono sostenere separatamente gli esami \"Sistemi operativi\" di 6 crediti e \"Reti di calcolatori\" di 6 crediti.\u00a0L'esame consiste in una prova scritta e in una prova orale. Il testo della prova scritta \u00e8 suddiviso in due parti. La prima parte \u00e8 composta da un gruppo di 4-5 domande che riguardano argomenti di \"Sistemi operativi\". La seconda parte, \u00e8 composta da un gruppo di 4-5 domande, relative ad argomenti di \"Reti di calcolatori\". Le domande sono del tipo a risposta aperta o sottoforma di problemi. Per la parte Sistemi operativi una delle domande consiste nello sviluppo di un breve programma in linguaggio C basato sulle system call POSIX studiate durante il corso.\u00a0La durata dell'esame di 12 crediti \u00e8 di 3 ore, mentre la durata dell'esame di 6 crediti \u00e8 di 1 ora e 30 minuti. Durante lo svolgimento della prova scritta \u00e8 vietato l'uso di libri e/o appunti di qualsiasi genere.\u00a0Per sostenere la prova orale \u00e8 necessario aver superato la prova scritta con una votazione di almeno 18/30. Inoltre, lo studente pu\u00f2 svolgere una tesina facoltativa consistente nella realizzazione di un'applicazione in java basata sulla programmazione dei socket o di un'applicazione multi-thread scritta in c .La tesina deve essere consegnata (personalmente o via e-mail) almeno una settimana prima della data della prova orale. La realizzazione della tesina consente di migliorare la votazione di 1,2 o 3 punti.\u00a0Per sostenere l'esame \u00e8 obbligatorio prenotarsi mediante il servizio \"Servizi on Line\" all'indirizzo\u00a0http://delphi.uniroma2.itUna raccolta di testi di esame relativi agli a.a. passati e vari esempi di programmi sulle system call POSIX e sulla programmazione dei socket sono disponibili nell'area \"materiale didattico\".\n\nEsame parziale (esonero)\nGli studenti del nuovo ordinamento possono sostenere,nel solo appello invernale, l'esame parziale (esonero) di \"Sistemi operativi e reti\" che consiste in una prova scritta e in una prova orale basate sugli argomenti della prima parte del corso (Sistemi operativi).\nLo studente che supera l'esame parziale deve sostenere la restante parte di SOR entro l'anno accademico corrente.\nLo studente che intende sostenere l'esonero deve prenotarsi inviando una e-mail all'indirizzo del docente: frasca@mat.uniroma2.it, indicando come oggetto la frase \"esame parziale SOR A.A. 2015/2016\" e indicando nel messaggio il proprio cognome, nome e numero di matricola.Il testo della prova scritta dell'esonero \u00e8 composto da un gruppo di 4-5 domande. Le domande sono del tipo a risposta aperta o sottoforma di problemi. Una delle domande consiste nello sviluppo di un breve programma in linguaggio C basato sulle system call POSIX studiate durante il corso.\nLa durata della prova scritta dell'esame parziale \u00e8 di 1 ora e 30 minuti.\nDurante lo svolgimento della prova scritta \u00e8 vietato l'uso di libri e/o appunti di qualsiasi genere.\u00a0Per sostenere la prova orale \u00e8 necessario aver superato la prova scritta con una votazione di almeno 18/30."
+}

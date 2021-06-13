@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Fondamenti di informatica",
+  "docente": "Giorgio Gambosi",
+  "annoAccademico": "2007-2008",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Definizione di linguaggio, grammatica, automa. Gerarchia di Chomsky. Linguaggi regolari, espressioni regolari ed automi a stati finiti deterministici e non deterministici. Linguaggi context free e automi a pila.",
+  "testiRiferimento": "Ausiello, d'Amore, Gambosi \"Linguaggi, modelli, complessit\u00e0\" Franco Angeli",
+  "ricevimento": "Venerdi 11.00-12.00 studio docente",
+  "modalit\u00e0Esame": "null"
+}

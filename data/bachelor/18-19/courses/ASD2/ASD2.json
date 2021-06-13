@@ -1,0 +1,161 @@
+{
+  "nomeCorso": "Algoritmi e strutture dati 2",
+  "docente": "Francesco Pasquale",
+  "annoAccademico": "2018-2019",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Algoritmi e strutture dati.",
+  "comunicazioni": [
+    {
+      "titolo": "Avviso",
+      "data": "07-01-2019 20:14",
+      "contenuto": "Il secondo homework \u00e8 disponibile per il download. Consegna entro le ore 18:00 di luned\u00ec 14 gennaio 2019."
+    },
+    {
+      "titolo": "Avviso",
+      "data": "07-01-2019 20:09",
+      "contenuto": "Il primo homework \u00e8 disponibile per il download. Consegna entro le ore 18:00 di gioved\u00ec 29 novembre 2018."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "25",
+      "data": "18-01-2019",
+      "contenuto": "[Guest lecture by Sara Rizzo] Cascate informative: un esperimento di herding, modello generale e analisi del processo sequenziale ([5]: Cap. 16). Processi di diffusione nelle reti: modello di un processo di diffusione, caratterizzazione cascate complete e cluster ([5]: Cap. 19.1, 19.2, 19.3). Esercizi."
+    },
+    {
+      "id": "24",
+      "data": "14-01-2019",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "23",
+      "data": "11-01-2019",
+      "contenuto": "Introduzione alle Cryptocurrencies: cenni alle funzioni hash crittografiche e il loro ruolo nei sistemi di criptovalute. Cenni alle reti peer-to-peer. Il sistema Bitcoin e la sua Blockchain. (Il codice sorgente di Bitcoin \u00e8 liberamente scaricabile qui: https://github.com/bitcoin/bitcoin). Esercizi."
+    },
+    {
+      "id": "22",
+      "data": "07-01-2019",
+      "contenuto": "Il World Wide Web e la sua struttura di grafo diretto. Cenni al funzionamento di un motore di ricerca: Crawling, Indexing e il problema del Ranking. Il PageRank e sua formulazione come Random Walk. ([5]: Cap. 13 e 14). Esercizi."
+    },
+    {
+      "id": "21",
+      "data": "17-12-2018",
+      "contenuto": "Metodi Monte Carlo per la stima di parametri. Esempio: Un algoritmo probabilistico che approssima \u03c0. Campionamento casuale (sampling) e conteggio, cenni alla classe #P. Esempio: Un FPRAS (Fully Polynomial-time Randomized Approximation Scheme) per il problema del conteggio delle assegnazioni che soddisfano una formula in DNF. ([2]: Cap. 11.1, 11.2). Esercizi."
+    },
+    {
+      "id": "20",
+      "data": "14-12-2018",
+      "contenuto": "Esercitazione. Il codice scritto in aula: primes.py."
+    },
+    {
+      "id": "19",
+      "data": "10-12-2018",
+      "contenuto": "Permutation Routing sull'ipercubo: lower bound per la procedura BitFix e analisi dell'algoritmo probabilistico ([2]: Cap. 4.6). Esercizi."
+    },
+    {
+      "id": "18",
+      "data": "07-12-2018",
+      "contenuto": "Analisi di un algoritmo probabilistico lineare per il calcolo della mediana. Introduzione ai Chernoff bounds. ([2]: Cap. 3.5, 4.2). Esercizi."
+    },
+    {
+      "id": "17",
+      "data": "03-12-2018",
+      "contenuto": "Stime del discostamento di una variabile aleatoria dal suo valore atteso. La disuguaglianza di Markov. Varianza e deviazione standard di una variabile aleatoria. La disuguaglianza di Chebyshev. ([2]: Cap. 3.1, 3.2, 3.3). Esercizi."
+    },
+    {
+      "id": "16",
+      "data": "30-11-2018",
+      "contenuto": "Tecniche di progettazione e analisi di algoritmi probabilistici. Esempio: Un algoritmo probabilistico per verificare il prodotto fra matrici. Valore atteso di una variabile aleatoria e linearit\u00e0. Esempio: Analisi del numero atteso di confronti dell'algoritmo Random Quick Sort. ([2]: Cap. 1.3, 2.5). Esercizi"
+    },
+    {
+      "id": "15",
+      "data": "26-11-2018",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "14",
+      "data": "23-11-2018",
+      "contenuto": "Introduzione agli algoritmi probabilistici. Richiami di probabilit\u00e0 discreta: spazi di probabilit\u00e0, probabilit\u00e0 condizionata, indipendenza. Variabili aleatorie e valore atteso: la distribuzione geometrica. ([2]: Cap. 1.2, 2.1, 2.4). Esercizi."
+    },
+    {
+      "id": "13",
+      "data": "19-11-2018",
+      "contenuto": "I problemi computazionalmente difficili come risorsa: I fondamenti della crittografia a chiave pubblica, il protocollo di Diffie-Hellman per la generazione di una chiave condivisa e il sistema di cifratura RSA. Richiami di aritmetica modulare e teoria dei numeri elementare. ([1]: Cap. 1.2 e 1.4). Esercizi."
+    },
+    {
+      "id": "12",
+      "data": "16-11-2018",
+      "contenuto": "Euristiche di ricerca locale. Esempio: Ricerca locale per Min Vertex Cover. Cenni a Simulated annealing. Ricerca locale con fattore di approssimazione garantito. Esempio: Un algoritmo approssimante per Max-Cut ([1]: Cap. 9.3, e [3]: Cap. 12.4). Esercizi."
+    },
+    {
+      "id": "11",
+      "data": "12-11-2018",
+      "contenuto": "Algoritmi approssimanti per problemi di ottimizzazione NP-hard. Esempio: un algoritmo 2-approssimante per il problema k-clustering. Distanze e algoritmi approssimanti: un algoritmo 2-approssimante per il problema TSP quando i pesi degli archi definiscono una distanza; inapprossimabilit\u00e0 di TSP nel caso generale ([1]: Cap. 9.2). Esercizi."
+    },
+    {
+      "id": "10",
+      "data": "09-11-2018",
+      "contenuto": "Esercitazione. Il codice scritto in aula: travasi.py. Cenni ai sistemi di controllo versione e Git."
+    },
+    {
+      "id": "9",
+      "data": "05-11-2018",
+      "contenuto": "Problemi computazionalmente difficili. Le riduzioni polinomiali per valutare la difficolt\u00e0 di un problema relativamente ad un altro problema. Esempio: Se esistesse un algoritmo polinomiale per Maximum Independent Set allora esisterebbe anche un algoritmo polinomiale per 3-SAT. Affrontare i problemi computazionalmente difficili. Ricerca esaustiva intelligente: il meta-algoritmo Backtracking. Esempio: Un algoritmo per SAT. ([1]: Cap. 8.3 e 9.1). Esercizi. (Chi volesse farsi un'idea sullo stato dell'arte dei SAT solver pu\u00f2 partire, per esempio, da qui.)"
+    },
+    {
+      "id": "8",
+      "data": "26-10-2018",
+      "contenuto": "Richiami di Programmazione Lineare: interpretazione grafica; il duale di un linear program. Linear programming e rounding come tecnica per progettare algoritmi approssimanti. Esempio: un algoritmo 2-approssimante per Weighted Min Vertex Cover ([1]: Cap. 7.1 e 7.4. Si veda anche [3]: Cap.11.6). Esercizi."
+    },
+    {
+      "id": "7",
+      "data": "22-10-2018",
+      "contenuto": "Il running time dell'algoritmo di Ford e Fulkerson. La variante con capacity scaling per rendere l'algoritmo polinomiale. Cenni ad altri modi di scegliere i cammini aumentanti (massimo bottleneck e visita in ampiezza) ([3]: Cap. 7.3). Esercizi."
+    },
+    {
+      "id": "6",
+      "data": "19-10-2018",
+      "contenuto": "L'algoritmo di Ford e Fulkerson per Max-Flow: correttezza, running time e ottimalit\u00e0. ([1]: Cap. 7.2. Si veda anche [3]: Cap. 7.1 e 7.2). Esercizi."
+    },
+    {
+      "id": "5",
+      "data": "15-10-2018",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "4",
+      "data": "12-10-2018",
+      "contenuto": "La tecnica della Riduzione. Esempi: Un algoritmo lineare per 2-SAT ottenuto tramite riduzione al problema di scomporre un grafo diretto in componenti fortemente connesse e DAG delle componenti. Richiami su grafi diretti, DAGs e topological sorting. Introduzione al problema Max Flow ([1]: Esercizio 3.28 e inizio Cap. 7.2). Esercizi."
+    },
+    {
+      "id": "3",
+      "data": "08-10-2018",
+      "contenuto": "La tecnica della Programmazione Dinamica. Esempi: Un algoritmo per Chain matrix multiplication e un algoritmo per Independent set su alberi. ([1]: Cap. 6.5, 6.7). Esercizi."
+    },
+    {
+      "id": "2",
+      "data": "05-10-2018",
+      "contenuto": "La tecnica Divide et Impera. Esempio: l'algoritmo di Karatsuba per moltiplicare due interi. Cenni all'algoritmo di Strassen per la moltiplicazione di matrici. Richiami sulle relazioni di ricorrenza e sul Teorema Master. ([1]: Cap. 1.1, 2.1, 2.2, 2.5). Esercizi."
+    },
+    {
+      "id": "1",
+      "data": "01-10-2018",
+      "contenuto": "Introduzione al corso, descrizione del programma di massima. La tecnica Greedy. Esempio: Un algoritmo greedy per decidere la soddisfacibilit\u00e0 delle formule di Horn ([1]: Cap. 5.3). Esercizi."
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Si veda la pagina del corso sul sito del docente:",
+      "dataUpload": "05.10.2018 19:31:18",
+      "link": "http://www.informatica.uniroma2.it/upload/2018/ASD2/redirect.html",
+      "dimensione": "0 KB"
+    }
+  ],
+  "programma": "Programma provvisorio\nProgettare algoritmi efficienti. Riepilogo delle tecniche pi\u00f9 efficaci per progettare algoritmi efficienti: Greedy, Divide-et-Impera, Programmazione Dinamica, Riduzioni. Il problema Max-Flow e l'algoritmo di Ford e Fulkerson. Linear programming e duality.\nProblemi computazionalmente difficili. La teoria dell'NP-completezza da un punto di vista algoritmico e come affrontare i problemi computazionalmente difficili: ricerca esaustiva intelligente, algoritmi approssimanti, euristiche. I problemi computazionalmente difficili come risorsa: il protocollo di Diffie-Hellman, il sistema RSA e i fondamenti della crittografia a chiave pubblica. La matematica dietro le scene: Teoria dei numeri.\nAlgoritmi probabilistici. Il ruolo della randomness negli algoritmi. Quando scegliere a caso semplifica l'implementazione: Test di primalit\u00e0 di Miller-Rabin. Quando scegliere a caso rende gli algoritmi pi\u00f9 efficienti: Packet Routing. Quando poter scegliere a caso \u00e8 indispensabile: Protocolli interattivi e zero-knowledge proofs. Le tecniche per analizzare gli algoritmi probabilistici, la concentrazione della misura. Randomness, entropia e compressione dati.\nLa rapida evoluzione tecnologica degli ultimi decenni ha portato all'ordine del giorno nuove sfide algoritmiche. Nell'ultima parte del corso ne studieremo alcune e vedremo come sono state affrontate.\nRanking. Le idee algoritmiche che hanno rivoluzionato i motori di ricerca: PageRank e HITS. La matematica dietro le scene: Algebra lineare e catene di Markov.\nAlgoritmi che imparano. Expert selection e il meta-algoritmo dei multiplicative updates\nCryptocurrencies.Le idee algoritmiche che hanno dato vita a Bitcoin e alla Blockchain. Gli ingredienti: reti Peer-to-Peer, funzioni hash crittografiche e crittografia a chiave pubblica.",
+  "testiRiferimento": "Testi di riferimento\n\n[1] S. Dasgupta, C. Papadimitriou, and U. Vazirani. Algorithms. McGraw-Hill, 2006. [2] M. Mitzenmacher and E. Upfal. Probability and Computing (2nd edition). Cambridge University Press, 2017.\n\n\nTesti di supporto\n[3] J. Kleinberg and E. Tardos. Algorithm Design. Addison-Wesley, 2005.\n[4] T.H. Cormen, C.E. Leiserson, R.L. Rivest, C. Stein. Introduction to Algorithms. The MIT press, 2001.\n[5] D. Easley, J. Kleinberg. Networks, Crowds, and Markets.Cambridge University Press, 2010.",
+  "ricevimento": "Durante il periodo delle lezioni (Ottobre 2018 - Gennaio 2019):Gioved\u00ec 15:00 - 17:00 oppure su appuntamento.Al di fuori del periodo delle lezioni:Su appuntamento.",
+  "modalit\u00e0Esame": "L'esame consiste in una prova scritta e in un colloquio orale. Durante il corso si effettueranno due prove intermedie sotto forma di homework. Gli studenti che ricevono una valutazione positiva agli homework sono esonerati dalla prova scritta."
+}

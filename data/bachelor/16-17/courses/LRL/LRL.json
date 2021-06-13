@@ -1,0 +1,176 @@
+{
+  "nomeCorso": "Logica e reti logiche",
+  "docente": "Francesco Pasquale",
+  "annoAccademico": "2016-2017",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Sessione Invernale",
+      "data": "15-02-2018 16:39",
+      "contenuto": "Primo Appello(7 febbraio 2018): Compito. Risultati.\n(Prova orale il 9 febbraio, a partire dalle 10:00 in Aula 3A)\n\nSecondo Appello(14 febbraio 2018): Compito. Risultati.\n(Prova orale il 16 febbraio, a partire dalle 10:00 in Aula 3A)"
+    },
+    {
+      "titolo": "Sessione Autunnale",
+      "data": "20-09-2017 20:29",
+      "contenuto": "Primo Appello (4 settembre 2017): Compito. Risultati.\n(Prova orale il 6 settembre, a partire dalle 10:00 in Aula 3A)\n\nSecondo Appello (20 settembre 2017): Compito. Risultati.\n(Prova orale il 22 settembre, a partire dalle 10:00 in Aula 3A)"
+    },
+    {
+      "titolo": "Sessione Estiva",
+      "data": "21-07-2017 17:20",
+      "contenuto": "Primo Appello (22 giugno 2017): Compito A, Compito B. Risultati.\n(Prova orale il 26 giugno, a partire dalle 10:00 in Aula 3A)\n\nSecondo Appello (20 luglio 2017): Compito A, Compito B. Risultati.\n(Prova orale il 24 luglio, a partire dalle 10:00 in Aula 3A)"
+    },
+    {
+      "titolo": "Test Intermedi",
+      "data": "24-06-2017 11:39",
+      "contenuto": "Primo Test (4 maggio 2017): Compito A, Compito B. Risultati.\nSecondo Test (12 giugno 2017): Compito A, Compito B. Risultati.\nAmmessi all'orale."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "26",
+      "data": "15-06-2017",
+      "contenuto": "Discussione degli esercizi del compito."
+    },
+    {
+      "id": "25",
+      "data": "12-06-2017",
+      "contenuto": "Secondo test intermedio:\u00a0 Compito A, Compito B. Risultati."
+    },
+    {
+      "id": "24",
+      "data": "08-06-2017",
+      "contenuto": "Esercitazione sui Circuiti Sequenziali."
+    },
+    {
+      "id": "23",
+      "data": "05-06-2017",
+      "contenuto": "Circuiti sequenziali: equazioni d'ingresso, tabelle di stato, diagrammi di stato. Automi a stati finiti. ([2]: Cap. 5.4, 5.6)"
+    },
+    {
+      "id": "22",
+      "data": "01-06-2017",
+      "contenuto": "Circuiti Sequenziali: Latch, Flip-Flop e Registri. ([2]: Cap. 5.2, 5.3, 7.1)"
+    },
+    {
+      "id": "21",
+      "data": "29-05-2017",
+      "contenuto": "Esercitazione sui Circuiti Combinatori."
+    },
+    {
+      "id": "20",
+      "data": "25-05-2017",
+      "contenuto": "Circuiti per la moltiplicazione. Cenni ai linguaggi per la descrizione hardware (HDL). ([2]: Cap. 4.5, 4.6)"
+    },
+    {
+      "id": "19",
+      "data": "22-05-2017",
+      "contenuto": "Circuiti per operazioni aritmetiche: Half Adder e Full Adder, richiami sulla rappresentazione dei numeri in complemento a due, Sommatori e Sottrattori, un circuito Adder/Subtractor. Riconoscere gli overflow. ([2]: Cap. 4.2, 4.3, 4.4)"
+    },
+    {
+      "id": "18",
+      "data": "18-05-2017",
+      "contenuto": "Progettazione di circuiti combinatori: affrontare un problema complesso scomponendolo in blocchi funzionali pi\u00f9 semplici. I blocchi funzionali principali dei circuiti combinatori: Codificatori e Decodificatori, Multiplexer e Demultiplexer. ([2]: Cap. 3.2, 3.7, 3.8, 3.9)"
+    },
+    {
+      "id": "17",
+      "data": "15-05-2017",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "16",
+      "data": "11-05-2017",
+      "contenuto": "Convenzioni sul disegno di circuiti. Semplificazioni di formule: Mappe di Karnaugh ([2]: Cap. 2.4, 2.5)"
+    },
+    {
+      "id": "15",
+      "data": "08-05-2017",
+      "contenuto": "Rappresentazione dei numeri in complemento a due. Porte logiche e circuiti. Implementazione di formule della logica proposizionale tramite circuiti. Forme canoniche: maxtermini (alias clausole) e mintermini (alias clausole congiuntive), prodotto di somme (alias forma normale congiuntiva) e somma di prodotti (alias forma normale disgiuntiva). ([2]: Cap. 2.1, 2.2, 2.3)"
+    },
+    {
+      "id": "14",
+      "data": "04-05-2017",
+      "contenuto": "Primo test intermedio:\u00a0 Compito A, Compito B. Risultati."
+    },
+    {
+      "id": "13",
+      "data": "27-04-2017",
+      "contenuto": "Introduzione alla seconda parte del corso: Reti Logiche. Rappresentazione delle informazioni: rappresentazione binaria ed esadecimale. Operazioni aritmetiche e conversioni. Codici alfanumerici. Codici Gray. ([2]: Cap. 1)"
+    },
+    {
+      "id": "12",
+      "data": "20-04-2017",
+      "contenuto": "Esercitazione sulla Logica del Primo Ordine."
+    },
+    {
+      "id": "11",
+      "data": "13-04-2017",
+      "contenuto": "Logica del Primo Ordine (III): Correttezza del metodo dei tableaux e cenni alla sua completezza: gli insiemi di Hintikka e il Lemma di Hintikka per la logica del primo ordine. ([1]: Cap. 9)Cenni ad altre logiche: Logica della conoscenza e il mistero degli isolani dagli occhi blu."
+    },
+    {
+      "id": "10",
+      "data": "10-04-2017",
+      "contenuto": "Logica del Primo Ordine (II): Variabili libere e vincolate. Formule valide vs tautologie. Il metodo dei tableaux per la logica del primo ordine. ([1]: Cap. 8, 9)"
+    },
+    {
+      "id": "9",
+      "data": "06-04-2017",
+      "contenuto": "Logica del Primo Ordine (I): Quantificatore esistenziale e quantificatore universale. Interdipendenza dei quantificatori. Variabili, parametri e predicati. Le formule nella logica del primo ordine. Interpretazioni: il dominio dell'interpretazione. ([1]: Cap. 8)"
+    },
+    {
+      "id": "8",
+      "data": "03-04-2017",
+      "contenuto": "Esercitazione sulla Logica Proposizionale"
+    },
+    {
+      "id": "7",
+      "data": "27-03-2017",
+      "contenuto": "Logica Proposizionale (IV). Sistemi assiomatici (Hilbert systems) per la logica proposizionale. Schemi di assiomi e regole di inferenza. La regola di inferenza Modus Ponens. Le definizioni di \"Teorema\", \"Dimostrazione\" e \"Derivazione\" in un sistema assiomatico. Due esempi di sistemi assiomatici per la logica proposizionale. Correttezza dei sistemi e cenni alla loro completezza. ([1]: Prima parte del Cap. 7)"
+    },
+    {
+      "id": "6",
+      "data": "23-03-2017",
+      "contenuto": "Logica Proposizionale (III). Correttezza e completezza del metodo dei tableaux. Gli insiemi di Hintikka e il Lemma di Hintikka. ([1]: Cap. 6). Cenni a un altro sistema di refutazione: Formule in forma normale congiuntiva e resolution."
+    },
+    {
+      "id": "5",
+      "data": "20-03-2017",
+      "contenuto": "Logica Proposizionale (II). Il metodo dei tableaux per dimostrare una formula. ([1]: Cap. 6) Implicazione logica e il significato di condizione necessaria e condizione sufficiente."
+    },
+    {
+      "id": "4",
+      "data": "16-03-2017",
+      "contenuto": "Esercitazione."
+    },
+    {
+      "id": "3",
+      "data": "13-03-2017",
+      "contenuto": "Logica Proposizionale (I). Variabili proposizionali e connettivi logici: negazione, congiunzione, disgiunzione, implicazione, equivalenza. Tabelle di verit\u00e0. Formule proposizionali e interpretazioni. Tautologie, contraddizioni, contingenze. Implicazione logica e equivalenza logica di due formule. Interdipendenza dei connettivi: definire un connettivo in termini di altri connettivi. I connettivi joint denial (NOR) e alternative denial (NAND). ([1]: Cap. 5)"
+    },
+    {
+      "id": "2",
+      "data": "09-03-2017",
+      "contenuto": "I paradossi nella teoria degli insiemi elementare: \"l'insieme di tutti gli insiemi\", il paradosso di Russell, Hypergame. Cenni alla teoria assiomatica degli insiemi. Richiami di matematica: Il principio di induzione matematica e le dimostrazioni per induzione. ([1]: Cap 3 e 4)"
+    },
+    {
+      "id": "1",
+      "data": "06-03-2017",
+      "contenuto": "Introduzione al corso. Richiami di teoria elementare degli insiemi: operatori Booleani ed equazioni Booleane, il metodo degli \"indici\" per verificare le equazioni Booleane; insiemi infiniti e cardinalit\u00e0; insiemi numerabili, il teorema di Cantor. ([1]: Cap. 1 e 2)"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Si veda la pagina del corso sul sito del docente",
+      "dataUpload": "08.03.2017 19:59:59",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/LRL/lrl.html",
+      "dimensione": "0 KB"
+    }
+  ],
+  "programma": "Prima Parte (Logica)\nRichiami di matematica: teoria degli insiemi elementare, algebra Booleana, relazioni e funzioni, principio di induzione.\nLogica proposizionale: connettivi logici, tabelle di verit\u00e0, variabili, formule, tableaux. Logica proposizionale assiomatica.\nLogica del primo ordine: quantificatore universale e quantificatore esistenziale, relazioni, propriet\u00e0 e predicati, formule della logica del primo ordine. Logica del primo ordine assiomatica. Correttezza e completezza.\nCenni al fenomeno dell'incompletezza.\n\nSeconda Parte (Reti Logiche)\nSegnali analogici e informazione digitale. Sistemi numerici, operazioni aritmetiche. Le codifiche ASCII e Unicode. I codici Gray. Porte logiche e circuiti logici, linguaggi per la descrizione dell'hardware (HDLs). Funzioni Booleane e forme canoniche. Mappe di Karnaugh.\nCircuiti combinatori: codificatori e decodificatori, multiplexer, sommatori e sottrattori.\nCircuiti sequenziali: Latch e Flip-Flop. Sincronizzazione e metastabilit\u00e0.\nAutomi a stati finiti.",
+  "testiRiferimento": "Raymond M. Smullyan\n[1]A Beginner's Guide to Mathematical Logic\nDover Publications, 2014\n\n\nMorris Mano, Charles R. Kime\n[2] \u00a0Reti Logiche\nPrentice Hall, 2008",
+  "ricevimento": "Durante il periodo delle lezioni (Marzo - Giugno 2017):Mercoled\u00ec 15:00 - 18:00 oppure su appuntamento. Al di fuori del periodo delle lezioni:Su appuntamento.",
+  "modalit\u00e0Esame": "L'esame consiste in una prova scritta e in un colloquio orale.\n\nDurante il corso si effettueranno due test intermedi. Gli studenti che ricevono una valutazione positiva a entrambi i test sono esonerati dalla prova scritta e ammessi a sostenere direttamente il colloquio orale."
+}

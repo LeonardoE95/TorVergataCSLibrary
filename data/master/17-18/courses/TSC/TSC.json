@@ -1,0 +1,30 @@
+{
+  "nomeCorso": "Teoria della sicurezza e crittografia",
+  "docente": "Maurizio Talamo",
+  "annoAccademico": "2017-2018",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [
+    {
+      "titolo": "<span style=\"font-family: verdana, arial, helvetica, sans-serif; text-align: justify;\">Il linguaggio go: https://golang.org</span>",
+      "dataUpload": "10.06.2018 18:17:06",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/TSC/The Go Programming Language.pdf",
+      "dimensione": "7214 KB"
+    },
+    {
+      "titolo": "Analisi delle APDU di smart card di sicurezza",
+      "dataUpload": "15.01.2018 11:37:40",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/TSC/final_IS.pdf",
+      "dimensione": "185 KB"
+    }
+  ],
+  "programma": "Programma del corso:\nteorema dei resti cinesi\nteorema di eulero (aritmetica modulare)\nalgoritmo di euclide esteso\nalgoritmo RSA\nworkflow e loro rappresentazione in forma normale congiuntiva\nalberi di descrizione delle transazioni\nregole di sicurezza su sistemi multitransazionali\nmodelli per la cifra omomorfica\nuso della cifra omomorfica per la distribuzione controllata di chiavi di cifra\nnetwork security: tipologie di attacchi in rete, controllo e documentazione di attacchi\nEsercitazioni e laboratorio\nimplementazione in linguaggio go di\nteorema dei resti cinesi\nalgoritmo di euclide esteso\nalgoritmo RSA",
+  "testiRiferimento": "Handbook of applied cryptography\nScaricabile da:\n-\u00a0http://cacr.uwaterloo.ca/hac/\n-\u00a0Handbook of Applied Cryptography - FAU Math\n\nSmart Card Handbook John Wiley Sons\nScaricabile da:\n-\u00a0http://pdf.th7.cn/down/files/1312/Smart%20Card%20Handbook,%204th%20Edition.pdf\n\n\nDispense\n- inoltrare richiesta via email per ricevere le dispense delle lezioni dell'anno corrente.",
+  "ricevimento": "Appuntamento, da concordare via email",
+  "modalit\u00e0Esame": "L\u2019esame prevede la realizzazione di un progetto di applicazione di architetture di sicurezza e algoritmi di crittografia e una prova orale.\nIl tema del progetto deve essere concordato con il docente.\nLo studente deve inviare il progetto realizzato prima della prova orale.\nIl progetto verr\u00e0 discusso durante l\u2019orale\nStudenti lavoratori e studenti impossibilitati a seguire le lezioni sono pregati di contattare il docente per avere le dispense aggiornate e per concordare il progetto."
+}

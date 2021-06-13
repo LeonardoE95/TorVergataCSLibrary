@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Machine learning",
+  "docente": "Giorgio Gambosi",
+  "annoAccademico": "2017-2018",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Link al sito del corso",
+      "data": "13-02-2018 21:27",
+      "contenuto": "Tutte le informazioni e i materiali relativi al corso sono disponibili a questo indirizzo"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "null",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

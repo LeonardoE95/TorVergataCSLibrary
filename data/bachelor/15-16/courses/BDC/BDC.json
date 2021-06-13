@@ -1,0 +1,34 @@
+{
+  "nomeCorso": "Basi di dati e di conoscenza",
+  "docente": "Loredana Vigliano",
+  "annoAccademico": "2015-2016",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "17-09-2015 17:59",
+      "contenuto": "Si ricorda che lo scritto viene conservato solo fino al successivo appello"
+    },
+    {
+      "titolo": "",
+      "data": "17-09-2015 17:59",
+      "contenuto": "ATTENZIONE !!!!!!\u00a0: per poter sostenere l' esame (anche solo orale) \u00e8 necessario prenotarsi sul sito \u00a0delphi.uniroma2.it.\nATTENZIONE !!!!!!\u00a0 :\u00a0useremo la verbalizzazione automatica e quindi non sar\u00e0 pi\u00f9 possibile sostenere l'esame senza prenotazione!!!!!ESAMI PROPEDEUTICI : MD e PR"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "Orario Secondo Semestre\n\nMER h. 11-13 \u00a0Aula 3A\nVEN h. 11- 13 \u00a0 Aula 3A"
+    }
+  ],
+  "materiale": [],
+  "programma": "Introduzione- Modello relazionale- Algebra relazionale- Calcolo relazionale- Flusso di progetto e visione dei dati- Modello concettuale dei dati- Disegno logico DBSchema Entity-relationship- Disegno fisico DB- Forme normali- Query language e implementazioni su mySQLDMLSQL- Organizzazione fisica dei dati- Ottimizzazione degli indici- Normalizzazione e Denormalizzazione- Ottimizzazione delle interrogazioni------ MySQL e ottimizzazioni\n- Transazioni\u00a0------ Locking a due fasi, Timestamp,MVCC\u00a0------ MySQL e Storage Engine\u00a0- Basi di dati attive\u00a0------ Trigger e Stored Procedure\u00a0------ Cursor, Trigger e Stored Procedure in MySQL\n- Basi di dati\u00a0geospaziali e GIS\u00a0- Basi di dati su architetture distribuite\u00a0------ Commit a due fasi\u00a0- Architetture per l' analisi dei dati\u00a0------ Data Warehouse\u00a0------ Data Mining\n- Linked Open Data e DB NoSQL : MongoDB- Implementazione progetto",
+  "testiRiferimento": "- Atzeni,Ceri,Fraternali,Paraboschi,Torlone\u00a0Basi di dati -\u00a0ed. McGraw-Hill 4nd edition\u00a0(59 euro)\n(chi gi\u00e0 possiede i precedenti 2 libri pu\u00f2 utilizzarli)\n\n- Schwartz,Zaitsev,Tkachenko,Zawodny, Lentz & BallingHigh\u00a0Performance MySQL\u00a0ed. O'Reilly 2nd edition\n\n\n- lucidi di L. Vigliano presentati a Lezione\u00a0Consigliati :\u00a0- Elmasri,Navathe\u00a0Sistemi di basi di dati\u00a0Pearson",
+  "ricevimento": "Al termine di ogni lezione o previo appuntamento via mail",
+  "modalit\u00e0Esame": "L'esame \u00e8 composto da uno scritto, un progetto ed un esame orale.\n\nSi leggano per i particolari le linee guida del progetto presenti sul materiale didattico."
+}

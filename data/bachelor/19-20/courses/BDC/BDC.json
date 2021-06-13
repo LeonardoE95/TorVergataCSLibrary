@@ -1,0 +1,148 @@
+{
+  "nomeCorso": "Basi di dati e di conoscenza",
+  "docente": "Loredana Vigliano",
+  "annoAccademico": "2019-2020",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "ESAMI SESSIONE AUTUNNALE",
+      "data": "22-09-2020 19:41",
+      "contenuto": "\nAPPELLI ONLINE (scritto , progetti e orali)\nE' indispensabile , per sostenere l'esame online disporre di computer con videocamera , microfono e connessione internet funzionante.\nE' indispensabile comunque iscriversi su Delphi (anche solo per l'orale).\n\nIV Appello\u00a0(V per Bioinformatici) AA2019-20\n\n24 Settembre orali sul canale 'Esami orali' con il seguente ordine :\nore 10:30 Rastelli, Ianni, Sapio\nore 12:30 Campana, Milo\nore 15 Colavecchi, Appetito, Coscia"
+    },
+    {
+      "titolo": "Regole per lo scritto d'esame",
+      "data": "09-07-2020 10:57",
+      "contenuto": "Le regole per partecipare all\u2019esame scritto di Basi di Dati e Conoscenza (Informatici e Bioinformatici) sono :\n\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Iscriversi a Delphi (ANCHE SOLO PER L'ORALE)\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Inviare una mail per partecipare allo scritto a vigliano@mat.uniroma2.it con nome, cognome, matricola, corso e soprattutto mail a cui sar\u00e0 inviato il Forms con lo scritto\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Lo scritto verr\u00e0 effettuato in pi\u00f9 turni (suddivider\u00f2 io)\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Ogni studente pu\u00f2 partecipare ad un solo turno\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Se uno studente non vuole pi\u00f9 partecipare allo scritto, deve comunicarlo in modo da poter lasciare il posto ad un altro studente\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 L\u2019assegnazione del compito con Microsoft Forms pare funzioni solo con Chrome, assicuratevene ed eventualmente provvedete\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Poco prima dell\u2019inizio i partecipanti di quel turno devono collegarsi a Teams, canale VIGLIANO-BASI_DI_DATI_CONOSCENZA-->Appelli esame, con a portata di mano documento (per l\u2019identificazione), fogli bianchi e penna\u2026.e basta\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Al momento in cui invio/assegno il compito gli studenti dovranno gi\u00e0 essere tutti collegati al suddetto canale e dovranno essere visibili con microfoni e videocamere attivati\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Eventuali domande potranno essere fatte sulla chat (al solito solo per i primi 20 minuti)\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Il file da caricare con lo schema E-R \u00e8 preferibile sia una scansione (o al limite una foto) del vostro foglio scritto a mano (ben chiaro e ben visibile!)\n\nPer qualsiasi dubbio potete scrivermi ."
+    },
+    {
+      "titolo": "Lezioni BDC online",
+      "data": "13-05-2020 16:49",
+      "contenuto": "Cari studenti,\ndurante il periodo di sospensione delle attivit\u00e0 frontali le lezioni di Basi di dati e Conoscenza sono proseguite a distanza.\n\nSiete pertanto pregati accedere al corso\u00a0VIGLIANO-8065621-BASI_DI_DATI"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "1",
+      "data": "null",
+      "contenuto": "Orario Secondo semestre :\nLuned\u00ec ore 14-16 aula 17\nMarted\u00ec ore 14-16 aula L3"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Risultati scritto IV appello del 21 Settembre",
+      "dataUpload": "21.09.2020 20:06:38",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/risIVappello.pdf",
+      "dimensione": "77 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #f3f3f3;\">Linee guida per il progetto d Basi di dati e Conoscenza (Informatica - crediti 12)</span>",
+      "dataUpload": "28.04.2020 15:28:08",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/guidaprogettoBasididati2020_emergenza.pdf",
+      "dimensione": "168 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #f3f3f3;\">Linee guida per il progetto d Basi di dati (BioInformatica - crediti 6)</span>",
+      "dataUpload": "28.04.2020 15:27:07",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/guidaprogettoBasididati2020_BIO_emergenza.pdf",
+      "dimensione": "154 KB"
+    },
+    {
+      "titolo": "13 lezione 27 Aprile - GIS e Geodatabase",
+      "dataUpload": "27.04.2020 16:36:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/GISnew.pdf",
+      "dimensione": "4595 KB"
+    },
+    {
+      "titolo": "lezione 7 Aprile Istruzioni istallazione MongoDB",
+      "dataUpload": "06.04.2020 16:47:56",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/Istruzioni_mongo.pdf",
+      "dimensione": "68 KB"
+    },
+    {
+      "titolo": "12 lezione 6 Aprile Database NoSQL",
+      "dataUpload": "06.04.2020 16:46:48",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/12Database_NoSQL_en2.pdf",
+      "dimensione": "439 KB"
+    },
+    {
+      "titolo": "11 Architettura e Motori MySQL",
+      "dataUpload": "06.04.2020 16:45:44",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/4Architettura_MySQL.pdf",
+      "dimensione": "228 KB"
+    },
+    {
+      "titolo": "09 Architettura Ottimizzatore MySQL",
+      "dataUpload": "23.03.2020 16:12:11",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/2terQuery_performance_optimization.pdf",
+      "dimensione": "205 KB"
+    },
+    {
+      "titolo": "11.4 23 Marzo MVCC in MySQL",
+      "dataUpload": "21.03.2020 13:47:21",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/MVCC_in_MySQL.pdf",
+      "dimensione": "1813 KB"
+    },
+    {
+      "titolo": "10 16 Marzo Ottimizzazione Query",
+      "dataUpload": "16.03.2020 15:42:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/07SqlTuning.pdf",
+      "dimensione": "5157 KB"
+    },
+    {
+      "titolo": "08 Ottimizzazione Indici",
+      "dataUpload": "03.03.2020 13:28:38",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/08IndexTuning.pdf",
+      "dimensione": "6875 KB"
+    },
+    {
+      "titolo": "<span style=\"background-color: #d7ecfc;\">04 Modello concettuale, schemaE-R logico e schema E-R normalizzato</span>",
+      "dataUpload": "03.02.2020 17:40:40",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/4Modconcettualeschemae-r.pdf",
+      "dimensione": "463 KB"
+    },
+    {
+      "titolo": "07 Organizzazione fisica dei dati",
+      "dataUpload": "13.01.2020 14:41:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/1organizzazione_fisica_dei_dati_senza_figure.pdf",
+      "dimensione": "312 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "11.12.2019 13:07:17",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/07Explain.pdf",
+      "dimensione": "3082 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "11.12.2019 13:06:47",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/5DBMSeSQL.pdf",
+      "dimensione": "166 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "23.10.2019 17:45:18",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/3algebra_calcolo_relazionale.pdf",
+      "dimensione": "190 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "14.10.2019 15:19:00",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/2modello_relazionale.pdf",
+      "dimensione": "80 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "14.10.2019 15:18:29",
+      "link": "http://www.informatica.uniroma2.it/upload/2019/BDC/1definizioni_storia_new.pdf",
+      "dimensione": "359 KB"
+    }
+  ],
+  "programma": "Introduzione\u00a0- Modello relazionale\u00a0- Algebra relazionale\u00a0- Calcolo relazionale\u00a0- Flusso di progetto e visione dei dati\u00a0- Modello concettuale dei dati\u00a0- Disegno logico DB\u00a0Schema Entity-relationship\u00a0 - Disegno fisico DB\u00a0 - Forme normali\u00a0 - Query language e implementazioni su mySQL\u00a0 DML\u00a0 SQL\u00a0  - Organizzazione fisica dei dati\u00a0 - Ottimizzazione degli indici\u00a0 - Normalizzazione e Denormalizzazione\u00a0 - Ottimizzazione delle interrogazioni\u00a0 ------ MySQL e ottimizzazioni\n- Transazioni\u00a0 ------ Locking a due fasi, Timestamp,MVCC\u00a0 ------ MySQL e Storage Engine\u00a0  - Basi di dati attive\u00a0 ------ Trigger e Stored Procedure\u00a0 ------ Cursor, Trigger e Stored Procedure in MySQL\n- Basi di dati\u00a0geospaziali e GIS\u00a0 - Basi di dati su architetture distribuite\u00a0 ------ Commit a due fasi\u00a0 - Architetture per l' analisi dei dati\u00a0 ------ Data Warehouse\u00a0 ------ Data Mining\n- \u00a0DB NoSQL : MongoDB e/o MySQL8  - Implementazione progetto",
+  "testiRiferimento": "Prima parte\n- Atzeni,Ceri,Fraternali,Paraboschi,Torlone\u00a0Basi di dati -Modelli e Linguaggi di interrogazione-\u00a0ed. McGraw-Hill 4nd edition (\u00e8 il libro piccolo)\n\nSeconda parte\n- Elmasri,Navathe Sistemi di basi di dati, Fondamenti e complementiPearson 7a edizione italiana\n\n\n- lucidi di L. Vigliano presentati a Lezione (non coprono tutto il programma)",
+  "ricevimento": "Al termine di ogni lezione o previo appuntamento via mail\nComunque sempre tramite Teams",
+  "modalit\u00e0Esame": "L\u2019 esame comprende uno scritto, un progetto e un orale. Lo scritto pu\u00f2 essere conservato per un solo appello, eccetto per l\u2019 ultimo appello dell\u2019 anno accademico (non si pu\u00f2 conservare).\nNello specifico :\nse supero lo scritto a Giugno posso portare il progetto a Luglio\nse supero lo scritto a Luglio posso portare il progetto solo al primo appello di Settembre\nse supero lo scritto a Settembre posso portare il progetto solo al primo appello di Febbraio, poi stop.\nRiassumendo: il primo appello di Settembre e il primo appello di Gennaio/Febbraio sono riservati ai soli studenti che hanno superato lo scritto nell' appello precedente."
+}

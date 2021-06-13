@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Sicurezza dei sistemi informativi",
+  "docente": "Andrea Dimitri",
+  "annoAccademico": "2014-2015",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "0) Richiami di sicurezza informatica: crittografia simmetrica, crittografia asimmetrica, public key infrastructure.\n1) Rappresentazione di Sistemi Cooperativi attraverso insiemi di Workflow graphs.\n\n2) Individuazione di un sottoinsieme di Tasks e di Users. La nascita della Virtual Organization(VO). Le problematiche di gestione\u00a0della frontiera.\n\n3) Definizione analitica del Workflow graph (WFG) di una Virtual Organization. Definizione e studio delle propriet\u00e0 che deve\u00a0avere un WFG.\n\n4) Sicurezza di un sistema informatico.\n\n5) Sistemi di monitoraggio e anomaly detection. Sistemi centrali e sistemi distribuiti.\n\n6) Monitoraggio della rete.\n\n7) Monitoraggio del file system.\n\n8) Monitoraggio di altre tipologie di dati (DB, Hardware systems, etc.).\n\n9) Cenni su learning theory e sistemi dinamici di anomaly detection.\n\nMateriale didattico:\ndispense a cura del docente.",
+  "testiRiferimento": "Per la preparazione all'esame sono disponibili delle dispense da richiedere al\ndocente tramite email all'indirizzo\n\nandrea.dimitri@uniroma2.it",
+  "ricevimento": "Ogni informazione, cos\u00ec come un appuntamento, possono essere richiesti al docente attraverso\nl'invio di una email all'indirizzo\n\nandrea.dimitri@uniroma2.it",
+  "modalit\u00e0Esame": "L'esame \u00e8 orale."
+}

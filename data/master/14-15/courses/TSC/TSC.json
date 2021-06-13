@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Teoria della sicurezza e crittografia",
+  "docente": "Maurizio Talamo",
+  "annoAccademico": "2014-2015",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Programma 2014-2015\n\nProgramma del corso:\n- teorema dei resti cinesi\n- teorema di eulero (aritmetica modulare)\n- algoritmo di euclide esteso\n- algoritmo RSA\n- workflow e loro rappresentazione in forma normale congiuntiva\n- alberi di descrizione delle transazioni\n- regole di sicurezza su sistemi multitransazionali\n- modelli per la cifra omomorfica\n- uso della cifra omomorfica per la distribuzione controllata di chiavi di cifra\n- network security: tipologie di attacchi in rete, controllo e documentazione di attacchi\n- progetto da realizzare:\n- traccia 1: dato un insieme di processi che costituiscono una transazione complessa in rete, disegnare l'albero di descrizione delle transazioni e applicarlo a un caso reale\n- traccia 2: disegnare e realizzare un'architettura di sicurezza basata su agenti \u00a0 software per consentire a due (o pi\u00f9) peer di condividere chiavi di cifra senza il rischio di attacchi di tipo man in the middle.",
+  "testiRiferimento": "Handbook of applied cryptography\nSmart Card Handbook John Wiley Sons\nDispense",
+  "ricevimento": "Studio: lunedi' e venerdi' dalle 10 alle 11 su appuntamento",
+  "modalit\u00e0Esame": "presentazione di un progetto e relativa discussione"
+}

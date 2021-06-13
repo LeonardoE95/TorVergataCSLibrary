@@ -1,0 +1,152 @@
+{
+  "nomeCorso": "Teoria dei codici e dell'informazione",
+  "docente": "Andrea Clementi",
+  "annoAccademico": "2016-2017",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Matematica discreta. Calcolo delle probabilit\u00e0.",
+  "comunicazioni": [
+    {
+      "titolo": "POSSIBILE SCIOPERO I APPELLO DI SETTEMBRE",
+      "data": "30-08-2017 09:59",
+      "contenuto": "Si avvisano gli studenti interessati che il I appello di settembre (14/09/2017) di TCI, nel caso in cui lo sciopero\n(https://sites.google.com/site/controbloccoscatti/home)\nnon fosse revocato dall'organizzazione promotrice, potrebbe non aver luogo.\nQuesto evento non avra' alcuna ripercussione su **tutti** gli altri appelli di *tutti* gli insegnamenti \u00a0del Prof. Clementi."
+    },
+    {
+      "titolo": "ESITO ESONERO DEL 18-05-2017",
+      "data": "21-05-2017 17:42",
+      "contenuto": "MATR. 0217260 --------------\u00a0 30/30\nMATR. 0237924 --------------- 26/30\nMATR. 0219463 ---------------- 28/30\n\nLe votazioni che non appaiono sono da considerare insufficienti."
+    },
+    {
+      "titolo": "",
+      "data": "04-05-2017 12:44",
+      "contenuto": "IL giorno giovedi 18 maggio dalle 11 alle 13, si terra' la prova di esonero scritto della prima parte del corso."
+    },
+    {
+      "titolo": "INIZIO CORSO",
+      "data": "05-03-2017 18:20",
+      "contenuto": "Il corso avra' inizio Lunedi 6 marzo alle ore 11.15."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "20",
+      "data": "29-05-2017",
+      "contenuto": "Ripasso generale della seconda parte del corso con domande degli studenti."
+    },
+    {
+      "id": "19",
+      "data": "25-05-2017",
+      "contenuto": "La verfica di identita polinomiali: un algoritmo randomizzato\nanalisi in probabilita' dell errore\nLa verifica di moltiplicazione tra matrici:\nun algoritmo efficiente randomizzato, analisi in probabilita',\nprinciple of deferred decisions\nAnalisi Bayesiana della confidenza di un algoritmo probabilistico"
+    },
+    {
+      "id": "18",
+      "data": "22-05-2017",
+      "contenuto": "Verifica esonero\nParte II del corso: \u00a0Algoritmi Probabilistici\nIntroduzione\nMotivazioni\nModelli di calcolo Probabilistici\nCriteri di accettazione\nClassi di Complessita' RP, BPP\nIL concettto di certificato di una prova\nRandom Bits\nAnalisi di un algoritmo probabilistico\nEsempi iniziali"
+    },
+    {
+      "id": "17",
+      "data": "18-05-2017",
+      "contenuto": "Prova di esonero scritto"
+    },
+    {
+      "id": "16",
+      "data": "15-05-2017",
+      "contenuto": "Esercitazioni su tutta la prima parte del corso, con\ndomande proposte dagli studenti in classe"
+    },
+    {
+      "id": "15",
+      "data": "11-05-2017",
+      "contenuto": "Il II Teorema di Shannon\nProva (II parte)\nL'applicazione del JT Theorem su codici a blocchi random\nil valore atteso della probabilita' di errore\nL'Expurgation Technique."
+    },
+    {
+      "id": "14",
+      "data": "08-05-2017",
+      "contenuto": "IL II Teorema di Shannon.\nPrima parte della Dimostrazione\nLe sequenze Jointly Typical\nIL JT Theorem"
+    },
+    {
+      "id": "13",
+      "data": "04-05-2017",
+      "contenuto": "L'enunciato del II Thm di Shannon\nIL caso della Noisy Typewriter\nLe definizioni di sequenze J.Typical"
+    },
+    {
+      "id": "12",
+      "data": "27-04-2017",
+      "contenuto": "L'analisi della capacita' di un canale\nil calcolo della capacita' di canale\nEsempi importanti: il BSC.\nLa codifica a blocchi ed i canali"
+    },
+    {
+      "id": "11",
+      "data": "20-04-2017",
+      "contenuto": "I concetti matematici della teoria della comunicazione su canali con\nerrore.\nL'Entropia congiunta, condizionata, e marginale.\nLa Mutua Informazione\nRelazioni fondamentali\nEsempi\nDefinizione di canali: BSC e altri modelli."
+    },
+    {
+      "id": "10",
+      "data": "10-04-2017",
+      "contenuto": "La costruzione di codici prefissi\nLa rappresentazione mediante alberi binari etichettati\nL'algoritmo \u00a0''greedy''\nL'algoritmo \u00a0''Top-Down'' e i suoi ''difetti''\nL'approccio ''Bottom-Up'' e l'Algoritmo di Huffmann\nL'ottimalita' dell'Algoritmo di Huffman: struttura di soluzioni ottime\ned analisi della ABL"
+    },
+    {
+      "id": "9",
+      "data": "06-04-2017",
+      "contenuto": "Introduzione alla compressione senza errori.\nI codici a lunghezza variabile\nDefinizione del problema di ottimizzazione: \u00a0la misura\n''Average Bit Length\" \u00a0ABL\"\nLa relazione tra ABL e il I Thm di Shannon: il Lower Bound.\nI codici prefissi"
+    },
+    {
+      "id": "8",
+      "data": "03-04-2017",
+      "contenuto": "Ripasso ed esercitazione sulla dimostrazione della prima parte\ndel Thm di Shannon\n\n- Seconda parte della dimostrazione: \u00a0il Lower bound\n\n- Discussione dell'Importanza del I Thm di Shannon"
+    },
+    {
+      "id": "7",
+      "data": "30-03-2017",
+      "contenuto": "La compressione dati mediante codifiche.\nLa compressione con errori e la compressione senza errori\n\nIntroduzione al Theorema I di Shannon\n\nEnunciato del I Thm. di Shannon\n\nLe Sequenze Tipiche\n\nLa dimostrazione del Thm di Shannon: Upper Bound"
+    },
+    {
+      "id": "6",
+      "data": "27-03-2017",
+      "contenuto": "- Risoluzione del problema delle 12 palline con collegamento\nall'entropia iniziale dell'esperimento\n\n- Proprieta additiva dell'entropia per v.a. indipendenti\n- Concetto di entropia per distribuzioni non uniformi: la compressione\n\n- Esempio del sottomarino"
+    },
+    {
+      "id": "5",
+      "data": "23-03-2017",
+      "contenuto": "Shannon Information Contnent\nJoint entropy\nDecomposizione di H(X)\nEsempi di sorgenti composite\nIL probelma delle 12 monete ed il concetto di Informazione necessaria\nLower bounds"
+    },
+    {
+      "id": "4",
+      "data": "20-03-2017",
+      "contenuto": "SPAZI DI PROBABILITA'\nSPAZI CONGIUNTI\nDIPENDENZA ED INDIPENDENZA DI EVENTI E V.A.\nDISTRIBUZIONI CONDIZIONATE E MARGINALI\nIL THM DI BAYES\nLE BASI DELL'INFERENZA STATISTICA: FORWARD PROBABILITY ED INVERSE PROBABILITY, LIKELIHOOD\nESEMPI\nDEFINIZIONE DI ENTROPIA DI UNA SORGENTE RANDOM"
+    },
+    {
+      "id": "3",
+      "data": "16-03-2017",
+      "contenuto": "IL \u00a0SISTEMA DI CODIFICA A BLOCCHI: I BLOCK CODES.\n\nIL CODICE LINEARE HAMMING H(7,4)\n\nLA RAPPRESENTAZIONE MEDIANTE MATRICI\n\nIL CONCETTO DI SINDROME E L'ALGORITMO DI DECODIFICA\n\nESEMPI\n\nANALISI DELLA PROB. DI ERRORE E RATE DI H(7,4) E CONFRONTO CON R3\n\nDESCRIZIONE INFORMALE DEL II THM DI SHANNON ED UNA POSISBILE VISUALIZZAZIONE GRAFICA."
+    },
+    {
+      "id": "2",
+      "data": "09-03-2017",
+      "contenuto": "LA DECODIFICA DI R3: LA MAJORITY RULE.\n\nANALISI ED OTTIMALITA' DELLA M.R. PER R3\n\nIL CONCETTO DI LIKELIHOOD ED IL THM DI BAYES\n\nCALCOLO DELL'ASINTOTICA DELL PR(ERROR) su BSC(f)\n\nESEMPI f = 10\n\nVALUTAZIONI SU ERRORE E RATE\n\nPRIME CONSIDERAZIONI SUL TRADE-OFFS TRA ERRORE E RATE"
+    },
+    {
+      "id": "1",
+      "data": "06-03-2017",
+      "contenuto": "INTRODUZIONE AL CORSO, STRUTTURA DEL CORSO, PROPEDEUDICITA', MODALITA' DI ESAME PREVISTE. INFORMAZIONI DI CARATTERE GENERALE\n\nIL CONCETTO DI INFORMAZIONE, LA TRASMISSIONE SU CANALI, PRESENZA DI ERRORI\n\nSOLUZIONE HW E SOLUZIONE SW\n\nI CODICI CORRETTORI: CODIFICA E DECODIFICA\n\nLE MISURE DELLE PERFORMANCE DI UN SISTEMA DI CODIFICA: RATE E PROBABILITA' DI ERRORE\n\nUN ESEMPIO IMPORTANTE: IL BINARY SYMMETRIC CHANNEL (BSC)\n\nUN SEMPLICE CODICE: \u00a0R3"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Note sulla seconda parte del corso: Algoritmi Probabilistici",
+      "dataUpload": "22.05.2017 10:28:33",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/TCI/RND-TCI.zip",
+      "dimensione": "357 KB"
+    },
+    {
+      "titolo": "Codici Prefissi",
+      "dataUpload": "11.05.2017 12:30:51",
+      "link": "http://www.informatica.uniroma2.it/upload/2016/TCI/04huffman ANDY.pdf",
+      "dimensione": "249 KB"
+    }
+  ],
+  "programma": "Corso di Laurea in InformaticaTEORIA DEI\u00a0 CODICI E INFORMAZIONEA.A.\u00a0\u00a0 2013-14 (II Semestre)Prof.\u00a0 Andrea ClementiPROGRAMMA1.\u00a0\u00a0\u00a0\u00a0 Introduzione alla Teoria dei Codici e dell'Informazione.a.\u00a0\u00a0\u00a0\u00a0 Obiettivi generalib.\u00a0\u00a0\u00a0\u00a0 Il ruolo della Probabilit\u00e0c.\u00a0\u00a0\u00a0\u00a0\u00a0 Modelli Matematici per l'Informazione e la Trasmissioned.\u00a0\u00a0\u00a0\u00a0 Modelli di Canale con Errorie.\u00a0\u00a0\u00a0\u00a0 Codici per la Trasmissione su Canali; Rate di Trasmissionef.\u00a0\u00a0\u00a0\u00a0\u00a0 Esempi di Codici Correttori: Repetition Codes e Block Codes.g.\u00a0\u00a0\u00a0\u00a0 Discussione informale dei risultati di ShannonRif. Bibliografico:\u00a0 Capitolo 1 di [1]2.\u00a0\u00a0\u00a0\u00a0 I concetti fondamentali della Teoria dell'Informazione.a.\u00a0\u00a0\u00a0\u00a0 Richiami di\u00a0 Probabilit\u00e0 Discretab.\u00a0\u00a0\u00a0\u00a0 Inferenza Statistica: Il Likelihoodc.\u00a0\u00a0\u00a0\u00a0\u00a0 Definizioni di Entropia e di Contenuto Informativo (di Shannon) di una Sorgente di Informazione.d.\u00a0\u00a0\u00a0\u00a0 Propriet\u00e0 utili della funzione EntropiaRif. Bibliografico:\u00a0 Capitolo 3 di\u00a0 [1]3.\u00a0\u00a0\u00a0\u00a0 La Compressione\u00a0 Datia.\u00a0\u00a0\u00a0\u00a0 Variabili Aleatorie particolari: Le Sorgenti di Informazionib.\u00a0\u00a0\u00a0\u00a0 Entropia di una Sorgentec.\u00a0\u00a0\u00a0\u00a0\u00a0 Significato dell'Entropia di una Sorgented.\u00a0\u00a0\u00a0\u00a0 Esempi di Sorgenti e valutazione dell'Entropiae.\u00a0\u00a0\u00a0\u00a0 Entropia\u00a0 di una Sorgente e Compressione del suo Outcomef.\u00a0\u00a0\u00a0\u00a0\u00a0 Compressione con Errore e senzag.\u00a0\u00a0\u00a0\u00a0 Compressione di Sequenze di simboli di una Sorgenteh.\u00a0\u00a0\u00a0\u00a0 Sequenze Tipichei.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Il I\u00b0\u00a0 Teorema di Shannonj.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Dimostrazione del I\u00b0\u00a0 Teorema\u00a0 di Shannon\u00a0 Rif. Bibliografico: Capitolo 4 di [1]\u00a04.\u00a0\u00a0\u00a0\u00a0 Codifica Binaria a Lunghezza Variabile (L.V.) senza Erroria.\u00a0\u00a0\u00a0\u00a0 Codifica Univoca,\u00a0 Codici Prefissib.\u00a0\u00a0\u00a0\u00a0 Il I\u00b0 Teorema di Shannon per la codifica a L.V.c.\u00a0\u00a0\u00a0\u00a0\u00a0 Esempi di Codici Binari a L.V.d.\u00a0\u00a0\u00a0\u00a0 Codifica a L.V.\u00a0 Ottimale ed i codici di Huffman\u00a0\u00a0 Rif. Bibliografici:\u00a0 Capitolo 5 di [1].\u00a05.\u00a0\u00a0\u00a0\u00a0 Codifica e Decodifica per Canali di Trasmissione con Erroria.\u00a0\u00a0\u00a0\u00a0 Il Modello di Canale attraverso spazi probabilistici congiunti.b.\u00a0\u00a0\u00a0\u00a0 Random Variables (R.V.)\u00a0 Dipendentic.\u00a0\u00a0\u00a0\u00a0\u00a0 Entropia Congiunta, Condizionata, Marginale di R.V.d.\u00a0\u00a0\u00a0\u00a0 Il Concetto di Mutua Informazione I(X,Y)e.\u00a0\u00a0\u00a0\u00a0 La Comunicazione su un Canale con Errorif.\u00a0\u00a0\u00a0\u00a0\u00a0 Inferenza dell'Input conoscendo l'Outputg.\u00a0\u00a0\u00a0\u00a0 Capacit\u00e0 di un Canaleh.\u00a0\u00a0\u00a0\u00a0 Il II\u00b0 Teorema di Shannon sui Canali con Errorei.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Descrizione informale della Dimostrazionej.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Sequenze Congiuntamente Tipichek.\u00a0\u00a0\u00a0\u00a0 Dimostrazione formale (alcune parti)\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Rif. Bibliografici:\u00a0 Cap. 9 e 10 di [1]\u00a06.\u00a0\u00a0\u00a0\u00a0 Canali e\u00a0 Codici Binari\u00a0\u00a0a.\u00a0\u00a0\u00a0\u00a0 Correzione di Errori e Distanza di Hammingb.\u00a0\u00a0\u00a0\u00a0 Codici Buoni e Cattivic.\u00a0\u00a0\u00a0\u00a0\u00a0 Codici Perfettid.\u00a0\u00a0\u00a0\u00a0 Codici di Hamminge.\u00a0\u00a0\u00a0\u00a0 Non esistenza di Codici Perfetti utilif.\u00a0\u00a0\u00a0\u00a0\u00a0 Codici Lineari Randomg.\u00a0\u00a0\u00a0\u00a0 Codici Lineari Efficienti per il Canale Binario SimmetricoRif. Bibliografici: Cap. 13 e 14 di [1]\n\n7. Introduzione agli algoritmi probabilistici fondamentali\u00a0\u00a0Riferimenti Bibliografici:David J.C. MacKay. Information Theory, Inference, and Learning Algorithms. Cambridge University Press, Version 7.2 (2005).\u00a0\u00a0Propedeuticit\u00e0:\u00a0 Matematica discreta. Calcolo delle probabilit\u00e0.",
+  "testiRiferimento": "Riferimenti Bibliografici:David J.C. MacKay. Information Theory, Inference, and Learning Algorithms. Cambridge University Press, Version 7.2 (2005).",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

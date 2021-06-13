@@ -1,0 +1,33 @@
+{
+  "nomeCorso": "Basi di dati e di conoscenza",
+  "docente": "Loredana Vigliano, Roberto Basili",
+  "annoAccademico": "2013-2014",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta. Programmazione.",
+  "comunicazioni": [
+    {
+      "titolo": "prossimo appello (III per Inf - IV per Bio)",
+      "data": "28-07-2014 17:12",
+      "contenuto": "\nIII Appello Informatici (IV Bioinformatici)\n22 Settembre scritto ore 14 aula ?? o 17\n23 Settembre consegna progetto ore 11-12 studio Vigliano\n24/25/26 Settembre orale ore 10.30 aula ?? o 17"
+    },
+    {
+      "titolo": "AVVISO",
+      "data": "22-07-2014 12:29",
+      "contenuto": "Si ricorda che lo scritto viene conservato solo fino al successivo appello"
+    },
+    {
+      "titolo": "",
+      "data": "08-11-2013 15:25",
+      "contenuto": "ATTENZIONE : per poter sostenere l' esame (anche solo orale) \u00e8 necessario prenotarsi sul sito\ndelphi.uniroma2.it.\n\nESAMI PROPEDEUTICI : MD e PR\nPer l'esame \u00e8 indispensabile seguire le linee guida del progetto\n\nATTENZIONE : La parte di programma non presente sulle slide va studiata sul LIBRO"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Introduzione - Modello relazionale - Algebra relazionale - Calcolo relazionale - Flusso di progetto e visione dei dati - Modello concettuale dei dati - Disegno logico DB Schema Entity-relationship - Disegno fisico DB - Forme normali - Query language e implementazioni su mySQL DML SQL  - Organizzazione fisica dei dati- Ottimizzazione degli indici- Modellazione dei dati in UML- Normalizzazione e Denormalizzazione- Ottimizzazione delle interrogazioni------ MySQL e ottimizzazioni- Transazioni------ Locking a due fasi, Timestamp,MVCC\u00a0------ MySQL e Storage Engine- Basi di dati attive------ Trigger e Stored Procedure\u00a0------ Cursor, Trigger e Stored Procedure in MySQL\n- Basi di datigeospaziali e GIS- Basi di dati su architetture distribuite------ Commit a due fasi- Architetture per l' analisi dei dati------ Data Warehouse\u00a0------ Data Mining- Implementazione progetto",
+  "testiRiferimento": "- Atzeni, Ceri,Parboschi, Torlone Basi di dati, modelli e linguaggi di interrogazione McGraw-Hill ; - Welling-Thomson MySQL Tutorial (opzionale) ;  - Atzeni,Ceri,Fraternali,Paraboschi,Torlone Basi di dati - Architetture e linee di evoluzione ed. McGraw-Hill 2nd edition - Schwartz,Zaitsev,Tkachenko,Zawodny, Lentz & Balling High Performance MySQL ed. O'Reilly 2nd edition\n\n\nPer chi non ha gi\u00e0 comprato i libri di testo precedenti esiste una nuova edizione unica per il I e II semetre :\nAtzeni,Ceri,Fraternali,Paraboschi,Torlone\u00a0Basi di dati -\u00a0ed. McGraw-Hill 4nd edition\u00a0(59 euro)\n- lucidi di L. Vigliano presentati a Lezione  Consigliati : - Elmasri,Navathe Sistemi di basi di dati Pearson",
+  "ricevimento": "In aula alla fine delle lezioni o previo appuntamento via mail",
+  "modalit\u00e0Esame": "L'esame \u00e8 composto da uno scritto, un progetto ed un esame orale.\n\nSi leggano per i particolari le linee guida del progetto presenti sul materiale didattico."
+}

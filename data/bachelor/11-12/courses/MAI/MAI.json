@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Metodi avanzati dell'informatica",
+  "docente": "Andrea Clementi",
+  "annoAccademico": "2011-2012",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Programma\rIl corso e' formato da 3 moduli di 2 cfu ciascuno. \r MODULO A: Teoria dei Giochi e Reti Sociali (Prof. Paola Vocca -) \rDefinizioni di base. Giochi strategici. Giochi non \rcooperativi in forma strategica. Mosse migliorative e grafo delle \rdinamiche di Nash. Equilibrio di Nash in strategie pure. Equilibrio di \rNash in strategie miste e Teorema di Nash. Inefficienza degli \requilibri di Nash e le nozioni di prezzo dell'anarchia e prezzo della \rstabilit\u00e0. Prezzo dell'anarchia e della stabilit\u00e0 dei giochi di \rcondivisione dei costi su reti dirette e non dirette. Propriet\u00e0 \rstrutturali delle reti sociali (distribuzione del grado, diametro, \rclustering) \rGiochi strategici su reti sociali (pricing). \r  MODULO B: Reti: Comunicazione ed Energia: un approccio algoritmico  (Prof. Miriam Di Ianni - diianni at mat.uniroma2.it )\r 1) Introduzione informale alle classi P, NP, ed ai problemi NP-completi. \r2) Esempi di dimostrazioni di NP-completezza: 3SAT, Vertex Cover.\r3) Introduzione informale alla classe APX.\r4) Richiami di calcolo delle probabilit\u00e0. \r5) Introduzione alle reti wireless ad-hoc ed ai problemi energetici ad esse collegati.\r6) Il problema del minimo raggio di trasmissione per reti omogenee. Approccio probabilistico per l'individuazione del minimo raggio di trasmissione che garantisca la connessione. \r7) Problemi di clustering e risparmio energetico. Il problema del minimo insieme dominante e la sua relazione con il problema minimum Set Cover. L'algoritmo di Chvatal: un algoritmo greedy per l'approssimazione logaritmica di Set Cover.\r     MODULO C: Elementi di Sicurezza (Prof. Talamo/Dr. Andrea Dimitri) \r - Presentazione della crittografia a chiave pubblica/privata e sue problematiche (RSA) \r- L'uso della crittografia nei protocolli su rete: Cenni. Richiami al concetto di VPN \r- Applicazioni web/servlet/web service \r- Protezione di una applicazione \r- Uso di credenziali e crittografia \r- Crittografia e vulnerabilit\u00e0: applicazioni. \r- Crittografia SHA256 - intercettori \r *** \r REQUISITI (Alcuni insegnamenti del primo biennio): \r - Programmazione dei calcolatori con laboratorio \r- Analisi Matematica \r- Matematica Discreta \r- Geometria ed Algebra \r- Algoritmi e Strutture di Dati \r- Calcolo delle Probabilita' e Statistica",
+  "testiRiferimento": "",
+  "ricevimento": "contattare i docenti dei moduli  via email",
+  "modalit\u00e0Esame": "null"
+}

@@ -1,0 +1,58 @@
+{
+  "nomeCorso": "Architettura degli elaboratori",
+  "docente": "Alessandra Pieroni",
+  "annoAccademico": "2013-2014",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Verbalizzazione appello del 12/09/2014 AE",
+      "data": "12-09-2014 11:39",
+      "contenuto": "La verbalizzazione dell'appello di settembre \u00e8 fissata per Luned\u00ec 22 Settembre 2014 dalle ore 12.00 alle ore 13.00, atrio terzo piano edificio Ing. dell'Informazione."
+    },
+    {
+      "titolo": "Verbalizzazione appello del 10/07/2014 AE",
+      "data": "17-07-2014 13:39",
+      "contenuto": "La verbalizzazione si terr\u00e0 Merc 23 Luglio 2014 dalle ore 11 alle ore 12.\nFacolt\u00e0 di Ingegneria, edificio Ingegneria dell'Informazione, atrio terzo piano.\n\nI risultati dell'appello del 10 luglio saranno pubblicati entro marted\u00ec 22 Luglio 2014."
+    },
+    {
+      "titolo": "Verbalizzazione appello del 28/02/2014 AE",
+      "data": "08-04-2014 17:53",
+      "contenuto": "La verbalizzazione si terr\u00e0 lun 28/04 ore 10:00 Facolt\u00e0 Ingegneria, Ed. Ingegneria dell'Informazione, primo piano, stanza A1-07.\n\nGli studenti che intendono verbalizzare Architettura + Reti Logiche devono necessariamente entro il 19 Aprile inviare una mail al docente, comunicando il tipo di verbalizzazione, al fine di creare il relativo verbale di esame."
+    },
+    {
+      "titolo": "ATTENZIONE VARIAZIONE DATA SECONDO APPELLO",
+      "data": "29-01-2014 13:39",
+      "contenuto": "Si avvisano tutti gli studenti del corso che la data del secondo appello della sessione esiva anticipata \u00e8 stata modificata:\n\nvecchia data: 27/02/2014 ore 10:00 aula T5\nnuova data: \u00a028/02/2014 ore 10:00 aula T5"
+    },
+    {
+      "titolo": "Visione Compiti INSUFFICIENTI",
+      "data": "23-01-2014 10:02",
+      "contenuto": "La visione compiti Insuff. della prima e della seconda prova in itinere \u00e8 rinviata a marted\u00ec 28 ore 11:00 aulta T5"
+    },
+    {
+      "titolo": "APPELLI DI FINE CORSO",
+      "data": "09-01-2014 10:09",
+      "contenuto": "Come previsto dal regolamento di Ateneo, alla fine del corso saranno disponibili due appelli a cui tutti gli studenti correttamente prenotati sul sito di delphi potranno partecipare.\nLe date sono le seguenti:\n\nPRIMO APPELLO: VENERDI' 7 FEBBRAIO 2014 ORE 10:00 AULA T5\n\nSECONDO APPELLO: GIOVEDI' 27 FEBBRAIO 2014 ORE 10:00 AULA T5\n\nGli studenti che hanno gi\u00e0 superato le due prove in itinere, saranno tenuti a rispondere solo sulla parte di programma riguardante la terza parte del corso (dettaglio nella sezione \"programma\").\n\nGli studenti che non hanno partecipato alle prove in itinere risponderanno invece sull'intero programma del corso.\n\nATTENZIONE:\ncome da regolamento di Ateneo, possono partecipare agli appelli di fine corso solo ed esclusivamente gli studenti che al momento degli esami non abbiamo debiti formativi."
+    },
+    {
+      "titolo": "Prova in Itinere 2",
+      "data": "22-11-2013 10:51",
+      "contenuto": "mart 10 e giov 12 dicembre si svolger\u00e0 la seconda prova in itinere.\nGli argomenti della seconda prova in itinere sono i seguenti:Programma seconda prova in itinere (10-12/12/2013):\nLibro\u00a0Tanenbaum: cap. 2.3.6 (RAID)Libro\u00a0Iazeolla:cap. 1.1, 1.1.1, 1.1.2, 1.1.3cap. 1.2, 1.2.1, 1.2.2cap. 2.1, 2.2, 2.3, 2.4, 2.5cap. 3.1, 3.1.1, 3.1.2, 3.1.2.1\nVista la numerosit\u00e0 della classe, gli studenti saranno ripartiti in due date in base al proprio cognome.\nCognome dalla A alla L \u00a0--> mart. 10 ore 11 Aula T5Cognome dalla M alla Z --> giov. \u00a012 ore 11 Aula T5"
+    },
+    {
+      "titolo": "Prova in Itinere 1",
+      "data": "11-11-2013 10:24",
+      "contenuto": "Marted\u00ec 12 Novembre alle ore 11 in aula T5 si terr\u00e0 la prima prova in itinere del corso.\nQuesta prova potr\u00e0 essere sostenuta da tutti gli studenti del corso al fine di testare la preparazione raggiunta sugli argomenti finora trattati in aula.\nProgramma prima prova in itinere: Libro Tanenbaum cap.1 e 2 (fino al 2.4.2 incluso)"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Programma del corso Organizzazione dei sistemi di calcolo Processori Memorie principali e Memorie secondarie Input/output  Descrizione dei sistemi di calcolo  Descrizione orizzontale  Descrizione verticale  Descrizione del livello logico digitale  Processore  Memorie  Bus  Architettura e Governo di sistemi di calcolo  Tipi di architettura  Tipi di Governo  Strumenti di governo  Sistemi a configurazione multiprocessor  Legge di Grosch  Legge di Moore  Reti di interconnesione  Reti intraprocessor  Reti interprocessor  Computer networks  LAN, MAN e WAN  Caratterizzazione Unit\u00e0 e Reti  Caratterizzazione CPU  Esempi di CPU  Caratterizzazione Reti  Caratterizzazione Reti Intraprocessor  Caratterizzazione Reti Iterprocessor  Reti Statiche e Reti Dinamiche  Caratterizzazione Computer Network  Legge Metcalfe  Legge delle Reti   *****************************************Programma prima prova in itinere (12/11/2013):Libro Tanenbaum cap.1 e 2 (fino al 2.4.2 incluso)\n*****************************************Programma seconda prova in itinere (10-12/12/2013):Libro Tanenbaum: cap. 2.3.6 (RAID)Libro Iazeolla:cap. 1.1, 1.1.1, 1.1.2, 1.1.3cap. 1.2, 1.2.1, 1.2.2cap. 2.1, 2.2, 2.3, 2.4, 2.5cap. 3.1, 3.1.1, 3.1.2, 3.1.2.1\n*****************************************\nProgramma della terza ed ultima parte del corso:\nLibro\u00a0Iazeolla:\ncap. 3.2, 3.2.1, 3.2.1.1, 3.2.1.2, 3.2.2, 3.3, 3.3.1, 3.3.1.1, 3.3.1.2, 3.3.2\n\ncap. 4 tutto",
+  "testiRiferimento": "Testi consigliati: \r 1) Tanenbaum Andrew S., Architettura dei calcolatori: Un approccio \t\t   strutturale,  5a Ed., Pearson Education, 2006\r 2) Giuseppe Iazeolla, Impianti, Reti e Sistemi Informatici, 2a Ed., \t\t\tFrancoAngeli 2008",
+  "ricevimento": "In aula dopo lezione",
+  "modalit\u00e0Esame": "Durante il corso si svolgeranno due prove in itinere. \u00a0Lo scopo di tali prove \u00e8 dare allo studente un mezzo per (auto) valutare il proprio grado di preparazione sugli argomenti trattati.\nAlla fine del corso, tutti gli studenti avranno a disposizione due appelli in cui sostenere l'esame completo.\n\n*****************************************Programma prima prova in itinere (12/11/2013):Libro\u00a0Tanenbaum\u00a0cap.1 e 2 (fino al 2.4.2 incluso)\n*****************************************Programma seconda prova in itinere (10-12/12/2013):Libro\u00a0Tanenbaum: cap. 2.3.6 (RAID)Libro\u00a0Iazeolla:cap. 1.1, 1.1.1, 1.1.2, 1.1.3cap. 1.2, 1.2.1, 1.2.2cap. 2.1, 2.2, 2.3, 2.4, 2.5cap. 3.1, 3.1.1, 3.1.2, 3.1.2.1\n*****************************************"
+}

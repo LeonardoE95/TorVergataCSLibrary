@@ -1,0 +1,159 @@
+{
+  "nomeCorso": "Analisi di reti",
+  "docente": "Miriam Di Ianni",
+  "annoAccademico": "2016-2017",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "20-12-2016 17:24",
+      "contenuto": "Si comunica che, per problemi di salute del docente, la lezione di Analisi di reti di mercoled\u00ec 21/12/2016 non si terr\u00e0"
+    },
+    {
+      "titolo": "",
+      "data": "11-12-2016 21:11",
+      "contenuto": "Causa stato influenzale della docente, la lezione di luned\u00ec 12 dicembre non avr\u00e0 luogo"
+    },
+    {
+      "titolo": "",
+      "data": "08-11-2016 18:06",
+      "contenuto": "Si informano gli studenti che la lezione di Analisi di Reti di mercoled\u00ec 09/11/2016 non avr\u00e0 luogo."
+    },
+    {
+      "titolo": "",
+      "data": "06-11-2016 19:37",
+      "contenuto": "La lezione del 07/11/2016 non avr\u00e0 luogo"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "24",
+      "data": "25-01-2017",
+      "contenuto": "Esercitazione"
+    },
+    {
+      "id": "23",
+      "data": "23-01-2017",
+      "contenuto": "Teorema del votante mediano. Voto come espressione di una preferenza e voto come metodo di ricostruzione di una informazione. Il \u00a0Teorema della giuria di Condorcet. Voto non sincero. Regola dell'unanimit\u00e0 e decisioni di giurie."
+    },
+    {
+      "id": "22",
+      "data": "18-01-2017",
+      "contenuto": "Dimostrazione del Teorema di Arrow. Preferenze Single Peaked."
+    },
+    {
+      "id": "21",
+      "data": "16-01-2017",
+      "contenuto": "Lezione di 3 ore. Ancora sull'analisi dell'algoritmo di ricerca miope: il caso in cui il coefficiente di clustering \u00e8 diverso dalla dimensione dello spazio.\nSistemi di voto: espressione mediante relazioni binarie complete e mediante ranking e loro equivalenza, sistemi di voto posizionali e paradosso di Condorcet, tornei, sistemi di voto posizionali (Borda count) e ruolo delle alternative irrilevanti. Enunciato del Teorema di Arrow."
+    },
+    {
+      "id": "20",
+      "data": "11-01-2017",
+      "contenuto": "Lezione di 3 ore. Il fenomeno small world: esperimento di Milgram e i sei gradi di separazione. Modelli per lo small world: il modello di Watt-Strogatz e i suoi limiti. Un modello per la ricerca decentralizzata. Ricerca miope. Analisi della ricerca miope nel modello per la ricerca decentralizzata con esponente di clustering ottimale nel caso unidimensionale. Cenni all'analisi del caso bidimensionale. Aderenza alla realt\u00e0 del modello."
+    },
+    {
+      "id": "19",
+      "data": "09-01-2017",
+      "contenuto": "Questioni di compatibilit\u00e0 nei processi di diffusione. Modello. Analisi dell'occorrenza di cascate nella catena illimitata.\nLezione interrotta a questo punto causa freddo insostenibile in aula dovuto ad inattivit\u00e0 dell'impianto di riscaldamento con una temperatura esterna inferiore allo zero."
+    },
+    {
+      "id": "18",
+      "data": "19-12-2016",
+      "contenuto": "Il ruolo dei weaky ties nei processi di diffusione. Capacit\u00e0 di cascata di una rete. Azione e coscienza collettive: il ruolo della pubblicit\u00e0"
+    },
+    {
+      "id": "17",
+      "data": "14-12-2016",
+      "contenuto": "Introduzione ai processi di diffusione nelle reti. Diffusione come coordination game. Cascate e clusters. Generalizzazione del modello: soglie non omogenee."
+    },
+    {
+      "id": "16",
+      "data": "07-12-2016",
+      "contenuto": "Analisi euristica del processo rich get richer per mostrare la power law. Effetti degli strumenti di ricerca e dei Recommendation Systems sul fenomeno Rich get richer"
+    },
+    {
+      "id": "15",
+      "data": "05-12-2016",
+      "contenuto": "Popolarit\u00e0 e fenomeno power law. Modelli Rich Get Richer. Impredicibilit\u00e0 degli effetti rich get richer. La lunga coda"
+    },
+    {
+      "id": "14",
+      "data": "30-11-2016",
+      "contenuto": "Un primo esperimento di herding ed un modello basilare generale nel quale definirlo. Cascate e decisioni sequenziali. Considerazioni generali sulle cascate."
+    },
+    {
+      "id": "13",
+      "data": "28-11-2016",
+      "contenuto": "Ripetizione degli argomenti trattati durante la precedente lezione. Page Rank e Random Walk in un grafo orientato. Modern Web-search.\n\nIntroduzione agli effetti informativi di una rete: seguire la folla. La regola di Bayes e il suo utilizzo per lo spam filtering."
+    },
+    {
+      "id": "12",
+      "data": "25-11-2016",
+      "contenuto": "Formalizzazione del Page Rank e dello Scaled Page Rank. Teorema di Perron e convergenza dello Scaled Page Rank."
+    },
+    {
+      "id": "11",
+      "data": "23-11-2016",
+      "contenuto": "Termine della prova della convergenza\u00a0della procedura iterativa per il calcolo dei valori di hub e authority. Introduzione al Page Rank."
+    },
+    {
+      "id": "10",
+      "data": "21-11-2016",
+      "contenuto": "Web search mediante link analysis. Hub e authorities. Convergenza della procedura iterativa per il calcolo dei valori di hub e authority: prima parte della prova."
+    },
+    {
+      "id": "9",
+      "data": "16-11-2016",
+      "contenuto": "La struttura del Web: reti di informazioni, ipertesto, memoria associativa. Precursori del Web. Evoluzione del Web: il WEb 2.0. Il Web come grafo diretto e le suat struttura bow-tie. Introduzione ai problemi di ricerca sul web"
+    },
+    {
+      "id": "8",
+      "data": "14-11-2016",
+      "contenuto": "Grafi completi segnati approssimativamente bilanciati e loro caratterizzazione"
+    },
+    {
+      "id": "7",
+      "data": "02-11-2016",
+      "contenuto": "Definizioni di bilancio strutturale in grafi non completi e loro equivalenza. Caratterizzazione e algoritmo che verifica se un grafo (non completo) \u00e8 strutturalmente bilanciato."
+    },
+    {
+      "id": "6",
+      "data": "26-10-2016",
+      "contenuto": "Relazioni positive e negative: grafi segnati. Definizione e caratterizzazione di bilancio strutturale in grafi completi. Definizione rilassata e sua caratterizzazione."
+    },
+    {
+      "id": "5",
+      "data": "24-10-2016",
+      "contenuto": "Web-communities: definizione (Flake) e relazione fra web-communities e minimi tagli in un grafo. NP-completezza del problema di decidere dell'esistenza di una partizione di un grafo in due web-communities che separi una data coppia di nodi."
+    },
+    {
+      "id": "4",
+      "data": "19-10-2016",
+      "contenuto": "Completamento del metodo di Girvan-Newman: calcolo diretto della betweenness di ogni arco, e metodo basato sul flusso. Richiami di teoria della complessit\u00e0 e del concetto di NP-completezza."
+    },
+    {
+      "id": "3",
+      "data": "17-10-2016",
+      "contenuto": "Ricerca delle componenti coese in un grafo: graph partitioning, partizionamenti nidificati, metodi divisivi e metodi agglomerativi. Edge-betweennes e metodo di partizionamento di Girvan-Newman: introduzione. (Paragrafo 3.6 del testo)"
+    },
+    {
+      "id": "2",
+      "data": "12-10-2016",
+      "contenuto": "Esperimento di Granovetter: legami forti e deboli. Bridges e Local Bridges. Chiusura triadica, coefficiente di clustering e propriet\u00e0 della chiusura triadica forte (STCP). Local bridges incidenti su nodi che soddisfano la STCP. Generalizzazione del modello: grafi pesati e Neighborhood Overlap, esperimento di Onnela. Buchi strutturali e capitale sociale."
+    },
+    {
+      "id": "1",
+      "data": "10-10-2016",
+      "contenuto": "Introduzione al corso. Grafi e grafi aleatori. Il modello di Erdos-Renyi: grado medio, grado, componenti connesse."
+    }
+  ],
+  "materiale": [],
+  "programma": "Programma preventivato\u00a0(che potr\u00e0 subire variazioni nel corso di svolgimento delle lezioni):\n1) Teoria dei grafi e delle reti sociali.\n- Grafi, percorsi, connettivit\u00e0, distanza, ricerca\n- Chiusura triadica, importanza dei collegamenti deboli, struttura di rete in insiemi di grandi dimensioni,\n- indici di centralit\u00e0 e partizionamenti\n- Bilancio strutturale\n2)Dinamiche nelle reti: modelli di popolazione.\n- Cascate informative: il concetto \"segui la massa\", un modello di cascata, la regola di Bayes e le cascate\n- Effetti rete: economia con e senza gli effetti rete, il problema di El Farol Bar\n- Power Law e fenomeno rich-get-richer: la popolarit\u00e0 come un effetto rete, modelli rich-get-richer e la long tail\n3)Dinamiche nelle reti: modelli strutturali.\n- Comportamento a cascata: diffusione, cascate e cluster, il ruolo dei weak ties, capacit\u00e0 di una cascata\n- Il fenomeno Small-world: i sei gradi di separazione, modelli per lo Small-world; ricerca decentralizzata: modelli e analisi\n4) Reti di Informazione: il World Wide Web\n- Struttura del Web: reti di informazione, ipertesti e memoria associativa\n- Link analysis e ricerca nel Web: il problema del Ranking, Hubs e Authorities, il PageRank\n5) Istituzioni e comportamento aggregato\n- Meccanismi di voto: decisioni di gruppo e preferenze individuali; sistemi di voto a maggioranza e posizionale; Teorema di impossibilit\u00e0 di Arrow; Teorema del Voto Mediano\n- Voto come forma di aggregazione dell'informazione: voto sincero e non sincero, la regolaa dell'unanimit\u00e0 e il problema del verdetto della giuria; voto sequenziale e cascate informative.",
+  "testiRiferimento": "David Easley, Jon Kleinberg, \"Networks, Crowds, and Markets: Reasoning about a Highly Connected World\", Cambridge University Press",
+  "ricevimento": "Per appuntamento, da richiedere a mezzo posta elettronica",
+  "modalit\u00e0Esame": "Prova orale eventualmente corredata da tesine"
+}

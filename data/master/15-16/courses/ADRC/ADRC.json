@@ -1,0 +1,139 @@
+{
+  "nomeCorso": "Algoritmi distribuiti e reti complesse",
+  "docente": "Andrea Clementi",
+  "annoAccademico": "2015-2016",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "ESAME DEL 14/06",
+      "data": "12-06-2016 10:54",
+      "contenuto": "Si informano gli studenti interessati che nell'appello in oggetto, la parte Game Theory non verra' verificata: \u00a0 chi deve ancora sostenere tale parte e' invitato a contattare via email il dr Guala' per fissare una data."
+    },
+    {
+      "titolo": "esito ESONERO",
+      "data": "10-01-2016 11:33",
+      "contenuto": "\nRISULTATI ESONEROADRC (I PARTE - Clementi) del 07/01/16\n\n\n\n\u00b7Alessandro (m. 0234365):21/30\n\n\u00b7Simone V.(m. 0225306):30/30 e Lode\n\n\u00b7Federico F. (m. 0225303): 28/30\n\n\u00b7Christian S. (m. 0225360):21/30\n\n\u00b7Alessandro B. (m. 0225305): 30/30 e Lode\n\n\u00b7Damiano R. (m. 0225359):30/30\n\n\n\n\n\nNota.Gli studenti che non compaiono sulla lista e che hanno consegnato lo scritto, sono quelli che hanno riportato una votazione insufficiente."
+    },
+    {
+      "titolo": "ESONERO PARTE I",
+      "data": "02-01-2016 15:27",
+      "contenuto": "Il giorno 07/01/16 alle ore 14.30 IN AULA 7, si terra' l'esonero scritto della prima parte (Clementi) del corso ADRC. La prova durera' due ore.\nGli interessati sono pregati di inviare una email di prenotazione a\nclementi@mat.uniroma2.it\nLe domande riguarderanno esclusivamente gli argomenti trattati a lezione e presenti sul libro di testo e/o nel materiale messo a disposizione su questo sito."
+    },
+    {
+      "titolo": "Seminario Vito Trianni: articoli scientifici",
+      "data": "10-11-2015 08:42",
+      "contenuto": "Per gli studenti, credo che questi articoli possano essere sufficienti. Come dicevo,\r\nil main text dovrebbe essere fruibile da tutti, mentre il supplementary material potrebbe essere un po\u2019 ostico.\r\n1. Reina, A., Valentini, G., Fern\u00e1ndez-Oto, C., Dorigo, M., & Trianni, V. (2015). A\r\nDesign Pattern for Decentralised Decision Making. PLoS ONE, 10(10), e0140950\u201318.\r\nhttp://doi.org/10.1371/journal.pone.0140950\r\n2. Seeley, T. D., Visscher, P. K., Schlegel, T., Hogan, P. M., Franks, N. R., &\r\nMarshall, J. A. R. (2012). Stop Signals Provide Cross Inhibition in Collective\r\nDecision-Making by Honeybee Swarms. Science, 335(6064), 108\u2013111.\r\nhttp://doi.org/10.1126/science.1210361\r\n\r\nSempre per gli studenti, qualcosa di pi\u00f9 divulgativo (anche in italiano):\r\n3. Marshall, J., & Franks, N. R. (2009). Colony-level cognition. Current Biology :\r\nCB, 19(10), R395.\r\n4. Vito Trianni, Elio Tuci, Swarm Cognition: collective behaviours,\r\nself-organisation and cognitive processes, in \"Sistemi intelligenti\" 2/2011, pp.\r\n329-336, doi: 10.1422/35359 - https://www.rivisteweb.it/doi/10.1422/35359"
+    },
+    {
+      "titolo": "LEZIONE - SEMINARIO ADRC",
+      "data": "04-11-2015 09:55",
+      "contenuto": "02-11-2015 11:07 inviato da Clementi\nSEMINARIO di ALGORITMI DISTRIBUITI E RETI COMPLESSE\n\nCHI: \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Dr. VITO TRIANNI\nInstitute of Cognitive Sciences and Technologies (ISTC)\nItalian National Research Council (CNR)\n\nCOSA: \u00a0A Design Pattern for Decentralised Decision Making\n\nDOVE: \u00a0Universit\u00e0 Tor Vergata di Roma\nMacroarea di Scienze (Ed. Sogene)\nAula 7\nVia della Ricerca Scientifica \u2013 Roma\n\nQUANDO: Gioved\u00ec 5 Novembre 2015, ore 14.30\n\nContatti: clementi@mat.uniroma2.it"
+    },
+    {
+      "titolo": "ADRC:  Lezione del 2 novembre",
+      "data": "15-10-2015 16:59",
+      "contenuto": "La lezione in oggetto non avra' luogo."
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "18",
+      "data": "21-12-2015",
+      "contenuto": "IL modello distributo GOSSIP ed Uniform GOSSIP.\nIl problema del consensus e del plurality consensus binario\nLa dinamica del 3-majority.\nAnalisi della catena di Markov del processo e determinazione\ndel tempo di completamento medio."
+    },
+    {
+      "id": "17",
+      "data": "17-12-2015",
+      "contenuto": "Introduzione ai protocolli randomizzati. Valor medio di della v.a. **tempo**.\nIl protocollo di broadcast randomizzato BGI su reti layered.\nGap esponenziale tra broadcast \u00a0deterministico e randomizzato."
+    },
+    {
+      "id": "16",
+      "data": "14-12-2015",
+      "contenuto": "Reti wireless.\nIl protocollo di broadcast deterministico basato sulle famiglie selettive.\nCorrettezza ed analisi del tempo di completamento\nConoscenza dei parametri n,D, d"
+    },
+    {
+      "id": "15",
+      "data": "03-12-2015",
+      "contenuto": "\nIl problema del Broadcast su reti wireless.\nl'algoritmo round robin.\nanalisi e correttezza.\nIl concetto di famiglie selettive."
+    },
+    {
+      "id": "14",
+      "data": "30-11-2015",
+      "contenuto": "Elezione di un Leader in un anello:\nLa Stage technique ed un protocollo con communication cost n \\log n\n\nElezione in una mesh.\n\nIL modello wireless: introduzione, motivazioni, caratteristiche.\nIl problema della collisione.\nIl problema del Broadcast."
+    },
+    {
+      "id": "13",
+      "data": "26-11-2015",
+      "contenuto": "- Elezione di un Leader in un anello:\n\nAlgoritmi all-the-way e versione migliorata con communication cost n^2."
+    },
+    {
+      "id": "12",
+      "data": "23-11-2015",
+      "contenuto": "Computationi distribuite su alberi:\nLa tecnica della Saturazione per il calcolo dell'eccentricita'\nCalcolo del centro di un albero\nCalcolo del ranking di un nodo"
+    },
+    {
+      "id": "11",
+      "data": "19-11-2015",
+      "contenuto": "Computazioni Distribuiti su Alberi.\n\nLa tecnica della Saturazione\n\nCalcolo del minimo"
+    },
+    {
+      "id": "10",
+      "data": "16-11-2015",
+      "contenuto": "IL problema dello spanning tree distribuito:\nil protocollo shout+ ed il miglioramento della msg complexity\nArbitrarieta' della soluzione ottenuta rispetto al diametro\nRisultato di impossibilita' se ci sono piu \u00a0initiator con dimostrazione\n\nToken traversal: \u00a0protocollo sequenziale e protocollo con parte parallela\ndimostrazione di correttezza e analisi della msg complexity e del tempo"
+    },
+    {
+      "id": "9",
+      "data": "12-11-2015",
+      "contenuto": "IL problema dello spanning tree distribuito\nconoscenza locale della soluzione\nil protocollo Shout\nCorrettezza e message complexity"
+    },
+    {
+      "id": "8",
+      "data": "09-11-2015",
+      "contenuto": "IL problema del Wake-UP su topologie specifiche\nIL caso del grafo completo.\nIl lower bound \\Omega(n log n)"
+    },
+    {
+      "id": "7",
+      "data": "05-11-2015",
+      "contenuto": "Lezione-Seminario\n(Vito Trianni): A Design Pattern for Decentralised Decision Making"
+    },
+    {
+      "id": "6",
+      "data": "29-10-2015",
+      "contenuto": "Lezione del Dr. Guala':\nUna prima introduzione ai modelli distribuiti con agenti egoistici\ne la teoria dei giochi."
+    },
+    {
+      "id": "5",
+      "data": "26-10-2015",
+      "contenuto": "L'architettura Labeled HYPERCUBE: analisi del diametro, grado, calcolo di cammini minimi.\n\nUN protocollo di broadcast ottimale per Hypercube.\nAnalsisi della correttezza, message complexity e tempo di convergenza"
+    },
+    {
+      "id": "4",
+      "data": "22-10-2015",
+      "contenuto": "Un lower bound generale per il problema del Broadcast:\ndimostrazione formale ed implicazioni.\n\nGrafi densi e grafi sparsi: un alternativa al flood.\n\nArchitetture parallele efficienti: diametro e grado.\nConcetto di scalability\nIntroduzione dell'architettura HYPERCUBE"
+    },
+    {
+      "id": "3",
+      "data": "19-10-2015",
+      "contenuto": "Protocolli per il Broadcast su grafi generali: FLOOD\n\nAnalisi del FLOOD:\ncorrettezza,\nmsg complexity,\ncompletion time"
+    },
+    {
+      "id": "2",
+      "data": "15-10-2015",
+      "contenuto": "IL modello di Calcolo Distributo: Concetti di Base e definizioni informali\ni grafi di comunicazione\nle restrizioni\ngli assiomi\ndefinizione di protocollo\noperazione atomiche\ntempo e messaggi\nterminazione locale e globale\nUn esempio: IL Broadcast"
+    },
+    {
+      "id": "1",
+      "data": "12-10-2015",
+      "contenuto": "Introduzione al calcolo distribuito\n\nEsempi di decisioni locali\n\nMotivazioni generali\n\ndescrizione del corso, del materiale didattico, delle propedeudicita', e delle prove"
+    }
+  ],
+  "materiale": [],
+  "programma": "Il corso presenta i principi fondamentali del calcolo distribuito sia da un punto di vista dei modelli di comunicazione/computazione pi\u00f9 importanti che per quanto riguarda i metodi algoritmici fondamentali per tali modelli. L'obiettivo formativo e' quello di fornire degli strumenti efficienti e rigorosi per il Problem Solving algoritmico in cui, rispetto ai corsi algoritmici della triennale, per la prima volta le entit\u00e0 computazionali (agenti)\u00a0 sono molteplici ed interagenti.Questo nuovo paradigma offre ottime\u00a0 basi per progettare\u00a0 protocolli efficienti per problemi fondamentali ed estremamente attuali nel mondo dei moderni sistemi distribuiti.Questa parte sar\u00e0 tenuta del Prof. Clementi e sar\u00e0 di 6 cfu.Nella seconda parte di 3 cfu, il Dr. Gual\u00e0 tratter\u00e0 un altro aspetto fondamentaledei sistemi distribuiti moderni: la presenza di comportamenti egoistici degli agenti di un sistema distribuito. Tale presenza ha portato negli ultimi decenni a sviluppare un'importante teoria:l'Algorithmic Game Theory. Profondamente ispirata dalla famosa Game Theory (Nash Equilbria), questa teoria viene trattata nel corso per affrontare importanti problematiche nel campo dell'ottimizzazione di reti di comunicazione e di altre applicazioni. Gli argomenti fondamentali trattati durante il corso sono i seguenti:Parte I:\u00a0 Algoritmi Distribuiti (6 CFU) - Modelli di computazione distribuiti: paradigmi, algoritmi, misure di complessit\u00e0, comunicazione- Un processo epidemico: Il\u00a0 Broadcast e l'Information Spreading- Il problema del Wake-Up- Il problema dello Spanning Tree- Il problema del Leader Election- Il Modello Wireless: il fenomeno delle collisioni- Il Broadcast su Wireless Networks: protcolli\u00a0 deterministici e randomizzati- Problemi distribuiti avanzati in\u00a0 Social Networks\u00a0\u00a0\u00a0 e Data ScienceParte II (3 CFU)**** - da inserire *****",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

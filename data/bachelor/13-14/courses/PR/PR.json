@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Programmazione",
+  "docente": "Gianluca Rossi",
+  "annoAccademico": "2013-2014",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "12-11-2013 11:27",
+      "contenuto": "Tutte le informazioni sono disponibili nella\u00a0pagina del corso."
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Tutte le informazioni sono disponibili nella pagina del corso.",
+  "testiRiferimento": "Tutte le informazioni sono disponibili nella\u00a0pagina del corso.",
+  "ricevimento": "Tutte le informazioni sono disponibili nella\u00a0pagina del corso.",
+  "modalit\u00e0Esame": "Tutte le informazioni sono disponibili nella\u00a0pagina del corso."
+}

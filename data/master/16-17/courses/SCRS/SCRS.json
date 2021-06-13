@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Sistemi cooperativi e reti sociali",
+  "docente": "Maurizio Talamo",
+  "annoAccademico": "2016-2017",
+  "crediti": "6",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "10-04-2017 15:07",
+      "contenuto": "Esercizio assegnato in classe: convertire in javascript il seguente codice C++\n\nunsigned long long my_crc64 ( unsigned long long crc, const void *in_data, const unsigned long long len )\n{\nconst unsigned char *data = ( const unsigned char * ) in_data;\nbool bit;\n\nfor ( unsigned long long offset = 0; offset < len; offset++ ) {\nunsigned char c = data[offset];\nfor ( unsigned char i = 0x01; i & 0xff; i <<= 1 ) {\nbit = crc & 0x8000000000000000ULL;\nif ( c & i ) {\nbit = !bit;\n}\n\ncrc <<= 1;\nif ( bit ) {\ncrc ^= 0xad93d23594c935a9ULL;\n}\n}\n\ncrc &= 0xffffffffffffffff;\n}\n\ncrc = crc & 0xffffffffffffffff;\n\nunsigned long long lldata = crc;\nunsigned long long ret = lldata & 0x01;\n\nfor ( size_t i = 1; i < 64; i++ ) {\nlldata >>= 1;\nret = ( ret << 1 ) | ( lldata & 0x01 );\n}\n\nreturn ret ^ 0x0000000000000000;\n}\n\nEsempi di computazione:\nCRC64 di: kkpakcctdxcbzkitqkhpjuxzjkkmglic: 3594633785453865608()\nCRC64 di: htowzggrwbcnluckharxmpkdavtdebxa: 1704445542257955362()\nCRC64 di: dtgmlpqpuequujpdapakyqgmjoicfiej: 1895484199786374598()\nCRC64 di: zduyqawzaktxytnlgcpvtvmurifzyfct: 6381756506976712854()\nCRC64 di: jdjglslcrlljzuxcfylxrurvoypazzgx: 15446683081727556501()\nCRC64 di: voklxqugmpakrkjpfwookkbgkmaamxfb: 9227563173987463235()\nCRC64 di: ixjdfcjldfpjdbhywvmzdnazxsywolkb: 14728132559841017834()\nCRC64 di: dercabqqaoupzvxknokfgsialjywsvse: 16340863424746917193()\nCRC64 di: jzaxtfpuenzgnmfiuojpbqasdhcwnjvx: 10614787097834288068()\nCRC64 di: ejqjohhgcytacuwmxbnnhxjzvfafahmo: 3323273454950163853()\nCRC64 di: yooptqwtujgnuxkcmowkvkpgntixyjeq: 17616056958525969818()\nCRC64 di: tbkisjbfqttfquuuyfgdugdhehszniyv: 11124967955339586091()\nCRC64 di: jribhnnqelaufeqeajtfgclbafabveyq: 11310178939542944195()\nCRC64 di: cdcmopfichiltgpafghqjbetwlxkpdao: 12447702742421294748()\nCRC64 di: dvystytqcwkagjgnrjnyozldmhflrapp: 3768242662732765846()\nCRC64 di: eumzriwndwkmwaydvmzuebemmzbkdocg: 2693832937626661110()\nCRC64 di: xxkorztacmgswsmbctusesyxnovhpcwm: 4505874566712022915()\nCRC64 di: qcjkablbvifagwtzjyfvvxthbykntcua: 8183586054647984502()\nCRC64 di: pxvwaiwzlapswjlcugbzyayxlzzkxbmj: 3364362110700408844()\nCRC64 di: acxjgrywcuvioaurupenezhbivmsfobv: 10488603271136042429()\nCRC64 di: syxckvmcfmzwullqkqkkhgjhxofeeppw: 4948055503412834324()\nCRC64 di: olmyzxfqdnzinsdasfxmvkgngsdffmcz: 8494875643498249293()"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "1) Introduzione di Complex Web attraverso analisi di contesti.\n2) Definizione formale di Complex Web.\n3) Studio dell propriet\u00e0 di un complex web\n4) Definizione di meta regole per il riconoscimento di un sistema complesso.\n5) Richiamo dei concetti di protocollo su rete.\n6) Richiami sui protocolli IP, TCP, HTTP, SSL.\n7) Un linguaggio basato sul riconoscimento delle stringhe\n8) Ottenimento di sequenze elementari di eventi su WEB\n9) Il modello degli stati\n10) Il modello delle transizioni temporali\n11) Dipendenza e causalit\u00e0\n12) Il grafo causale.\n13) Rappresentazione di complex web come insieme di grafi causali.",
+  "testiRiferimento": "Dispense a cura del docente, distribuite durante le lezioni",
+  "ricevimento": "su appuntamento richiesto via mail all'indirizzo maurizio.talamo@uniroma2.it",
+  "modalit\u00e0Esame": "Esame orale in cui si discute un progetto sviluppato durante le esercitazioni"
+}

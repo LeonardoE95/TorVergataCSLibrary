@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Calcolo delle probabilit\u00e0",
+  "docente": "Claudio Macci",
+  "annoAccademico": "2015-2016",
+  "crediti": "6",
+  "settore": "MAT/06",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Analisi Matematica.",
+  "comunicazioni": [
+    {
+      "titolo": "",
+      "data": "29-09-2015 17:01",
+      "contenuto": "Pagina web del corso permanente con tutte le informazioni\nhttp://www.mat.uniroma2.it/~macci/didattica-informatica-triennale.htm"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "null",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

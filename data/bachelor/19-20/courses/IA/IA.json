@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Intelligenza artificiale 1",
+  "docente": "Roberto Basili",
+  "annoAccademico": "2019-2020",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "0",
+      "data": "null",
+      "contenuto": "Accedere alla pagina Web:\nsag.art.uniroma2.it/didattica/basili/IA_19_20/"
+    }
+  ],
+  "materiale": [],
+  "programma": "Accedere alla pagina Web:\nsag.art.uniroma2.it/didattica/basili/IA_19_20/",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "Prova a Risposte Multiple (On-Line o in Aula)\nProva Domanda Aperta (HomeWork i in Aula)\nOrale (On-Line o in Aula)"
+}

@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Progettazione di algoritmi",
+  "docente": "Gianluca Rossi",
+  "annoAccademico": "2006-2007",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "ALGORITMI RANDOMIZZATI, CLASSI DI COMPLESSITA' PROBABILISTICHE, \r\n\r\nPROTOCOLLI RANDOMIZZATI, COMPLESSITA' CIRCUITALE, \r\n\r\nGENERATORI DI BITS PSUDOCASUALI.",
+  "testiRiferimento": "RANDOMIZED ALGORITHMS  - Autori: MOTWANI e RAGHAVAN\r\nCOMPUTATIONAL COMPLEXITY - Autore : PAPADIMITRIOU",
+  "ricevimento": "per appuntamento FISSATO via email:\r\n\r\n clementi/pasquale@mat.uniroma2.it",
+  "modalit\u00e0Esame": "null"
+}

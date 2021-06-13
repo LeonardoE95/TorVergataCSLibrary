@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Programmazione Web",
+  "docente": "Pierpaolo Loreti",
+  "annoAccademico": "2019-2020",
+  "crediti": "6",
+  "settore": "ING-INF/05",
+  "anno": "3",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Architetture Client-Server e HTTP, HTML5 e fogli di stile CSS, Basi di Database per il web, basi di programmazione javascript, Document Object Model, XML e AJAX , JSON ed\u00a0 interfacce REST",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

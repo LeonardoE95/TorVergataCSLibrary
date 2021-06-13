@@ -1,0 +1,28 @@
+{
+  "nomeCorso": "Web mining and retrieval",
+  "docente": "Roberto Basili",
+  "annoAccademico": "2016-2017",
+  "crediti": "9",
+  "settore": "INF-ING/05",
+  "anno": "2",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [
+    {
+      "titolo": "Diario delle Lezioni",
+      "data": "24-03-2017 15:04",
+      "contenuto": "Le lezioni del Corso di Web Mining and Retrieval per l'a.a. 2016-17 avranno inizio a partire da\nLunedi' 6 Marzo 2017 in Aula C2 alle ore 14:00.\nLUNEDI', h. 14:00-15:45 (Aula C2 Edificio Aule Nuove Macroarea di Ingegneria)\nMERCOLEDI', h. 16:00-17:45 (Aula C3 Edificio Aule Nuove Macroarea di Ingegneria)\nGIOVEDI', h. 11:30-13:15 (Aula C6 Edificio Aule Nuove Macroarea di Ingegneria)"
+    },
+    {
+      "titolo": "Home Page del Corso",
+      "data": "24-03-2017 15:01",
+      "contenuto": "Il Corso di Web Mining & Retrieval pubblicher\u00e0 tutti i suoi avvisi e materiali didattici per la edizione 2016-17 presso la pagina Web al seguente indirizzo:\n\nhttp://ai-nlp.info.uniroma2.it/basili/didattica/WmIR_16_17/"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "null",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}

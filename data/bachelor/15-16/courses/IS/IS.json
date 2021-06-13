@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Ingegneria del software",
+  "docente": "Benedetto Intrigila, Andrea D'Ambrogio",
+  "annoAccademico": "2015-2016",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "3",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Linguaggi e metodologie di programmazione.",
+  "comunicazioni": [
+    {
+      "titolo": "Gruppi",
+      "data": "04-10-2015 21:31",
+      "contenuto": "Tutti gli studenti (indipendentemente dalla frequenza) devono formare dei gruppi e darne comunicazione al docente."
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "ProgrammaPrima Parte:Il ciclo di vita del softwareGestione dei requisiti software (Principalmente).Design (Cenni).Sviluppo (Cenni).Verifica e validazione (Cenni).Il linguaggio di modellazione UML e il suo uso nell'analisi dei requisiti.",
+  "testiRiferimento": "I. SommervilleSoftware Engineering 7(o edizioni successive)(come integrazione consultare anche:MACIASZEK, L.A. and LIONG, B.L. (2005):Practical Software Engineering. A Case Study ApproachAddison Wesley)Per UML:L. Baresi, L. Lavazza, M. PianciamoreDall'idea al codice con UML 2Addison Wesley",
+  "ricevimento": "Si riceve per appuntamento da prendere per mail.\nStudio 1212 Dente B (tel. 0672594670)email:intrigil@mat.uniroma2.it",
+  "modalit\u00e0Esame": "null"
+}

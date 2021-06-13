@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Fondamenti dell'informatica",
+  "docente": "Dora Giammarresi",
+  "annoAccademico": "2003-2004",
+  "crediti": "6",
+  "settore": "",
+  "anno": "1",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Introduzione alla teoria della computazione. \r\nLinguaggi regolari.  Automa a stati finiti deterministico. Automa a stati finiti. Espressioni regolari. Pumping Lemma. Proprieta' di chiusura. Algoritmi per automi a stati finiti. Minimizzazione di automi.\r\nLinguaggi context-free. Grammatiche context-free. Derivazioni. Automi a pila. Algoritmo di riconoscimento di Cocke-Kasami-Young. Proprieta' di chiusura. Forma Normale di Chomsky. \r\nMacchina di Turing. \r\nVedi pagina Web personale",
+  "testiRiferimento": "Vedi pagina Web personale",
+  "ricevimento": "Vedi pagina Web personale",
+  "modalit\u00e0Esame": "null"
+}

@@ -1,0 +1,125 @@
+{
+  "nomeCorso": "Basi di dati e di conoscenza",
+  "docente": "Loredana Vigliano",
+  "annoAccademico": "2017-2018",
+  "crediti": "12",
+  "settore": "INF/01",
+  "anno": "2",
+  "semestre": "1-2",
+  "propedeuticit\u00e0": "Matematica discreta. Programmazione dei calcolatori con laboratorio.",
+  "comunicazioni": [
+    {
+      "titolo": "esami sessione autunnale",
+      "data": "28-09-2018 12:13",
+      "contenuto": "\nIV Appello\u00a0(V Appello per Bioinformatici)\n27 Settembre orali aula 3A con il seguente ordine :"
+    },
+    {
+      "titolo": "",
+      "data": "02-10-2017 18:33",
+      "contenuto": "\nATTENZIONE !!!!!!\u00a0: per poter sostenere l' esame (anche solo orale) \u00e8 necessario prenotarsi sul sito \u00a0delphi.uniroma2.it.\nATTENZIONE !!!!!!\u00a0 :\u00a0useremo la verbalizzazione automatica e quindi non sar\u00e0 pi\u00f9 possibile sostenere l'esame senza prenotazione!!!!!ESAMI PROPEDEUTICI : MD e PR"
+    }
+  ],
+  "lezioni": [
+    {
+      "id": "1",
+      "data": "02-10-2017",
+      "contenuto": "Orario primo semestre :\n\nLuned\u00ec ore 14-16 aula 13 o 17\nMarted\u00ec ore 16-18 aula 3A o 17"
+    }
+  ],
+  "materiale": [
+    {
+      "titolo": "Risultati del IV Appello del 24 Settembre 2018",
+      "dataUpload": "24.09.2018 20:07:41",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/BDC/risIVappello.pdf",
+      "dimensione": "57 KB"
+    },
+    {
+      "titolo": "Esame del 5 Febbraio 2018",
+      "dataUpload": "07.05.2018 17:20:05",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/BDC/VIappello.docx",
+      "dimensione": "18 KB"
+    },
+    {
+      "titolo": "11 Database NoSQL e MongoDB",
+      "dataUpload": "09.04.2018 17:30:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/BDC/12Database_NoSQL_en2.pdf",
+      "dimensione": "176 KB"
+    },
+    {
+      "titolo": "10 Ottimizzazione Query",
+      "dataUpload": "20.03.2018 13:12:46",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/BDC/07SqlTuning.pdf",
+      "dimensione": "5151 KB"
+    },
+    {
+      "titolo": "09 Architettura ottimizzatore MySQL",
+      "dataUpload": "20.03.2018 13:11:10",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/BDC/2terQuery_performance_optimization.pdf",
+      "dimensione": "170 KB"
+    },
+    {
+      "titolo": "08 Ottimizzazione Indici",
+      "dataUpload": "12.03.2018 17:43:17",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/BDC/08IndexTuning.pdf",
+      "dimensione": "6867 KB"
+    },
+    {
+      "titolo": "07 Organizzazione fisica dei dati",
+      "dataUpload": "08.03.2018 18:17:25",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/BDC/1organizzazione_fisica_dei_dati_senza_figure.pdf",
+      "dimensione": "445 KB"
+    },
+    {
+      "titolo": "Linee guida per il progetto di Basi di dati (cfu 12 Informatica)",
+      "dataUpload": "05.03.2018 15:21:19",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/BDC/guidaprogettoBasididati2018.pdf",
+      "dimensione": "70 KB"
+    },
+    {
+      "titolo": "06 Comando EXPLAIN",
+      "dataUpload": "13.12.2017 18:00:15",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/BDC/07Explain.pdf",
+      "dimensione": "3082 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "11.12.2017 15:16:33",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/BDC/5DBMSeSQL.pdf",
+      "dimensione": "164 KB"
+    },
+    {
+      "titolo": "",
+      "dataUpload": "22.11.2017 16:42:36",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/BDC/guidaprogettoBasididatibio.pdf",
+      "dimensione": "58 KB"
+    },
+    {
+      "titolo": "04 Modello concettuale, schema E-R logico e normalizzato",
+      "dataUpload": "08.11.2017 15:52:09",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/BDC/4Modconcettualeschemae-r.pdf",
+      "dimensione": "452 KB"
+    },
+    {
+      "titolo": "03 Algebra e Calcolo Relazionale",
+      "dataUpload": "17.10.2017 16:17:51",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/BDC/3algebra_calcolo_relazionale.pdf",
+      "dimensione": "302 KB"
+    },
+    {
+      "titolo": "01 Introduzione, storia e definizioni",
+      "dataUpload": "11.10.2017 16:01:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/BDC/1definizioni_storia.pdf",
+      "dimensione": "166 KB"
+    },
+    {
+      "titolo": "02 Modello relazionale",
+      "dataUpload": "09.10.2017 12:08:05",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/BDC/2modello relazionale.pdf",
+      "dimensione": "74 KB"
+    }
+  ],
+  "programma": "Introduzione\u00a0- Modello relazionale\u00a0- Algebra relazionale\u00a0- Calcolo relazionale\u00a0- Flusso di progetto e visione dei dati\u00a0- Modello concettuale dei dati\u00a0 - Disegno logico DB\u00a0  Schema Entity-relationship\u00a0 - Disegno fisico DB\u00a0 - Forme normali\u00a0 - Query language e implementazioni su mySQL\u00a0 DML\u00a0 SQL\u00a0  - Organizzazione fisica dei dati\u00a0 - Ottimizzazione degli indici\u00a0 - Normalizzazione e Denormalizzazione\u00a0 - Ottimizzazione delle interrogazioni\u00a0 ------ MySQL e ottimizzazioni\n- Transazioni\u00a0 ------ Locking a due fasi, Timestamp,MVCC\u00a0 ------ MySQL e Storage Engine\u00a0  - Basi di dati attive\u00a0 ------ Trigger e Stored Procedure\u00a0 ------ Cursor, Trigger e Stored Procedure in MySQL\n- Basi di dati\u00a0geospaziali e GIS\u00a0 - Basi di dati su architetture distribuite\u00a0 ------ Commit a due fasi\u00a0 - Architetture per l' analisi dei dati\u00a0 ------ Data Warehouse\u00a0 ------ Data Mining\n- \u00a0DB NoSQL : MongoDB  - Implementazione progetto",
+  "testiRiferimento": "- Atzeni,Ceri,Fraternali,Paraboschi,Torlone\u00a0Basi di dati -\u00a0ed. McGraw-Hill 4nd edition\u00a0(59 euro)\n(chi gi\u00e0 possiede i precedenti 2 libri pu\u00f2 utilizzarli)\n\n- Schwartz,Zaitsev,Tkachenko,Zawodny, Lentz & BallingHigh\u00a0Performance MySQL\u00a0ed. O'Reilly 2nd edition\n\n\n- lucidi di L. Vigliano presentati a Lezione\u00a0Consigliati :\u00a0 - Elmasri,Navathe Sistemi di basi di dati, Fondamenti e compementiPearson 7a edizione italiana",
+  "ricevimento": "Al termine di ogni lezione o previo appuntamento via mail",
+  "modalit\u00e0Esame": "L\u2019 esame comprende uno scritto, un progetto e un orale. Lo scritto pu\u00f2 essere conservato per un solo appello, eccetto per l\u2019 ultimo appello dell\u2019 anno accademico (non si pu\u00f2 conservare).\nNello specifico :\nse supero lo scritto a Giugno posso portare il progetto a Luglio\nse supero lo scritto a Luglio posso portare il progetto solo al primo appello di Settembre\nse supero lo scritto a Settembre posso portare il progetto solo al primo appello di Febbraio, poi stop.\nInfine il primo appello di Settembre e il primo appello di Gennaio/Febbraio sono riservati ai soli studenti che hanno superato lo scritto nell' appello precedente."
+}

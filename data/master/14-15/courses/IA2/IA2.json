@@ -1,0 +1,43 @@
+{
+  "nomeCorso": "Intelligenza artificiale 2",
+  "docente": "Maria Teresa Pazienza",
+  "annoAccademico": "2014-2015",
+  "crediti": "9",
+  "settore": "ING-INF/05",
+  "anno": "2",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [
+    {
+      "id": "5",
+      "data": "20-10-2014",
+      "contenuto": "inferenza deduttiva"
+    },
+    {
+      "id": "4",
+      "data": "17-10-2014",
+      "contenuto": "fome di ragionamento"
+    },
+    {
+      "id": "3",
+      "data": "13-10-2014",
+      "contenuto": "concettualizzazione"
+    },
+    {
+      "id": "2",
+      "data": "10-10-2014",
+      "contenuto": "rappresentazione della conoscenza, linguaggio naturale e ragionamento automatico"
+    },
+    {
+      "id": "1",
+      "data": "06-10-2014",
+      "contenuto": "presentazione del corso"
+    }
+  ],
+  "materiale": [],
+  "programma": "Interpretazionedellinguaggionaturalebasatasuontologie:\nCennidi NLP\nOntologie\nAnalisidelsignificatodeltestobasatasuontologie\n\nApplicazioni(es. IE, Q/A, reasoning)chetraggonovantaggiodaapproccimistibasatisuNLP eontologie",
+  "testiRiferimento": "Libro di testo: \u201cOntology-based Interpretation of Natural Language\u201d\nAutori: P. Cimiano, C. Unger, J. McCrae\nMorgan & Claypoolpublishers, 2014\n\n\nPresentazioni del docente e degli autori del libro di testodisponibili sulsito del corso",
+  "ricevimento": "Il docente riceve gli studenti a fine lezione o nel suo studio in giorni ed ore da concordarsi via mail",
+  "modalit\u00e0Esame": "prova orale.\nstudenti interessati potranno eventualmente richiedere al docente di partecipare ad una esperienza applicativa"
+}

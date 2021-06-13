@@ -1,0 +1,23 @@
+{
+  "nomeCorso": "Calcolo numerico",
+  "docente": "Carla Manni",
+  "annoAccademico": "2018-2019",
+  "crediti": "6",
+  "settore": "MAT/08",
+  "anno": "3",
+  "semestre": "1",
+  "propedeuticit\u00e0": "Analisi Matematica. Matematica discreta.",
+  "comunicazioni": [
+    {
+      "titolo": "AVVISO",
+      "data": "22-10-2018 06:39",
+      "contenuto": "LA LEZIONE DEL 22/10/2018 INIZIERA CON 15 MINUTI DI RITARDO PER IMPEGNI ISTITUZIONALI"
+    }
+  ],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Il corso illustra i principi della traduzione di modelli matematici in problemi aritmetici\nrisolubili con mezzi automatici. Aritmetica in virgola mobile e analisi dell\u2019errore. Algebra lineare\nnumerica: metodi diretti e metodi iterativi per sistemi lineari. Approssimazione di soluzioni di\nequazioni non lineari.\u00a0 Approssimazione e interpolazione polinomiale.\nPer maggiori dettagli si veda\nhttp://www.mat.uniroma2.it/~manni/AnNumI_1819.html",
+  "testiRiferimento": "si veda\u00a0\u00a0http://www.mat.uniroma2.it/~manni/AnNumI_1819.html",
+  "ricevimento": "ricevimento su appuntamento tramite e-mail a\u00a0 manni@mat.uniroma2.it",
+  "modalit\u00e0Esame": "L'esame consiste in una\u00a0 prova scritta ed in una prova orale"
+}

@@ -1,0 +1,36 @@
+{
+  "nomeCorso": "Sistemi distribuiti cooperativi",
+  "docente": "Franco Arcieri",
+  "annoAccademico": "2017-2018",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [
+    {
+      "titolo": "RFC SMTP Aggiornamento del 2008",
+      "dataUpload": "10.06.2018 16:38:26",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/SDC/rfc5321.pdf",
+      "dimensione": "336 KB"
+    },
+    {
+      "titolo": "RFC SMTP",
+      "dataUpload": "10.06.2018 16:36:34",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/SDC/rfc821.pdf",
+      "dimensione": "124 KB"
+    },
+    {
+      "titolo": "Linguaggio golang (https://golang.org)",
+      "dataUpload": "10.06.2018 16:35:04",
+      "link": "http://www.informatica.uniroma2.it/upload/2017/SDC/The Go Programming Language.pdf",
+      "dimensione": "7214 KB"
+    }
+  ],
+  "programma": "Architetture SSO: il modello di identit\u00e0 federata FIDO\nI documenti di definizione degli standard su Internet: RFC\nUn esempio di RFC: il Simple mail transfer Protocol\nEstensioni per la sicurezza e l\u2019autenticazione di SMTP\nUn\u2019architettura http per la tracciatura di transazioni complesse, lil modello a Y\nLe estensioni del protocollo HTTPS: SNI\nIl modello a Y in presenza di un application gateway\nCriticit\u00e0 di transazioni elementari: protocollo tcp e protocollo http\nEsercitazioni e laboratorio\nImplementazione in linguaggio go di un\u2019architettura http a Y",
+  "testiRiferimento": "null",
+  "ricevimento": "luned\u00ec e mercoled\u00ec, a studio su appuntamento.",
+  "modalit\u00e0Esame": "L\u2019esame prevede un prova ora sui temi tratati nel corso e sulle esercitazione svolte.\nStudenti lavoratori e studenti impossibilitati a seguire le lezioni sono pregati di contattare il docente per avere le dispense aggiornate."
+}

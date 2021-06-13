@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Sistemi distribuiti cooperativi",
+  "docente": "Franco Arcieri",
+  "annoAccademico": "2015-2016",
+  "crediti": "9",
+  "settore": "INF/01",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Cooperazione tra processi: peer e scambi informativi in ambiente distribuito\nModello di flussi di cooperazione\nRuolo di una terza parte \"fidata\"\nIntrusivit\u00e0 della terza parte \"fidata\"\nL'albero di cooperazione\nCertificazione della cooperazione\nCooperazione su protocolli di sicurezza (HTTPS)\nProcess mining: verifica \"on line\" dell'evoluzione di processi cooperativi distribuiti\nProcess mining: ricostruzione dell'evoluzione di processi cooperativi distribuiti\n\nEsercitazioni:\nPer le esercitazioni \u00e8 previsto l'uso del linguaggio SCHEME/GUILE",
+  "testiRiferimento": "Communicating Sequential Processes,\u00a0C. A. R. Hoare\nProcess mining manifesto,\u00a0Wil van der Aalst\nThe Guile Reference Manual, GNU OSF",
+  "ricevimento": "Studio: lunedi' e venerdi' dalle 10 alle 11 su appuntamento",
+  "modalit\u00e0Esame": "presentazione di un progetto e relativa discussione"
+}

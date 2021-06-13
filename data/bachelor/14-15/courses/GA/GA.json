@@ -1,0 +1,17 @@
+{
+  "nomeCorso": "Geometria ed algebra",
+  "docente": "Franco Ghione",
+  "annoAccademico": "2014-2015",
+  "crediti": "6",
+  "settore": "MAT/03",
+  "anno": "1",
+  "semestre": "2",
+  "propedeuticit\u00e0": "Nessuna",
+  "comunicazioni": [],
+  "lezioni": [],
+  "materiale": [],
+  "programma": "Geometria e Algebra\n\nCorso di Laurea Triennale in Informatica\n\nProf. Franco Ghione\n\na.a. 2014/2015\n\n\n\nProgramma\n\nAlgebra lineare ( I\u00b0 parte )\n\n\u00b7Lo spazio dei vettori numerici reali acomponenti\n\nDefinizione, combinazioni lineari, indipendenza e dipendenza lineare.\n\n\u00b7L\u2019algebra delle matrici reali\n\nIl linguaggio delle matrici e le principali operazioni (somma, prodotto, matrice trasposta, inversa, triangolare).\n\nMetodo di eliminazione di Gauss (per righe) eriduzione a scala di una matrice.\n\n\u00b7Sistemi di equazioni lineari omogenei e non omogenei\n\nRisoluzione con l\u2019algoritmo di Gauss.\n\n\u00b7Determinanti\n\nMetodo di Laplace (per righe e per colonne), propriet\u00e0, calcolo del determinante con il metodo di eliminazione di Gauss, relazione tra l\u2019annullamento del determinante di una matrice quadrata e la dipendenza lineare delle righe (o delle colonne), matrice inversa, calcolo dell\u2019inversa con l\u2019algoritmo di Gauss. La regola di Kramer\n\nAlgebra lineare ( II\u00b0 parte )\n\n\u00b7Spazi vettoriali sul campo reale e suF2.\n\n\u00b7Sottospazio vettoriali\n\n\u00b7Basi e dimensione di uno spazio vettoriale.\n\n\u00b7Intersezione e somma di due sottospazi vettoriali.\n\nFormula di Grassmann\n\n\u00b7Matrici e applicazioni lineari\n\nNucleo, Immagine, teorema principale.\n\nIl codice di Hamming.\n\nGeometria analitica\n\n\u00b7Lo spazio vettoriale dei vettori geometrici\n\nInterpretazione geometrica delle operazioni di somma e prodotto per uno scalare. Interpretazione geometrica della dipendenza e indipendenza lineare di vettori geometrici,\n\nProdotto scalare di due vettori geometrici. Basi ortonormali dello spazio dei vettori geometrici.\n\nProdotto scalare in Rn e formula di Shwartz.\n\n\u00b7Sistemi di coordinate cartesiane nello spazio.\n\nEquazioni parametriche e cartesiane di un piano. Equazioni parametriche di una retta. Relazioni di parallelismo e perpendicolarit\u00e0 tra rette e piani.\n\nObiettivi formativi\n\n\u00b7Riconoscere e risolvere in modo algoritmico un sistema di equazioni lineari.\n\n\u00b7Conoscere le basi del calcolo matriciale\n\n\u00b7Conoscere i concetti fondamentali sugli spazi vettoriali e sulle applicazioni lineari anche su campi finiti.\n\n\u00b7Conoscere le applicazioni dell\u2019algebra lineare alla geometria analitica dello spazio: rette, piani e loro relazioni.\n\nTesti consigliati\n\n\u00b7S.Lang, Algebra lineare, ed. Boringhieri\n\n\u00b7Note del corso di Geometria I del prof. Giambattista Marini, reperibili al sito\n\nhttp://www.mat.uniroma2.it/~marini/amg.pdf\n\n(Altre dispense di Algebra lineare si possono trovare in rete e sono essenzialmente equivalenti)\n\n\u00b7Esercizi di Geometria e Algebra lineare, reperibili ai siti\n\nhttp://www.dm.unito.it/quadernididattici/abbena/nuovo01.pdf\n\nhttp://www.dmf.unisalento.it/~calvaruso/Homepage/pages/esercizi.pdf\n\n\n\n\n\nModalit\u00e0 di accertamento\n\n\u00b7Esame scritto composto da 5 domande a risposta multipla e un tema.\n\n\u00b7Colloquio orale di discussione sull\u2019elaborato scritto.",
+  "testiRiferimento": "null",
+  "ricevimento": "null",
+  "modalit\u00e0Esame": "null"
+}
